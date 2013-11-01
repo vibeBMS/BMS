@@ -1,0 +1,22 @@
+name: bmseeker
+description: Build bmseeker (vibeBMS/BMSeeker) with its CLI and put it on the PATH
+
+runs:
+  using: composite
+  steps:
+    - uses: actions/checkout@v4
+      with:
+        repository: vibeBMS/BMSeeker
+        path: bmseeker
+    - uses: actions/cache@v4
+      with:
+        path: |
+          ~/.cargo/registry
+          ~/.cargo/git
+          bmseeker/target
+        key: bmseeker-${{ runner.os }}-${{ hashFiles('bmseeker/Cargo.lock') }}
+        restore-keys: bmseeker-${{ runner.os }}-
+    - shell: bash
+      run: |
+        cargo build --release --features cli --manifest-path bmseeker/Cargo.toml
+        echo "$GITHUB_WORKSPACE/bmseeker/target/release" >> "$GITHUB_PATH"
