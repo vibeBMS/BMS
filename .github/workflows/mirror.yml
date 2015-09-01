@@ -1,0 +1,102 @@
+name: Mirror an event
+
+# Copies the archives listed in <event>/works.json into the release named
+# after the event. Runs again skip what is already there, so a run that
+# hit download limits is finished by running it again later.
+
+on:
+  workflow_dispatch:
+    inputs:
+      event:
+        description: Event folder (and release tag)
+        default: bof22
+      only:
+        description: Work numbers to try, comma separated (empty = all)
+        default: ""
+      replace:
+        description: Download the listed works again, replacing their files
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mirror-${{ inputs.event }}
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create the release if needed
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENT: ${{ inputs.event }}
+        run: |
+          title=$(python3 -c 'import json,sys; print(next((e["name"] + ": " + e["title"] for e in json.load(open("events.json")) if e["tag"] == sys.argv[1]), sys.argv[1]))' "$EVENT")
+          gh release view "$EVENT" >/dev/null 2>&1 || \
+            gh release create "$EVENT" --title "$title" \
+              --notes-file "$EVENT/RELEASE.md" --latest=false --target "$GITHUB_SHA"
+
+  mirror:
+    needs: release
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      # a few at a time: Google Drive limits downloads per address
+      max-parallel: 4
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Tools
+        run: |
+          sudo apt-get update -q && sudo apt-get install -y -q megatools
+          pip install -q gdown requests
+          # OneDrive share pages (tools/browser_download.js)
+          npm install --no-save --no-package-lock playwright@1.49.1
+          npx playwright install --with-deps chromium
+      - name: Mirror
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENT: ${{ inputs.event }}
+          ONLY: ${{ inputs.only }}
+          REPLACE: ${{ inputs.replace }}
+        run: |
+          python3 tools/mirror.py "$EVENT" --shard "${{ matrix.shard }}/10" \
+            --hours 5.2 ${ONLY:+--only "$ONLY"} \
+            $([ "$REPLACE" = true ] && [ -n "$ONLY" ] && echo --replace)
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: failed-${{ matrix.shard }}
+          path: failed-*.json
+          if-no-files-found: ignore
+
+  index:
+    needs: mirror
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: index.json
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENT: ${{ inputs.event }}
+        run: |
+          python3 tools/label.py "$EVENT"
+          python3 tools/index.py "$EVENT" > index.json
+          gh release upload "$EVENT" index.json --clobber
+          python3 - <<'EOF' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          w = json.load(open("index.json"))
+          have = sum(bool(x["files"]) for x in w)
+          print(f"### {have} of {len(w)} works mirrored\n")
+          missing = [x for x in w if not x["files"]]
+          if missing:
+              print("| No. | title | original page |\n|---|---|---|")
+              for x in missing:
+                  print(f"| {x['num']} | {x['title']} | [page]({x['page']}) |")
+          EOF
