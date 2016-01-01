@@ -1,0 +1,112 @@
+name: Check links
+
+# For the events that are not mirrored (and the works a mirrored one lacks):
+# download each work's links (with
+# bmseeker, from vibeBMS/BMSeeker) to see which still work and what they hold
+# (the song, an add-on, media), into <event>/links.jsonl (with `search`, for a
+# work whose links all fail, the links the sources know for it too); then write the
+# event's index.json, which orders the links by it (tools/index.py).
+# A run is cut at about five hours per event and goes on from there the
+# next time; results are kept for 30 days (failures: a day).
+
+on:
+  workflow_dispatch:
+    inputs:
+      events:
+        description: Event folders, comma separated (empty = all not mirrored)
+        default: ""
+      search:
+        description: Works whose links all fail - also the links the sources know for them (BMS SEARCH)
+        type: boolean
+        default: false
+      third_party:
+        description: Also third parties' copies (dead uploaders' mirrors, the community archive)
+        type: boolean
+        default: false
+  schedule:
+    # Mondays
+    - cron: "17 4 * * 1"
+
+permissions:
+  contents: write
+
+# one run per list of events at a time (another list runs beside it: each
+# pushes its own events' files); a run waiting for its turn is replaced by
+# a newer one of the same list
+concurrency:
+  group: check-links-${{ inputs.events || 'all' }}
+
+jobs:
+  events:
+    runs-on: ubuntu-latest
+    outputs:
+      list: ${{ steps.list.outputs.list }}
+    steps:
+      - uses: actions/checkout@v7
+      - id: list
+        env:
+          EVENTS: ${{ inputs.events }}
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, os
+          given = [e for e in os.environ.get("EVENTS", "").split(",") if e.strip()]
+          events = given or [e["tag"] for e in json.load(open("events.json")) if not e.get("mirror")]
+          print("list=" + json.dumps([e.strip() for e in events]))
+          PY
+
+  check:
+    needs: events
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        event: ${{ fromJson(needs.events.outputs.list) }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: ./.github/actions/bmseeker
+      - name: Check
+        env:
+          EV: ${{ matrix.event }}
+          SEARCH: ${{ inputs.search && '--search' || '' }}
+          THIRD_PARTY: ${{ inputs.third_party && '--third-party' || '' }}
+        run: |
+          # earlier checks: links.jsonl (records), else the old links.json
+          known="$EV/links.jsonl"; [ -f "$known" ] || known="$EV/links.json"
+          # a mirrored event: only its works the mirror lacks
+          python3 - "$EV" > "$RUNNER_TEMP/works.json" <<'PY'
+          import json, sys
+          ev = sys.argv[1]
+          works = json.load(open(ev + "/works.json"))
+          if any(e["tag"] == ev and e.get("mirror") for e in json.load(open("events.json"))):
+              have = {w["num"] for w in json.load(open(ev + "/index.json")) if w.get("files")}
+              works = [w for w in works if w["num"] not in have and w.get("kind") != "Disq"]
+          json.dump(works, sys.stdout, ensure_ascii=False)
+          PY
+          works="$RUNNER_TEMP/works.json"
+          echo "$(python3 -c 'import json,sys; print(len(json.load(open(sys.argv[1]))))' "$works") works to check"
+          if bmseeker $THIRD_PARTY event check "$works" --known "$known" --minutes 290 $SEARCH \
+              > "$EV/links.new" 2> check.log; then
+            mv "$EV/links.new" "$EV/links.jsonl"
+            [ -f "$EV/links.json" ] && git rm -q "$EV/links.json"
+          else
+            rm -f "$EV/links.new"
+          fi
+          tail -n 40 check.log
+          python3 - "$EV" >> "$GITHUB_STEP_SUMMARY" <<'PY'
+          import collections, json, os, sys
+          ev = sys.argv[1]
+          c = collections.Counter()
+          path = ev + "/links.jsonl"
+          for line in open(path) if os.path.exists(path) else []:
+              v = json.loads(line)
+              c[v["state"] + ("/" + v["kind"] if v.get("kind") else "")] += 1
+          print("| %s | %s |" % (ev, ", ".join("%s %d" % kv for kv in sorted(c.items()))))
+          PY
+      - name: index.json
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git add -A "${{ matrix.event }}/"
+          tools/publish_index.sh "${{ matrix.event }}"

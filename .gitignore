@@ -1,0 +1,4 @@
+__pycache__/
+failed-*.json
+/index.json
+/bmseeker/
