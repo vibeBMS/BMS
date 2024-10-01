@@ -1,0 +1,47 @@
+name: Tidy releases
+
+# GitHub orders releases by the date of their tag. Each event's tag is moved
+# to a commit dated when the event was held (events.json "date"), so the
+# releases read newest event first; each release is titled
+# "<name>: <title>", and the newest event is the latest release.
+
+on:
+  workflow_dispatch:
+    inputs:
+      events:
+        description: Event folders, comma separated (empty = all in events.json)
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: index-events
+
+jobs:
+  tidy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Tags, titles, latest
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENTS: ${{ inputs.events }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          tree=$(git rev-parse 'HEAD^{tree}')
+          python3 -c 'import json; [print(e["tag"], e["date"], e["name"] + ": " + e["title"]) for e in json.load(open("events.json"))]' > events.txt
+          newest=$(head -1 events.txt | cut -d' ' -f1)
+          while read -r tag date title; do
+            case ",$EVENTS," in ",,"|*",$tag,"*) ;; *) continue ;; esac
+            gh release view "$tag" >/dev/null 2>&1 || { echo "no release $tag"; continue; }
+            export GIT_AUTHOR_DATE="${date}T12:00:00Z" GIT_COMMITTER_DATE="${date}T12:00:00Z"
+            commit=$(git commit-tree "$tree" -m "$title")
+            git tag -f -a "$tag" "$commit" -m "$title"
+            git push -f origin "refs/tags/$tag"
+            unset GIT_AUTHOR_DATE GIT_COMMITTER_DATE
+            gh release edit "$tag" --title "$title" --latest=false
+            echo "$tag: $date, $title"
+          done < events.txt
+          gh release edit "$newest" --latest
