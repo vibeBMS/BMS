@@ -47,9 +47,9 @@ In release `bof22`:
   venue page, and for each file its URL, size and original name. Works
   that could not be mirrored list their original links instead.
 
-When a work offers several versions, the mirror takes one: ogg over wav,
-the high quality BGA over the low one, the latest full package over
-patches for earlier downloads. The choice is in `works.json` (`main`,
+When a work offers several versions, the mirror takes one: the one marked
+high quality (HQ, 高画質) over the low quality one, then ogg over wav, and
+the latest full package over patches for earlier downloads. The choice is in `works.json` (`main`,
 `extra`); `overrides.json` holds the hand-made ones.
 
 ## How it is made
