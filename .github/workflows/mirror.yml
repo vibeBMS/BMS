@@ -86,12 +86,10 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           EVENT: ${{ inputs.event }}
         run: |
-          python3 tools/label.py "$EVENT"
-          python3 tools/index.py "$EVENT" > index.json
-          gh release upload "$EVENT" index.json --clobber
-          python3 - <<'EOF' >> "$GITHUB_STEP_SUMMARY"
-          import json
-          w = json.load(open("index.json"))
+          tools/publish_index.sh "$EVENT"
+          python3 - "$EVENT" <<'EOF' >> "$GITHUB_STEP_SUMMARY"
+          import json, sys
+          w = json.load(open(sys.argv[1] + "/index.json"))
           have = sum(bool(x["files"]) for x in w)
           print(f"### {have} of {len(w)} works mirrored\n")
           missing = [x for x in w if not x["files"]]

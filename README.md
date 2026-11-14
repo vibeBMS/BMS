@@ -107,3 +107,7 @@ the latest full package over patches for earlier downloads. The choice is in `wo
   download limits clear after a day).
 - The **Index events** workflow writes `index.json` into the releases of
   the events in `events.json` (creating them), mirrored or not.
+- `tools/publish_index.sh` (both workflows) also commits each event's
+  `index.json` to `<event>/index.json` here: players read that copy from
+  raw.githubusercontent.com, which web pages may fetch (release downloads
+  carry no CORS headers).

@@ -33,8 +33,8 @@ jobs:
             title=$(python3 -c 'import json,sys; print(next(e["name"] + ": " + e["title"] for e in json.load(open("events.json")) if e["tag"] == sys.argv[1]))' "$ev")
             gh release view "$ev" >/dev/null 2>&1 || \
               gh release create "$ev" --title "$title" --notes-file "$ev/RELEASE.md" --latest=false --target "$GITHUB_SHA"
-            python3 tools/label.py "$ev"
-            python3 tools/index.py "$ev" > index.json
-            gh release upload "$ev" index.json --clobber
-            python3 -c 'import json,sys; w=json.load(open("index.json")); print("| %s | %d works | %d mirrored |" % (sys.argv[1], len(w), sum(bool(x["files"]) for x in w)))' "$ev" >> "$GITHUB_STEP_SUMMARY"
+          done
+          tools/publish_index.sh ${list//,/ }
+          for ev in ${list//,/ }; do
+            python3 -c 'import json,sys; w=json.load(open(sys.argv[1] + "/index.json")); print("| %s | %d works | %d mirrored |" % (sys.argv[1], len(w), sum(bool(x["files"]) for x in w)))' "$ev" >> "$GITHUB_STEP_SUMMARY"
           done
