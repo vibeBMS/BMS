@@ -6,6 +6,9 @@
     [{"num": 42, "title": ..., "artist": ..., "team": ..., "page": ...,
       "files": [{"name": "042.zip", "url": ..., "size": ..., "original": ...}]}]
 
+An asset uploaded by hand has no label; the work's `"originals"` (from
+overrides.json: {"040.zip": "the original file name"}) names its file.
+
 Works without files (not mirrored yet, or only downloadable by hand)
 keep their `links` so a player can send people to the original pages.
 """
@@ -32,7 +35,8 @@ def main():
         if w.get("kind") == "Disq":
             continue
         files = [
-            {"name": a["name"], "url": a["url"], "size": a["size"], "original": a.get("label") or a["name"]}
+            {"name": a["name"], "url": a["url"], "size": a["size"],
+             "original": a.get("label") or w.get("originals", {}).get(a["name"]) or a["name"]}
             for _, a in sorted(by_num.get(w["num"], []), key=lambda x: x[0])
         ]
         e = {k: w[k] for k in ("num", "title", "artist", "team", "kind", "page")}

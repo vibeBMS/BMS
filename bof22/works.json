@@ -871,7 +871,11 @@
   "main": [
    "https://ponytailrecord.com/BOF22/KanataS_Terrific_Revelry_ogg.zip"
   ],
-  "extra": []
+  "extra": [],
+  "originals": {
+   "040.zip": "KanataS_Terrific_Revelry_ogg.zip"
+  },
+  "note": "the host refuses GitHub runners; 040.zip was uploaded by hand"
  },
  {
   "num": 41,

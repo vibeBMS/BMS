@@ -36,6 +36,12 @@
   "extra": [],
   "note": "v2 full; the patch is for earlier downloads"
  },
+ "40": {
+  "originals": {
+   "040.zip": "KanataS_Terrific_Revelry_ogg.zip"
+  },
+  "note": "the host refuses GitHub runners; 040.zip was uploaded by hand"
+ },
  "52": {
   "main": [
    "https://1drv.ms/u/c/a0c1d9bf771fd1a1/IQAw4KTrjh6pRIjBTD9FEjM2AVTcVcXWZJqcJ3d-_pQkD7c?e=hSCgxz",
