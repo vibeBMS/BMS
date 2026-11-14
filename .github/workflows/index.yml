@@ -1,0 +1,40 @@
+name: Index events
+
+# Writes index.json into the release of each event (creating the release if
+# needed): the mirrored files, or for an event that is not mirrored, the
+# authors' download links.
+
+on:
+  workflow_dispatch:
+    inputs:
+      events:
+        description: Event folders, comma separated (empty = all in events.json)
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: index-events
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: index.json
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENTS: ${{ inputs.events }}
+        run: |
+          list="$EVENTS"
+          [ -n "$list" ] || list=$(python3 -c 'import json; print(",".join(e["tag"] for e in json.load(open("events.json"))))')
+          for ev in ${list//,/ }; do
+            title=$(python3 -c 'import json,sys; print(next(e["name"] + ": " + e["title"] for e in json.load(open("events.json")) if e["tag"] == sys.argv[1]))' "$ev")
+            gh release view "$ev" >/dev/null 2>&1 || \
+              gh release create "$ev" --title "$title" --notes-file "$ev/RELEASE.md" --target "$GITHUB_SHA"
+            python3 tools/label.py "$ev"
+            python3 tools/index.py "$ev" > index.json
+            gh release upload "$ev" index.json --clobber
+            python3 -c 'import json,sys; w=json.load(open("index.json")); print("| %s | %d works | %d mirrored |" % (sys.argv[1], len(w), sum(bool(x["files"]) for x in w)))' "$ev" >> "$GITHUB_STEP_SUMMARY"
+          done

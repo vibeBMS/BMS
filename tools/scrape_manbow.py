@@ -39,11 +39,25 @@ def text(s: str) -> str:
 
 MIRROR = re.compile(r"mirror|ミラー|予備|backup|alt\b|サブ|sub\b", re.I)
 EXTRA = re.compile(
-    r"追加|差分|add|extra|patch|修正|update|fix|bonus|dp譜面|dp chart|別譜面|譜面のみ|charts? only",
+    r"追加|差分|add|append|extra|patch|修正|update|fix|bonus|dp譜面|dp chart|別譜面|譜面のみ|charts? only|new \w* ?charts?",
     re.I,
 )
+# a full package, though its label speaks of a fix or an update
+FULL = re.compile(
+    r"new ?(ver|link|package|upload|download)|^\W*new\W*$|最新|latest|fixed ?ver|complete|^\W*本体|recommend|推奨|以降はこちら",
+    re.I,
+)
+# a package with its fixes and additions in ("本体(差分適用済)")
+APPLIED = re.compile(r"適用済|applied|includ|同梱|込み|全部入り", re.I)
+# for those who downloaded an earlier version: a patch
+EARLIER = re.compile(r"以前に.{0,24}(dl|ダウンロード)|before .{0,24}download|for package before", re.I)
+AGAIN = re.compile(r"再度|もう一度|re-?download", re.I)
+# what only adds to a package ("差分のみ", "BGA only")
+ADDON_ONLY = re.compile(r"のみ|だけ|only|単体|差分|patch|sabun", re.I)
 # HQ / LQ marks outweigh the audio format: an HQ wav beats an LQ ogg
 GOOD = [
+    # the newer of an old and a new version
+    (re.compile(r"new ?(ver|link|package|upload|download)|^\W*new\W*$|最新|latest|fixed|修正版|recommend|推奨|以降はこちら|updated", re.I), 3),
     (re.compile(r"hq|高画質|高品質|high ?quality", re.I), 6),
     (re.compile(r"ogg", re.I), 4),
     (re.compile(r"high|beatoraja|mp4|full|完全", re.I), 2),
@@ -52,10 +66,23 @@ BAD = [
     (re.compile(r"lq|低画質|低品質|low ?quality", re.I), -6),
     (re.compile(r"wav|flac", re.I), -4),
     (re.compile(r"low|lr2|mpg|wmv|compact|lite|軽量|no ?bga|bga ?(なし|無し)|without", re.I), -2),
+    (OLD := re.compile(r"\bold\b|old ?ver|旧|not fixed", re.I), -3),
+    # a team's songs in one archive
+    (re.compile(r"チーム曲|チーム.{0,8}全部入り|team ?pack|all (team )?songs", re.I), -8),
 ]
 # a separate BGA archive ("BGA only", "HQ BGA", "高画質BGA")
-BGA_ONLY = re.compile(r"bga ?(only|単体|のみ)|only ?bga|^\W*(hq |sd画質|高画質|仮の)?bga\b", re.I)
-HQ = GOOD[0][0]
+BGA_ONLY = re.compile(r"bga ?(only|単体|のみ)|only ?bga|^\W*(hq ?|sd画質|高画質|仮の)?bga\b", re.I)
+# "beatoraja用高画質BGA (HQ BGA for beatoraja)": a high quality BGA alone,
+# unless the label speaks of a package ("ogg HQ BGA", "HQBGA版")
+HQ_BGA = re.compile(r"(高画質|hq|hd) ?bga", re.I)
+PACKAGE = re.compile(r"本体|bms|ogg|wav|package|パッケージ|full|同梱|込|入り|with|版|ver", re.I)
+
+
+def bga_only(label: str) -> bool:
+    return bool(BGA_ONLY.search(label) or HQ_BGA.search(label) and not PACKAGE.search(label))
+
+
+HQ = GOOD[1][0]
 LQ = BAD[0][0]
 HOSTS = re.compile(
     r"g-?drive|google ?drive|drive|dropbox|onedrive|one ?drive|mega|mediafire|url ?\d*|link|dl|download|ダウンロード|[\[\]()（）:：・\-]",
@@ -117,7 +144,7 @@ def bga_versions(links) -> bool:
 def score(label: str, url: str, versions: bool = False) -> int:
     label = label + " " + file_part(url)
     s = sum(w for r, w in GOOD if r.search(label)) + sum(w for r, w in BAD if r.search(label))
-    if BGA_ONLY.search(label) and not versions:
+    if bga_only(label) and not versions:
         s -= 14
     if MIRROR.search(label):
         s -= 1
@@ -132,12 +159,29 @@ def pick(links):
     """(main urls in the order to try, extra archives, why to review)"""
     if not links:
         return [], [], "no link"
-    extra_links = [(l, u) for l, u in links if EXTRA.search(l) and not re.search(r"ogg|wav", l, re.I)]
-    rest = [(l, u) for l, u in links if (l, u) not in extra_links] or links
-    versions = bga_versions(rest)
+    versions = bga_versions(links)
+
+    def addon(l: str) -> bool:
+        if bga_only(l) and not versions or EARLIER.search(l) and not AGAIN.search(l):
+            return True
+        if FULL.search(l) and not ADDON_ONLY.search(l) or OLD.search(l) or APPLIED.search(l):
+            return False
+        return bool(EXTRA.search(l)) and not re.search(r"ogg|wav", l, re.I)
+
+    extra_links = [(l, u) for l, u in links if addon(l)]
+    rest = [(l, u) for l, u in links if (l, u) not in extra_links]
+    if not rest:
+        # every link adds to a package: the best one that is not a BGA
+        # alone is the package, the others stay add-ons
+        rest = [(l, u) for l, u in links if not bga_only(l)] or links
+        top = max(rest, key=lambda x: score(x[0], x[1], versions))
+        rest = [x for x in rest if variant(x[0]) == variant(top[0])]
+    extra_links = [x for x in extra_links if x not in rest]
     sc = {u: score(l, u, versions) for l, u in rest}
     best = max(rest, key=lambda x: sc[x[1]])
     key = variant(best[0])
+    # a mirror of the main archive is no add-on
+    extra_links = [x for x in extra_links if variant(x[0]) != key]
     main = [best[1]] + [u for l, u in rest if u != best[1] and variant(l) == key and not is_folder(u) and sc[u] >= sc[best[1]] - 1]
     extra = []
     for l, u in extra_links:
