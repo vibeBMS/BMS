@@ -26,8 +26,12 @@ published it**.
 | THE BMS OF FIGHTERS 2008 - Resurrection - | [`bof2008`](../../releases/tag/bof2008) | links only | [bof2008/works.json](bof2008/works.json) |
 | BOF III - THE BMS OF FIGHTERS 2006 - | [`bof2006`](../../releases/tag/bof2006) | links only | [bof2006/works.json](bof2006/works.json) |
 
-`events.json` lists them for players: tag, short name, title, venue
-number, whether the archives are mirrored, and the URL of `index.json`.
+`events.json` lists them for players, newest first: tag, short name,
+title, venue number, the month it was held, whether the archives are
+mirrored, and the URL of `index.json`. The **Tidy releases** workflow
+orders the releases by that date (each tag points at a commit of that
+date), names them "BOF22: THE BMS OF FIGHTERS 22 - …" and marks the
+newest event as the latest release.
 
 ## Why this is allowed
 

@@ -37,7 +37,7 @@ jobs:
           title=$(python3 -c 'import json,sys; print(next((e["name"] + ": " + e["title"] for e in json.load(open("events.json")) if e["tag"] == sys.argv[1]), sys.argv[1]))' "$EVENT")
           gh release view "$EVENT" >/dev/null 2>&1 || \
             gh release create "$EVENT" --title "$title" \
-              --notes-file "$EVENT/RELEASE.md" --target "$GITHUB_SHA"
+              --notes-file "$EVENT/RELEASE.md" --latest=false --target "$GITHUB_SHA"
 
   mirror:
     needs: release
