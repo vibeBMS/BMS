@@ -50,6 +50,9 @@ jobs:
         run: |
           sudo apt-get update -q && sudo apt-get install -y -q megatools
           pip install -q gdown requests
+          # OneDrive share pages (tools/browser_download.js)
+          npm install --no-save --no-package-lock playwright@1.49.1
+          npx playwright install --with-deps chromium
       - name: Mirror
         env:
           GH_TOKEN: ${{ github.token }}

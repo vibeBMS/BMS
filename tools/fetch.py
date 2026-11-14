@@ -4,7 +4,8 @@
     tools/fetch.py URL DIR      -> prints the saved file's path
 
 Google Drive (files and folders), Dropbox, MediaFire, MEGA (megadl from
-megatools), OneDrive and plain web servers. What arrives must be an
+megatools), OneDrive (newer share links through their page in a headless
+browser: tools/browser_download.js) and plain web servers. What arrives must be an
 archive (zip, rar, 7z), a single chart file or a movie (a BGA posted on
 its own); a web page is an error.
 """
@@ -151,6 +152,8 @@ def onedrive(url: str, dest: Path) -> Path:
     try:
         return stream(f"https://api.onedrive.com/v1.0/shares/u!{token}/root/content", dest)
     except FetchError:
+        pass
+    try:
         s = requests.Session()
         s.headers["User-Agent"] = UA
         r = s.get(url, timeout=60, allow_redirects=True)
@@ -160,7 +163,23 @@ def onedrive(url: str, dest: Path) -> Path:
             u = u.replace("redir", "download")
         elif "sharepoint.com" in u or "1drv.ms" in u:
             u += ("&" if "?" in u else "?") + "download=1"
-        return stream(u, dest, s)
+        out = stream(u, dest, s)
+        if kind(out):
+            return out
+        out.unlink(missing_ok=True)
+    except FetchError:
+        pass
+    # newer share links only download from their page
+    return browser(url, dest)
+
+
+def browser(url: str, dest: Path) -> Path:
+    """The share page's Download button, pressed in a headless browser."""
+    script = Path(__file__).with_name("browser_download.js")
+    r = subprocess.run(["node", str(script), url, str(dest)], capture_output=True, text=True, timeout=1800)
+    if r.returncode != 0:
+        raise FetchError(r.stderr.strip().splitlines()[-1] if r.stderr.strip() else "browser download failed")
+    return Path(r.stdout.strip().splitlines()[-1])
 
 
 def dropbox(url: str, dest: Path) -> Path:
