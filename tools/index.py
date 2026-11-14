@@ -42,7 +42,9 @@ def main():
         e = {k: w[k] for k in ("num", "title", "artist", "team", "kind", "page")}
         e["files"] = files
         if not files:
-            e["links"] = [l["url"] for l in w["links"]]
+            # the chosen archive first, then its add-ons, then the others
+            first = w.get("main", []) + [u for g in w.get("extra", []) for u in g]
+            e["links"] = first + [l["url"] for l in w["links"] if l["url"] not in first]
         out.append(e)
     json.dump(out, sys.stdout, ensure_ascii=False, indent=1)
     print()

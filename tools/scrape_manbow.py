@@ -44,7 +44,7 @@ EXTRA = re.compile(
 )
 # a full package, though its label speaks of a fix or an update
 FULL = re.compile(
-    r"new ?(ver|link|package|upload|download)|^\W*new\W*$|最新|latest|fixed ?ver|complete|^\W*本体|recommend|推奨|以降はこちら",
+    r"new ?(ver|link|package|upload|download)|^\W*new\W*$|最新|latest|fixed ?ver|complete|^\W*本体|recommend|推奨|以降はこちら|updated|更新版",
     re.I,
 )
 # a package with its fixes and additions in ("本体(差分適用済)")
@@ -68,10 +68,10 @@ BAD = [
     (re.compile(r"low|lr2|mpg|wmv|compact|lite|軽量|no ?bga|bga ?(なし|無し)|without", re.I), -2),
     (OLD := re.compile(r"\bold\b|old ?ver|旧|not fixed", re.I), -3),
     # a team's songs in one archive
-    (re.compile(r"チーム曲|チーム.{0,8}全部入り|team ?pack|all (team )?songs", re.I), -8),
+    (re.compile(r"チーム曲|チーム.{0,12}(全部入り|パッケージ)|team\b.{0,40}pack|all (team )?songs", re.I), -8),
 ]
 # a separate BGA archive ("BGA only", "HQ BGA", "高画質BGA")
-BGA_ONLY = re.compile(r"bga ?(only|単体|のみ)|only ?bga|^\W*(hq ?|sd画質|高画質|仮の)?bga\b", re.I)
+BGA_ONLY = re.compile(r"bga ?(only|単体|のみ)|only ?bga|^\W*(hq ?|sd画質|高画質|仮の|updated |new |fixed )?bga\b", re.I)
 # "beatoraja用高画質BGA (HQ BGA for beatoraja)": a high quality BGA alone,
 # unless the label speaks of a package ("ogg HQ BGA", "HQBGA版")
 HQ_BGA = re.compile(r"(高画質|hq|hd) ?bga", re.I)
