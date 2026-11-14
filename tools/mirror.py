@@ -18,6 +18,7 @@ $GITHUB_STEP_SUMMARY).
 import argparse
 import json
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -43,7 +44,13 @@ def assets(tag: str) -> set:
 
 
 def has(existing: set, stem: str) -> bool:
-    return any(n.rsplit(".", 1)[0] == stem for n in existing)
+    # by number: a file uploaded by hand may be "40.zip" for "040"
+    key = tuple(int(x) for x in stem.split("+"))
+    for n in existing:
+        m = re.match(r"(\d+)(?:\+(\d+))?\.", n)
+        if m and (int(m.group(1)),) + ((int(m.group(2)),) if m.group(2) else ()) == key:
+            return True
+    return False
 
 
 def get_one(urls, work_dir: Path):

@@ -85,6 +85,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           EVENT: ${{ inputs.event }}
         run: |
+          python3 tools/label.py "$EVENT"
           python3 tools/index.py "$EVENT" > index.json
           gh release upload "$EVENT" index.json --clobber
           python3 - <<'EOF' >> "$GITHUB_STEP_SUMMARY"
