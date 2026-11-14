@@ -25,6 +25,8 @@ published it**.
 | THE BMS OF FIGHTERS 2009 - revolutionary battles - | [`bof2009`](../../releases/tag/bof2009) | links only | [bof2009/works.json](bof2009/works.json) |
 | THE BMS OF FIGHTERS 2008 - Resurrection - | [`bof2008`](../../releases/tag/bof2008) | links only | [bof2008/works.json](bof2008/works.json) |
 | BOF III - THE BMS OF FIGHTERS 2006 - | [`bof2006`](../../releases/tag/bof2006) | links only | [bof2006/works.json](bof2006/works.json) |
+| BMS OF FIGHTERS 2005 | [`bof2005`](../../releases/tag/bof2005) | links only | [bof2005/works.json](bof2005/works.json) |
+| BMS OF FIGHTERS 2004 | [`bof2004`](../../releases/tag/bof2004) | links only | [bof2004/works.json](bof2004/works.json) |
 
 `events.json` lists them for players, newest first: tag, short name,
 title, venue number, the month it was held, whether the archives are
@@ -54,7 +56,7 @@ Japanese sentence of BOF21 and BOF22.
 Earlier events limit that agreement to the event period (BOF:NT and
 BOF:ET: "…by the event organizer or volunteers during the event period";
 BOF2011 to BOF:XV: 「イベント開催期間中に限り、…」), or their rules
-could not be found. For those, `index.json` only lists the authors' own
+could not be found (BOFU2015, BOF2010 and earlier). For those, `index.json` only lists the authors' own
 download links: nothing is copied.
 
 So this mirror:

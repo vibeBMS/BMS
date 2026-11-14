@@ -215,6 +215,9 @@ def main():
     works = []
     for row in re.findall(r"<tr\s*>(.*?)</tr>", urls, re.S):
         tds = re.findall(r"<td>(.*?)</td>", row, re.S)
+        if len(tds) == 5:
+            # events up to 2005 have no team column
+            tds.insert(2, "")
         if len(tds) < 6:
             continue
         num = int(text(tds[0]))

@@ -160,5 +160,23 @@
   "date": "2006-09-01",
   "mirror": false,
   "index": "https://github.com/vibeBMS/BMS/releases/download/bof2006/index.json"
+ },
+ {
+  "tag": "bof2005",
+  "name": "BOF2005",
+  "title": "BMS OF FIGHTERS 2005",
+  "venue": 22,
+  "date": "2005-09-01",
+  "mirror": false,
+  "index": "https://github.com/vibeBMS/BMS/releases/download/bof2005/index.json"
+ },
+ {
+  "tag": "bof2004",
+  "name": "BOF2004",
+  "title": "BMS OF FIGHTERS 2004",
+  "venue": 17,
+  "date": "2004-09-01",
+  "mirror": false,
+  "index": "https://github.com/vibeBMS/BMS/releases/download/bof2004/index.json"
  }
 ]
