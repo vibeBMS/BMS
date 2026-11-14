@@ -74,6 +74,8 @@ def main():
     ap.add_argument("--shard", default="0/1")
     ap.add_argument("--hours", type=float, default=5.0)
     ap.add_argument("--only", help="comma separated work numbers")
+    ap.add_argument("--replace", action="store_true",
+                    help="download --only works again and replace their assets")
     a = ap.parse_args()
     i, n = map(int, a.shard.split("/"))
     deadline = time.time() + a.hours * 3600
@@ -89,7 +91,7 @@ def main():
             continue
         jobs = [(f"{num:03}", w["main"])] + [(f"{num:03}+{k}", urls) for k, urls in enumerate(w["extra"], 1)]
         for stem, urls in jobs:
-            if has(existing, stem):
+            if has(existing, stem) and not (a.replace and only):
                 continue
             if time.time() > deadline:
                 skipped.append(stem)

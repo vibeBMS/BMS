@@ -13,6 +13,10 @@ on:
       only:
         description: Work numbers to try, comma separated (empty = all)
         default: ""
+      replace:
+        description: Download the listed works again, replacing their files
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -58,9 +62,11 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           EVENT: ${{ inputs.event }}
           ONLY: ${{ inputs.only }}
+          REPLACE: ${{ inputs.replace }}
         run: |
           python3 tools/mirror.py "$EVENT" --shard "${{ matrix.shard }}/10" \
-            --hours 5.2 ${ONLY:+--only "$ONLY"}
+            --hours 5.2 ${ONLY:+--only "$ONLY"} \
+            $([ "$REPLACE" = true ] && [ -n "$ONLY" ] && echo --replace)
       - uses: actions/upload-artifact@v4
         if: always()
         with:
