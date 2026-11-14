@@ -6,7 +6,7 @@
   "venue": 152,
   "date": "2026-10-01",
   "mirror": true,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bof22/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bof22/index.json"
  },
  {
   "tag": "bof21",
@@ -15,7 +15,7 @@
   "venue": 149,
   "date": "2025-10-01",
   "mirror": true,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bof21/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bof21/index.json"
  },
  {
   "tag": "boftt",
@@ -24,7 +24,7 @@
   "venue": 146,
   "date": "2024-10-01",
   "mirror": true,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/boftt/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/boftt/index.json"
  },
  {
   "tag": "bofnt",
@@ -33,7 +33,7 @@
   "venue": 142,
   "date": "2023-10-01",
   "mirror": false,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bofnt/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bofnt/index.json"
  },
  {
   "tag": "bofet",
@@ -42,7 +42,7 @@
   "venue": 140,
   "date": "2022-10-01",
   "mirror": false,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bofet/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bofet/index.json"
  },
  {
   "tag": "bofxvii",
@@ -51,7 +51,7 @@
   "venue": 137,
   "date": "2021-11-01",
   "mirror": true,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bofxvii/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bofxvii/index.json"
  },
  {
   "tag": "bofxvi",
@@ -60,7 +60,7 @@
   "venue": 133,
   "date": "2020-11-01",
   "mirror": true,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bofxvi/index.json"
  },
  {
   "tag": "bofxv",
@@ -69,7 +69,7 @@
   "venue": 127,
   "date": "2019-10-01",
   "mirror": false,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bofxv/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bofxv/index.json"
  },
  {
   "tag": "bofu2017",
@@ -78,7 +78,7 @@
   "venue": 116,
   "date": "2017-10-01",
   "mirror": false,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bofu2017/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bofu2017/index.json"
  },
  {
   "tag": "bofu2016",
@@ -87,7 +87,7 @@
   "venue": 110,
   "date": "2016-10-01",
   "mirror": false,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bofu2016/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bofu2016/index.json"
  },
  {
   "tag": "bofu2015",
@@ -96,7 +96,7 @@
   "venue": 104,
   "date": "2015-09-01",
   "mirror": false,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bofu2015/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bofu2015/index.json"
  },
  {
   "tag": "bof2013",
@@ -105,7 +105,7 @@
   "venue": 88,
   "date": "2013-09-01",
   "mirror": false,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bof2013/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bof2013/index.json"
  },
  {
   "tag": "bof2012",
@@ -114,7 +114,7 @@
   "venue": 83,
   "date": "2012-09-01",
   "mirror": false,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bof2012/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bof2012/index.json"
  },
  {
   "tag": "bof2011",
@@ -123,7 +123,7 @@
   "venue": 74,
   "date": "2011-09-01",
   "mirror": false,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bof2011/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bof2011/index.json"
  },
  {
   "tag": "bof2010",
@@ -132,7 +132,7 @@
   "venue": 65,
   "date": "2010-09-01",
   "mirror": false,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bof2010/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bof2010/index.json"
  },
  {
   "tag": "bof2009",
@@ -141,7 +141,7 @@
   "venue": 60,
   "date": "2009-09-01",
   "mirror": false,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bof2009/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bof2009/index.json"
  },
  {
   "tag": "bof2008",
@@ -150,7 +150,7 @@
   "venue": 54,
   "date": "2008-09-01",
   "mirror": false,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bof2008/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bof2008/index.json"
  },
  {
   "tag": "bof2006",
@@ -159,7 +159,7 @@
   "venue": 36,
   "date": "2006-09-01",
   "mirror": false,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bof2006/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bof2006/index.json"
  },
  {
   "tag": "bof2005",
@@ -168,7 +168,7 @@
   "venue": 22,
   "date": "2005-09-01",
   "mirror": false,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bof2005/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bof2005/index.json"
  },
  {
   "tag": "bof2004",
@@ -177,6 +177,6 @@
   "venue": 17,
   "date": "2004-09-01",
   "mirror": false,
-  "index": "https://github.com/vibeBMS/BMS/releases/download/bof2004/index.json"
+  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/bof2004/index.json"
  }
 ]
