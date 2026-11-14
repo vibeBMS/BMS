@@ -5,7 +5,8 @@
 
 Google Drive (files and folders), Dropbox, MediaFire, MEGA (megadl from
 megatools), OneDrive and plain web servers. What arrives must be an
-archive (zip, rar, 7z) or a single chart file; a web page is an error.
+archive (zip, rar, 7z), a single chart file or a movie (a BGA posted on
+its own); a web page is an error.
 """
 
 import base64
@@ -22,6 +23,8 @@ import requests
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"
 ARCHIVES = (".zip", ".rar", ".7z")
 CHARTS = (".bms", ".bme", ".bml", ".pms", ".bmson")
+# a BGA posted on its own (an add-on: higher quality movie for the archive)
+VIDEOS = (".mp4", ".avi", ".wmv", ".mpg", ".mpeg", ".webm", ".m4v", ".mkv")
 
 
 class FetchError(Exception):
@@ -29,7 +32,7 @@ class FetchError(Exception):
 
 
 def kind(path: Path) -> str:
-    """'zip', 'rar', '7z', 'chart' or '' (from the first bytes)."""
+    """'zip', 'rar', '7z', 'chart', 'video' or '' (from the first bytes)."""
     head = path.open("rb").read(8)
     if head.startswith(b"PK\x03\x04") or head.startswith(b"PK\x05\x06"):
         return "zip"
@@ -37,8 +40,11 @@ def kind(path: Path) -> str:
         return "rar"
     if head.startswith(b"7z\xbc\xaf\x27\x1c"):
         return "7z"
-    if path.suffix.lower() in CHARTS and not head.lstrip().lower().startswith((b"<!doc", b"<html")):
+    page = head.lstrip().lower().startswith((b"<!doc", b"<html"))
+    if path.suffix.lower() in CHARTS and not page:
         return "chart"
+    if path.suffix.lower() in VIDEOS and not page:
+        return "video"
     return ""
 
 
