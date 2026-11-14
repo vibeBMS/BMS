@@ -27,7 +27,7 @@ published it**.
 | BOF III - THE BMS OF FIGHTERS 2006 - | [`bof2006`](../../releases/tag/bof2006) | links only | [bof2006/works.json](bof2006/works.json) |
 
 `events.json` lists them for players: tag, short name, title, venue
-number and whether the archives are mirrored.
+number, whether the archives are mirrored, and the URL of `index.json`.
 
 ## Why this is allowed
 
