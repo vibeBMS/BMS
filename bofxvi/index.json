@@ -2458,9 +2458,13 @@
   "team": "POSITIVE ENERGY",
   "kind": "Remix",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=165&event=133",
-  "files": [],
-  "links": [
-   "https://1drv.ms/u/s!AodogG7jJNekf-njQKH5SgO7auc?e=nEqveS"
+  "files": [
+   {
+    "name": "165.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/165.zip",
+    "size": 133509499,
+    "original": "DCLMBNBTCTDRDVDVBTV_Fm_201103.zip"
+   }
   ]
  },
  {
@@ -2938,10 +2942,19 @@
   "team": "=”・v・”=",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=200&event=133",
-  "files": [],
-  "links": [
-   "http://www.luzeria.net/music/xx_tamamo_ogg.zip",
-   "http://www.luzeria.net/music/xx_tamamo_dp.zip"
+  "files": [
+   {
+    "name": "200.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/200.zip",
+    "size": 270630236,
+    "original": "xx_tamamo_ogg.zip"
+   },
+   {
+    "name": "200+1.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/200%2B1.zip",
+    "size": 43641,
+    "original": "xx_tamamo_dp.zip"
+   }
   ]
  },
  {
@@ -3148,11 +3161,13 @@
   "team": "代打三兄弟",
   "kind": "Remix",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=133",
-  "files": [],
-  "links": [
-   "http://www.luzeria.net/music/93_strawhat_is_forever_ogg_fix.zip",
-   "http://daida.tv/bms/93_strawhat_is_forever_ogg.zip",
-   "http://www.luzeria.net/music/93_strawhat_is_forever_ogg.zip"
+  "files": [
+   {
+    "name": "214.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/214.zip",
+    "size": 866159,
+    "original": "93_strawhat_is_forever_ogg_fix.zip"
+   }
   ]
  },
  {
@@ -3951,10 +3966,13 @@
   "team": "あ",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=263&event=133",
-  "files": [],
-  "links": [
-   "http://www.luzeria.net/music/94_freewheeling_ogg.zip",
-   "http://www.luzeria.net/music/94_freewheeling_ogg_lq.zip"
+  "files": [
+   {
+    "name": "263.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/263.zip",
+    "size": 197486430,
+    "original": "94_freewheeling_ogg.zip"
+   }
   ]
  },
  {
@@ -3992,6 +4010,12 @@
     "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/265%2B1.zip",
     "size": 147437232,
     "original": "sudden impact(bga include A fix).zip"
+   },
+   {
+    "name": "265+2.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/265%2B2.zip",
+    "size": 63590440,
+    "original": "sudden impact(no bga A fix).zip"
    }
   ]
  },
@@ -5958,6 +5982,12 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=133",
   "files": [
    {
+    "name": "389.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/389.zip",
+    "size": 24107857,
+    "original": "1103_War in the Mirrorworld[ogg].zip"
+   },
+   {
     "name": "389+1.mp4",
     "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/389%2B1.mp4",
     "size": 148310676,
@@ -6410,11 +6440,25 @@
   "team": "YOUtopia",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=418&event=133",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1XZIyYq8ziPby7h5RGRrhHR6Ys6-uroEa/view?usp=sharing",
-   "https://drive.google.com/file/d/1XWs8SYcccnhPSPkhMw3mhDDhlDqBlDEa/view?usp=sharing",
-   "https://drive.google.com/file/d/1M48RpfKWZrujeJyKWQwmxNayiM5MiIEq/view?usp=sharing"
+  "files": [
+   {
+    "name": "418.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/418.zip",
+    "size": 69415108,
+    "original": "VanishingGlimmer(20201128_updated).zip"
+   },
+   {
+    "name": "418+1.mpg",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/418%2B1.mpg",
+    "size": 41711616,
+    "original": "bga01.mpg"
+   },
+   {
+    "name": "418+2.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/418%2B2.zip",
+    "size": 66508,
+    "original": "VanishingGlimmer[ogg]_bms.zip"
+   }
   ]
  },
  {
@@ -6922,9 +6966,13 @@
   "team": "XVIDEOS",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=449&event=133",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1-KKujmAV-kT2jjuEJ8J0urMv7gXTDabT/view?usp=sharing"
+  "files": [
+   {
+    "name": "449.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/449.zip",
+    "size": 1043483,
+    "original": "[XVIDEOS] BMS Playing Practice.zip"
+   }
   ]
  },
  {
@@ -7070,9 +7118,13 @@
   "team": "walabulishbyhord",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=459&event=133",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/199Izssm7VJOJh5Zhv1dFv7Tru-OAs0q_/view?usp=sharing"
+  "files": [
+   {
+    "name": "459.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/459.zip",
+    "size": 26150784,
+    "original": "[walabulishbyhord] ChronoX.zip"
+   }
   ]
  },
  {
@@ -7210,9 +7262,13 @@
   "team": "DokiDoki Enka Club",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=133",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/10bCNeQDWxeqa7bky2o9vcGtParDgUfPv/view?usp=sharing"
+  "files": [
+   {
+    "name": "469.rar",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/469.rar",
+    "size": 178288555,
+    "original": "[DDEC]UMO_bakuon_touge_misaki.rar"
+   }
   ]
  },
  {
@@ -7272,9 +7328,13 @@
   "team": "devolved",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=473&event=133",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1UhFyzBZGGfyq34QXWBM4_G1sp7fKMq8E/view?usp=sharing"
+  "files": [
+   {
+    "name": "473.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/473.zip",
+    "size": 13299293,
+    "original": "[Atto vs rN] A World's Farewell.zip"
+   }
   ]
  },
  {
@@ -7360,9 +7420,13 @@
   "team": "Chapter 2.",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=479&event=133",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1QE2A2ZW2FzhG43j00S29zEmuzuofHabq/view?usp=sharing"
+  "files": [
+   {
+    "name": "479.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/479.zip",
+    "size": 24743830,
+    "original": "[Chapter2]TerraOrca.zip"
+   }
   ]
  },
  {
@@ -7476,9 +7540,13 @@
   "team": "弟の弟",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=488&event=133",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1CNVJ5fTowneEAwdTl6XZ1WFmtp_-Xk4h/view?usp=sharing"
+  "files": [
+   {
+    "name": "488.7z",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/488.7z",
+    "size": 50892395,
+    "original": "[Grey]Lobe.7z"
+   }
   ]
  },
  {
@@ -7488,10 +7556,13 @@
   "team": "オモゐデ漁船",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=489&event=133",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1SlKk758PpR60qgNa7P0hecbeS_pyP61l/view?usp=sharing",
-   "https://drive.google.com/file/d/1gxlMmBjEn9QCNpDO029CY4tDDuVRIOZF/view?usp=sharing"
+  "files": [
+   {
+    "name": "489.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/489.zip",
+    "size": 14833025,
+    "original": "【BOFXVI】えびです - DANCING KIWI (ogg).zip"
+   }
   ]
  },
  {
@@ -7545,10 +7616,13 @@
   "team": "absurd crossbreed",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=493&event=133",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/14PfknS9eorDqVG2ntze_180n5iF-Ns3C/view?usp=sharing",
-   "https://drive.google.com/file/d/1Y1azXY5GxBfrblJTcu6yFluraZCk8wWg/view?usp=sharing"
+  "files": [
+   {
+    "name": "493.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/493.zip",
+    "size": 18112059,
+    "original": "The_Observer_OGG.zip"
+   }
   ]
  },
  {
@@ -7631,10 +7705,13 @@
   "team": "エモ散らかし",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=499&event=133",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/10yK8BX0fErXafeR9iqV5w-r9t8VxGNCz/view?usp=sharing",
-   "https://drive.google.com/file/d/1dRZjCshr2s-EwlKZutYOLjkmJPW4Gamt/view?usp=sharing"
+  "files": [
+   {
+    "name": "499.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/499.zip",
+    "size": 14912924,
+    "original": "[エモ散らかし]_キミとぼくらのぼうけんたん。_[BOFXVI]_ogg.zip"
+   }
   ]
  },
  {
@@ -7692,10 +7769,19 @@
   "team": "Breakbeat Symphony",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=503&event=133",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1TQ6tpHuiFSSy9QseBBwQKL5Pn6CNFLJ8/view?usp=sharing",
-   "https://drive.google.com/file/d/1US7y4RNgo6gLyv5hultcdSlyjJJ1RCEA/view?usp=sharing"
+  "files": [
+   {
+    "name": "503.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/503.zip",
+    "size": 70618857,
+    "original": "hpx-nymphomaniac.zip"
+   },
+   {
+    "name": "503+1.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/503%2B1.zip",
+    "size": 134677,
+    "original": "hpx-nymphomaniac_update.zip"
+   }
   ]
  },
  {
@@ -7771,10 +7857,13 @@
   "team": "未定",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=508&event=133",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/17W_RNxJD73j_atNlOVsVOUcBsup1k6PO/view?usp=sharing",
-   "https://drive.google.com/file/d/1QII3k6F9eXhewq1Tti70VFibs4YTm3_E/view?usp=sharing"
+  "files": [
+   {
+    "name": "508.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/508.zip",
+    "size": 109146034,
+    "original": "daybreak_trip_original_bga.zip"
+   }
   ]
  }
 ]
