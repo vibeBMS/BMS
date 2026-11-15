@@ -4676,9 +4676,13 @@
   "team": "代打三兄弟",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=283&event=146",
-  "files": [],
-  "links": [
-   "https://www.luzeria.net/music/109_universtep_ogg.zip"
+  "files": [
+   {
+    "name": "283.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/283.zip",
+    "size": 142255953,
+    "original": "109_universtep_ogg.zip"
+   }
   ]
  },
  {
@@ -4720,9 +4724,13 @@
   "team": "悠久笈歌",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=286&event=146",
-  "files": [],
-  "links": [
-   "https://www.luzeria.net/music/110_rendabodhi_ogg.zip"
+  "files": [
+   {
+    "name": "286.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/286.zip",
+    "size": 120878615,
+    "original": "110_rendabodhi_ogg.zip"
+   }
   ]
  },
  {
@@ -4732,10 +4740,19 @@
   "team": "悠久笈歌",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=287&event=146",
-  "files": [],
-  "links": [
-   "https://www.luzeria.net/music/xx_suppressor_ogg.zip",
-   "https://www.luzeria.net/music/xx_suppressor_dp.zip"
+  "files": [
+   {
+    "name": "287.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/287.zip",
+    "size": 59090052,
+    "original": "xx_suppressor_ogg.zip"
+   },
+   {
+    "name": "287+1.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/287%2B1.zip",
+    "size": 64792,
+    "original": "xx_suppressor_dp.zip"
+   }
   ]
  },
  {
@@ -4959,9 +4976,13 @@
   "team": "悠久笈歌",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=301&event=146",
-  "files": [],
-  "links": [
-   "https://www.luzeria.net/music/xx_sirohakko_ogg.zip"
+  "files": [
+   {
+    "name": "301.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/301.zip",
+    "size": 202243922,
+    "original": "xx_sirohakko_ogg.zip"
+   }
   ]
  },
  {
@@ -5964,9 +5985,13 @@
   "team": "Mining Minor",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=366&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/drive/folders/1VKLYLANtBxnGCRg-hxUBd5gxwlDJxYm6?dmr=1&ec=wgc-drive-hero-goto"
+  "files": [
+   {
+    "name": "366.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/366.zip",
+    "size": 32096309,
+    "original": "free_float_landroot_ogg.zip"
+   }
   ]
  },
  {
@@ -6072,9 +6097,13 @@
   "team": "ネコ検定",
   "kind": "Arrange",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=373&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1lcOpuIVxNtzDovlyAALZ00YTP3h97KGy/view?usp=drive_link"
+  "files": [
+   {
+    "name": "373.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/373.zip",
+    "size": 154619010,
+    "original": "Preture.zip"
+   }
   ]
  },
  {
@@ -6220,9 +6249,13 @@
   "team": "ネコ検定",
   "kind": "Remix",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=383&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1lVA5zV7GSAM9invTrO-4B8bbevwzhqbO/view?usp=drive_link"
+  "files": [
+   {
+    "name": "383.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/383.zip",
+    "size": 136988814,
+    "original": "MyClass.zip"
+   }
   ]
  },
  {
@@ -6264,9 +6297,13 @@
   "team": "THE 要",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=386&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1DWZBiqNGGCvhOLdLeAY--QgSzSlgIITL/view?usp=sharing"
+  "files": [
+   {
+    "name": "386.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/386.zip",
+    "size": 100254527,
+    "original": "56 ふわり。(可不 ver.).zip"
+   }
   ]
  },
  {
@@ -6386,9 +6423,13 @@
   "team": "Unisoncode",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=395&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1dbyQxtkcZZEDjcmUYEYjfQDxLmuIBJGo/view?usp=drive_link"
+  "files": [
+   {
+    "name": "395.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/395.zip",
+    "size": 350146846,
+    "original": "[雨林]So Depression.zip"
+   }
   ]
  },
  {
@@ -6398,10 +6439,13 @@
   "team": "Chaotic Dark Blue",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=396&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/17ZdYnoOkqcbw-Emf-xBNOm8m1WyxeZBZ/view?usp=sharing",
-   "https://mega.nz/file/p1onwTqR#ROsOMdspRDGZ0nlmnsiTFTrLwX7Kn0xBraqJhNwgBI0"
+  "files": [
+   {
+    "name": "396.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/396.zip",
+    "size": 18415058,
+    "original": "[dj adrichii x officialaz3] high blood.zip"
+   }
   ]
  },
  {
@@ -6475,9 +6519,13 @@
   "team": "PUNCH OUT -SEASON VII-",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=401&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1uxiQkAqiHovXWsglzJdUKOxkQk0IHwZK/view?usp=sharing"
+  "files": [
+   {
+    "name": "401.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/401.zip",
+    "size": 91700621,
+    "original": "[Capsluck]Music_Auto_Connected.zip"
+   }
   ]
  },
  {
@@ -6509,9 +6557,13 @@
   "team": "理系女子に恋して100万年(2年目)",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=403&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1S39g7q3i7x49ExP1rxZDFe9TDmC6EsiG/view?usp=sharing"
+  "files": [
+   {
+    "name": "403.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/403.zip",
+    "size": 45787686,
+    "original": "usb_nk - AllerFond_ogg.zip"
+   }
   ]
  },
  {
@@ -6537,9 +6589,13 @@
   "team": "PLANETARY ANNIHILATION",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=405&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1HoiHd7Dk4F8CPTbjj2ZofHVNz7-kcw3P/view?usp=sharing"
+  "files": [
+   {
+    "name": "405.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/405.zip",
+    "size": 44404444,
+    "original": "The world trembles in the terminal.zip"
+   }
   ]
  },
  {
@@ -6641,9 +6697,13 @@
   "team": "代打三兄弟",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=411&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/131nfSZQ4dt_zd0U_176l-y526mrKSrdK/view?usp=drive_link"
+  "files": [
+   {
+    "name": "411.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/411.zip",
+    "size": 66708767,
+    "original": "spine_wasawasa_ogg.zip"
+   }
   ]
  },
  {
@@ -6669,12 +6729,13 @@
   "team": "クソデカビッグファイヤ",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=413&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1B3T2EE5YBAe9oHND5mCA5xZ92F3VsVr3/view?usp=drive_link",
-   "https://drive.google.com/drive/folders/1m2kXdiqy13vm0_y8OwJJw5Z9neZS7-8D?usp=drive_link",
-   "https://drive.google.com/file/d/1ioAOr48v5KUmrqVerZzPAq7wrhVxibzW/view?usp=drive_link",
-   "https://drive.google.com/file/d/1kvwd0Ug4jCF5jU9eTWA2AaQgW-B7NO7J/view?usp=drive_link"
+  "files": [
+   {
+    "name": "413.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/413.zip",
+    "size": 60986260,
+    "original": "MNSOGG.zip"
+   }
   ]
  },
  {
@@ -6684,13 +6745,37 @@
   "team": "4 of a Kind",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=414&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/13fU4scZGSrwqRNLhHAYZvZLG_X5YglSS/view?usp=sharing",
-   "https://drive.google.com/file/d/1FGHSVJNRnoNaI-Os5zR9W4vnyc1W8Lcv/view?usp=drive_link",
-   "https://drive.google.com/file/d/1Gv5Vs2XICZTAtXc7NbfRaGhdRWtEOZMy/view?usp=sharing",
-   "https://drive.google.com/file/d/1qblMokQJhDqox5u0on4CwDlRrxSUzxBY/view?usp=drive_link",
-   "https://drive.google.com/file/d/1bDCbTblb6uC9DzgVZe0Kb3EB-KU1EDDh/view?usp=drive_link"
+  "files": [
+   {
+    "name": "414.7z",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/414.7z",
+    "size": 401576665,
+    "original": "[4OfAKind]L_ST (Unlocked).7z"
+   },
+   {
+    "name": "414+1.7z",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/414%2B1.7z",
+    "size": 401549107,
+    "original": "[4OfAKind]L_ST.7z"
+   },
+   {
+    "name": "414+2.7z",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/414%2B2.7z",
+    "size": 149907705,
+    "original": "[4OfAKind]L_ST (Unlocked & BGA Separate).7z"
+   },
+   {
+    "name": "414+3.7z",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/414%2B3.7z",
+    "size": 149879595,
+    "original": "[4OfAKind]L_ST (BGA Separate).7z"
+   },
+   {
+    "name": "414+4.7z",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/414%2B4.7z",
+    "size": 251658551,
+    "original": "[4OfAKind]L_ST(BGA Only).7z"
+   }
   ]
  },
  {
@@ -6716,10 +6801,19 @@
   "team": "73KB",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=416&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1auE-4rRpy1bfouBWswMbP_GIEy-R9B7X/view?usp=drive_link",
-   "https://drive.google.com/file/d/1OXzuJOBSXYQkoOtn4MsZM4rxovpPT_vP/view?usp=drive_link"
+  "files": [
+   {
+    "name": "416.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/416.zip",
+    "size": 36140042,
+    "original": "[otoshi.b]Natsu_no_owari_no_Serenade_ogg.zip"
+   },
+   {
+    "name": "416+1.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/416%2B1.zip",
+    "size": 21338,
+    "original": "[otoshi.b]Natsu_no_owari_no_Serenade_AppendChart.zip"
+   }
   ]
  },
  {
@@ -6789,9 +6883,13 @@
   "team": "MUMEI Academy bms 研究会",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=421&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1O0A7e5FgEbFLkwy9lgHg5K2XAH_iRasq/view?usp=drive_link"
+  "files": [
+   {
+    "name": "421.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/421.zip",
+    "size": 69275473,
+    "original": "[Gimo]Re：Call-ection.zip"
+   }
   ]
  },
  {
@@ -6817,9 +6915,13 @@
   "team": "The Tower",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=423&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1VnxHVN8Kt8HDq0odzUVatp9aC2n9SBAS/view?usp=drive_link"
+  "files": [
+   {
+    "name": "423.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/423.zip",
+    "size": 335205573,
+    "original": "[sasakure+armytom]eureka.zip"
+   }
   ]
  },
  {
@@ -6829,9 +6931,13 @@
   "team": "もしかしてPANDARS",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=424&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/open?id=1cRPX8rId3dl8EvYPCk0PeannppBcG_6T&usp=drive_fs"
+  "files": [
+   {
+    "name": "424.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/424.zip",
+    "size": 31692086,
+    "original": "makino_egure.zip"
+   }
   ]
  },
  {
@@ -6841,9 +6947,13 @@
   "team": "StoryTeller",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=425&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1JwX2a5N9ihYVkJvEQ-dmgXfSvXaLIYMg/view?usp=sharing"
+  "files": [
+   {
+    "name": "425.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/425.zip",
+    "size": 66691193,
+    "original": "[StoryTeller]Hoshiko_FallensWarCry.zip"
+   }
   ]
  },
  {
@@ -6930,9 +7040,13 @@
   "team": "Vector Tech",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=431&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/drive/folders/1pTbrzuMpBnzR6PXJt6zr_kT4hMTHkm5L?usp=sharing"
+  "files": [
+   {
+    "name": "431.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/431.zip",
+    "size": 97616249,
+    "original": "ogg.zip"
+   }
   ]
  },
  {
@@ -6942,9 +7056,13 @@
   "team": "T.A.R.O.T.",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=432&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1D818QLiYaiFnKIZ490z3mlR59I1IkV-h/view?usp=sharing"
+  "files": [
+   {
+    "name": "432.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/432.zip",
+    "size": 72217879,
+    "original": "[T.A.R.O.T.] amaamatotetsubonbon.zip"
+   }
   ]
  },
  {
@@ -6999,12 +7117,13 @@
   "team": "#______",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=436&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1HtSPeXsg1jAX_N0-CVvclTPCm3mEpSOp/view?usp=drive_link",
-   "https://drive.google.com/file/d/1_3wofrRrOCZTCDv2P5-FxOvqIMvLg7hn/view?usp=drive_link",
-   "https://drive.google.com/file/d/1qkjx2GrVLfbWlqccgED-gG2IFdU02kIp/view?usp=drive_link",
-   "https://drive.google.com/file/d/1nlUZ7CU-GTHTeSGKeusO6fCE9jEDbyqz/view?usp=drive_link"
+  "files": [
+   {
+    "name": "436.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/436.zip",
+    "size": 78663194,
+    "original": "[maroni468]daybreakskyline[ogg,wmv].zip"
+   }
   ]
  },
  {
@@ -7036,12 +7155,13 @@
   "team": "東3局",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=438&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1T6ZIHKkG8q3vzyJa-4R-jsYR3u1xPab_/view?usp=sharing",
-   "https://drive.google.com/file/d/11ityjrasIO25rwA3jTGhTTTj01T1dVlf/view?usp=sharing",
-   "https://drive.google.com/file/d/1QvlRhCkn4U-K375FB4EugTpxvdglSSTm/view?usp=sharing",
-   "https://drive.google.com/file/d/1t6UJuJg-4ycxvVyhvtMUJOC2WJJodKWt/view?usp=sharing"
+  "files": [
+   {
+    "name": "438.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/438.zip",
+    "size": 157457849,
+    "original": "bga(HQ).zip"
+   }
   ]
  },
  {
@@ -7067,9 +7187,13 @@
   "team": "The Tower",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=440&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1sUG04O3T4-5uWmSwcvYNHgotvgEeBStc/view?usp=drive_link"
+  "files": [
+   {
+    "name": "440.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/440.zip",
+    "size": 335631062,
+    "original": "[hangneil+atomicsphere]tower_of_nirv.zip"
+   }
   ]
  },
  {
@@ -7079,10 +7203,19 @@
   "team": "7P.M. Luv Club",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=441&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/10FJ03wuq7NlDcwwYqbWPvHSum09vX669/view?usp=sharing",
-   "https://drive.google.com/file/d/17fZ8z7goBTvV-9_RBqTrz1CjGxRumMG5/view?usp=sharing"
+  "files": [
+   {
+    "name": "441.rar",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/441.rar",
+    "size": 58211642,
+    "original": "Dann, Viel Erfolg - Pororoca.rar"
+   },
+   {
+    "name": "441+1.rar",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/441%2B1.rar",
+    "size": 1865522,
+    "original": "(追加差分+BGIのみ)Dann, Viel Erfolg - Pororoca.rar"
+   }
   ]
  },
  {
@@ -7104,9 +7237,13 @@
   "team": "もしかしてPANDARS",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=443&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1082dw9HRK5lCpAl2mo1tG2fGWl3UUu-2/view?usp=drive_link"
+  "files": [
+   {
+    "name": "443.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/443.zip",
+    "size": 53183943,
+    "original": "cybermiso-eclectic_ghost_disco_as_Ectoplasm.zip"
+   }
   ]
  },
  {
@@ -7116,10 +7253,13 @@
   "team": "NEO sample FACTORY",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1TgbomyeetVqiKhCDay1UlMDpgEqXaaG6/view?usp=drive_link",
-   "https://drive.google.com/file/d/1KvJw5iaFs6dNctdw3l1ruoIfTcGGjCMI/view?usp=drive_link"
+  "files": [
+   {
+    "name": "444.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/444.zip",
+    "size": 50069813,
+    "original": "macguffin24-2_ogg.zip"
+   }
   ]
  },
  {
@@ -7145,9 +7285,13 @@
   "team": "牡鹿",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=446&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1FlqUXjGFczkZJ--56Rh2y0036Z0qh6rA/view?usp=sharing"
+  "files": [
+   {
+    "name": "446.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/446.zip",
+    "size": 28541120,
+    "original": "[Xiba]INNER_INVISIBLE.zip"
+   }
   ]
  },
  {
@@ -7185,10 +7329,19 @@
   "team": "7P.M. Luv Club",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=448&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1YuYkV6dGrCo-2m_d3pKSxaoxhkwDSxao/view?usp=drive_link",
-   "https://drive.google.com/file/d/1KhzWR7xoZBrlgBWpZugTEg6FfF_0MQyb/view?usp=drive_link"
+  "files": [
+   {
+    "name": "448.rar",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/448.rar",
+    "size": 94782140,
+    "original": "鴟目、春縹渺に闢きて - Pororoca.rar"
+   },
+   {
+    "name": "448+1.rar",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/448%2B1.rar",
+    "size": 1700721,
+    "original": "(追加差分+BGIのみ)鴟目、春縹渺に闢きて - Pororoca.rar"
+   }
   ]
  },
  {
@@ -7198,9 +7351,13 @@
   "team": "Ultimate Ravers",
   "kind": "Remix",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=449&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1InLTBeFSsBe7681HzPlwXRbt8jLYu5QJ/view?usp=sharing"
+  "files": [
+   {
+    "name": "449.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/449.zip",
+    "size": 27075785,
+    "original": "[Ultimate Ravers] Epistrofi (Axya's Fantasy Rawstyle Remix).zip"
+   }
   ]
  },
  {
@@ -7242,9 +7399,13 @@
   "team": "StoryTeller",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=452&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1c00IYSsaB_xbKQh9-vf3ANrvpOwc3Kss/view?usp=sharing"
+  "files": [
+   {
+    "name": "452.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/452.zip",
+    "size": 259867418,
+    "original": "[StoryTeller]Moirai.zip"
+   }
   ]
  },
  {
@@ -7276,10 +7437,13 @@
   "team": "GOFROG",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=454&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1EBx60h18UQERLyQa-UXSlF8sQERSmYgS/view?usp=sharing",
-   "https://drive.google.com/file/d/1IOKLwRlqYzNZ-FoD_oYpmdAkX2zAaDrj/view?usp=sharing"
+  "files": [
+   {
+    "name": "454.7z",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/454.7z",
+    "size": 9941787,
+    "original": "[GOFROG] What's Your Name! THAT'S YOUR NAME! - melon.7z"
+   }
   ]
  },
  {
@@ -7289,9 +7453,13 @@
   "team": "Team Awesome People",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=455&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1ASCTbsW7FA50sk_XW31WmHOi0yYxnlRl/view?usp=sharing"
+  "files": [
+   {
+    "name": "455.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/455.zip",
+    "size": 172254948,
+    "original": "skiBiMS.zip"
+   }
   ]
  },
  {
@@ -7301,9 +7469,13 @@
   "team": "9/5 the Gathering",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=456&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/11BN64W-XS2A9jdHppnM3LYdDQmahgX4c/view?usp=sharing"
+  "files": [
+   {
+    "name": "456.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/456.zip",
+    "size": 16271893,
+    "original": "[9-5_Gatharing]Lime_Particle_ogg.zip"
+   }
   ]
  },
  {
@@ -7329,9 +7501,13 @@
   "team": "StoryTeller",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=458&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1zcWBm2pu3TUnNMP5jk40WqS_fSAspZLc/view?usp=sharing"
+  "files": [
+   {
+    "name": "458.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/458.zip",
+    "size": 103145448,
+    "original": "[StoryTeller]Pooh5821_XXJudgement.zip"
+   }
   ]
  },
  {
@@ -7357,12 +7533,13 @@
   "team": "牡鹿",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=460&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1HNso0g3uN3sqdIfH7A2mRSa-LCq9WWtL/view?usp=sharing",
-   "https://drive.google.com/file/d/1Sv378Mv2XY19uA9Uo5ylqHetUhfilg42/view?usp=sharing",
-   "https://drive.google.com/file/d/18DPexnzJAxmoSiJ7_qAnvCk1c6Y2vTI9/view?usp=sharing",
-   "https://drive.google.com/file/d/1FeOx67m0hpFpP-Ql8bNvOz7RTDDzAi7K/view?usp=sharing"
+  "files": [
+   {
+    "name": "460.mp4",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/460.mp4",
+    "size": 117927915,
+    "original": "[BGAHQ] Clotting Me.mp4"
+   }
   ]
  },
  {
@@ -7388,9 +7565,13 @@
   "team": "T.A.R.O.T.",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=462&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1mAVwhYYJ1I0aDvybgaerxBghAVGX7i3m/view?usp=sharing"
+  "files": [
+   {
+    "name": "462.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/462.zip",
+    "size": 48957335,
+    "original": "[T.A.R.O.T.] the diary of starfall ogg.zip"
+   }
   ]
  },
  {
@@ -7400,9 +7581,13 @@
   "team": "もしかしてPANDARS",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=463&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1S4u-zTYht9Fc6DYcafYxg5kxrgXt8YmR/view?usp=sharing"
+  "files": [
+   {
+    "name": "463.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/463.zip",
+    "size": 161325878,
+    "original": "haleit-777.zip"
+   }
   ]
  },
  {
@@ -7412,10 +7597,13 @@
   "team": "GOFROG",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=464&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1fVSdifBPjAr_TxTbz_3mvNDvb2Pl7EAi/view?usp=drive_link",
-   "https://drive.google.com/file/d/1kOjjuoj8p9Q8MkUrpirFjSjmaZv-pyZe/view?usp=drive_link"
+  "files": [
+   {
+    "name": "464.7z",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/464.7z",
+    "size": 14129822,
+    "original": "[GOFROG] OTOMATIC BASS CRASH!! - THE ENTIRE EARTH.7z"
+   }
   ]
  },
  {
@@ -7425,10 +7613,19 @@
   "team": "Cynical★4",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=465&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1llbkemgxKQiiXzA8rVL05tnXDWFLfROq/view?usp=sharing",
-   "https://drive.google.com/file/d/1pbyaGFz_jreWdMIq4Uc1Ig4GdlbxkpIk/view?usp=sharing"
+  "files": [
+   {
+    "name": "465.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/465.zip",
+    "size": 137505749,
+    "original": "BnB[Ogg].zip"
+   },
+   {
+    "name": "465+1.bms",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/465%2B1.bms",
+    "size": 219960,
+    "original": "_7another.bms"
+   }
   ]
  },
  {
@@ -7466,9 +7663,13 @@
   "team": "NEO sample FACTORY",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=468&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1gg-6IU7BEZ30tGhBdzb1NMEQ4SnDxvQb/view?usp=drive_link"
+  "files": [
+   {
+    "name": "468.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/468.zip",
+    "size": 52265806,
+    "original": "sketch_tokyo.zip"
+   }
   ]
  },
  {
@@ -7478,9 +7679,13 @@
   "team": "牡鹿",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1b3cW6tijjSmczlkaQXcm5sf3OOuK7SZV/view?usp=sharing"
+  "files": [
+   {
+    "name": "469.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/469.zip",
+    "size": 98114000,
+    "original": "katagiri_akazu_ogg.zip"
+   }
   ]
  },
  {
@@ -7490,9 +7695,13 @@
   "team": "NEO sample FACTORY",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=470&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1qJIEt_WjkMlSl7cT3neBmjAIVZ-GAbO7/view?usp=drive_link"
+  "files": [
+   {
+    "name": "470.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/470.zip",
+    "size": 17190367,
+    "original": "3034_NS08_no_bga.zip"
+   }
   ]
  },
  {
@@ -7502,9 +7711,13 @@
   "team": "Pixel Perfect",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=471&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1ZyOrYoQpv5wa7SqiymMaR9apJ4qhuV0N/view?usp=sharing"
+  "files": [
+   {
+    "name": "471.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/471.zip",
+    "size": 18796988,
+    "original": "[Pixel Perfect] A change of pace.zip"
+   }
   ]
  },
  {
@@ -7514,9 +7727,13 @@
   "team": "Plan B ~Bail If Necessary~",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=472&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1HxwU01ESvCHcko8QlC4W2fYTklXHnw1P/view?usp=sharing"
+  "files": [
+   {
+    "name": "472.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/472.zip",
+    "size": 474869037,
+    "original": "PSEUDOMONARCHIA (1).zip"
+   }
   ]
  },
  {
@@ -7526,12 +7743,19 @@
   "team": "half Ronely",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=473&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1waxw9WPvgEk3VjhzUlZJJVAr7mfA6WIk/view?usp=sharing",
-   "https://drive.google.com/file/d/12puP49TjSAYLqhM3KeAFRjAQcVIr4q5j/view?usp=sharing",
-   "https://drive.google.com/file/d/1FzeW-sc9CRxI7oj0tlkOxamVFZh2-JLL/view?usp=sharing",
-   "https://drive.google.com/file/d/1dylzjLNB-ixpUSn8ibrEO0hBVBffoKAr/view?usp=sharing"
+  "files": [
+   {
+    "name": "473.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/473.zip",
+    "size": 13086578,
+    "original": "Cerulean_Surge_ogg_nobga [halfRonely].zip"
+   },
+   {
+    "name": "473+1.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/473%2B1.zip",
+    "size": 212780904,
+    "original": "Cerulean_Surge_ogg_bga [halfRonely].zip"
+   }
   ]
  },
  {
@@ -7541,9 +7765,13 @@
   "team": "T.A.R.O.T.",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=474&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/12gUy6bAUhnKCT4j8Z8W257P99RlkeOrF/view?usp=sharing"
+  "files": [
+   {
+    "name": "474.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/474.zip",
+    "size": 43759805,
+    "original": "[T.A.R.O.T.] in+to_ogg_2.zip"
+   }
   ]
  },
  {
@@ -7553,9 +7781,13 @@
   "team": "11月28日",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1nDTIHSsMfMe2d7sC94156Vg-HAHKYvPi/view?usp=drive_link"
+  "files": [
+   {
+    "name": "475.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/475.zip",
+    "size": 67158685,
+    "original": "Tsukasound_Design_ogg.zip"
+   }
   ]
  },
  {
@@ -7565,9 +7797,13 @@
   "team": "しゅきしゅきぃ～ん",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=476&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/uc?export=download&id=1z9U1DLaOGwn1OzaIXTek1S5PrLYhvB17"
+  "files": [
+   {
+    "name": "476.rar",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/476.rar",
+    "size": 12861657,
+    "original": "loopsummer.rar"
+   }
   ]
  },
  {
@@ -7589,10 +7825,13 @@
   "team": "MAY us shine",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=478&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1NQ8QwdWwvHUYhDpNO06rW99MPbAbqfok/view?usp=sharing",
-   "https://drive.google.com/file/d/1iKcmyTw40NhQRvL2jLPtSD5jrXKOBrwz/view?usp=sharing"
+  "files": [
+   {
+    "name": "478.rar",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/478.rar",
+    "size": 65403060,
+    "original": "snwy-OVEL1US with bga_ogg.rar"
+   }
   ]
  },
  {
@@ -7602,9 +7841,13 @@
   "team": "T.A.R.O.T.",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=480&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/10AE91Zz9J_TEE_qU36ueoPqo2a87tdgO/view?usp=sharing"
+  "files": [
+   {
+    "name": "480.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/480.zip",
+    "size": 77400045,
+    "original": "[T.A.R.O.T.] tau_ogg+bga.zip"
+   }
   ]
  },
  {
@@ -7614,10 +7857,13 @@
   "team": "4 of a Kind",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=481&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1TLAYz3cSBCnGy-XCMEAGUwqP7c1OrjG9/view?usp=drive_link",
-   "https://drive.google.com/file/d/17ysLW-Ce7EJV8CmVEj20YFOtks27XCDm/view?usp=sharing"
+  "files": [
+   {
+    "name": "481.7z",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/481.7z",
+    "size": 46619746,
+    "original": "[4OfAKind]ZN.7z"
+   }
   ]
  },
  {
@@ -7627,9 +7873,13 @@
   "team": "骨伝導式Jアラート",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=482&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1-KB-dJDckvpytWbVVucPMxCUoHGtLgoL/view"
+  "files": [
+   {
+    "name": "482.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/482.zip",
+    "size": 374452498,
+    "original": "[oratoruk]The Haphazard Overture.zip"
+   }
   ]
  },
  {
@@ -7639,9 +7889,13 @@
   "team": "World Spiritual Realm",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=483&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/18gTj9HvTZYUmj5_VJw7cNdXPYJ7aK7iK/view?usp=sharing"
+  "files": [
+   {
+    "name": "483.rar",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/483.rar",
+    "size": 4933215,
+    "original": "The BMK of Typers.rar"
+   }
   ]
  }
 ]
