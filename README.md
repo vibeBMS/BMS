@@ -111,3 +111,7 @@ the latest full package over patches for earlier downloads. The choice is in `wo
   `index.json` to `<event>/index.json` here: players read that copy from
   raw.githubusercontent.com, which web pages may fetch (release downloads
   carry no CORS headers).
+- `proxy/worker.js`: a Cloudflare Worker (`mirror.vibebms.workers.dev`)
+  that serves this mirror's release files with CORS headers to the web
+  player, which cannot read GitHub's release downloads (see
+  `proxy/README.md`).
