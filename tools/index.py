@@ -10,7 +10,14 @@ An asset uploaded by hand has no label; the work's `"originals"` (from
 overrides.json: {"040.zip": "the original file name"}) names its file.
 
 Works without files (not mirrored yet, or only downloadable by hand)
-keep their `links` so a player can send people to the original pages.
+keep their `links` so a player can download from the authors. Where
+`<event>/links.json` (what each link gave: `bmseeker check-links`, the
+"Check links" workflow) knows them, the links that bring the song itself
+come first, then those not checked yet, pages, and failing ones; gone
+links (404 / 410) are left out, and add-ons (charts without their sounds,
+差分) are listed apart in `"addons"`:
+
+    {..., "links": [the song's, in the order to try], "addons": [...]}
 """
 
 import json
@@ -20,9 +27,29 @@ import sys
 from pathlib import Path
 
 
+def order(links, checks):
+    """(links to try for the song, in order; add-ons), by what each gave."""
+    def rank(u):
+        c = checks.get(u)
+        if c is None:
+            return 1  # not checked yet
+        ok = c["state"] in ("archive", "chart")
+        if ok and c.get("kind") == "main":
+            return 0
+        return {"page": 2, "error": 3}.get(c["state"], 9)
+    song = [u for u in links if rank(u) < 9]
+    song.sort(key=rank)  # stable: the scraped order among equals
+    addons = [u for u in links
+              if checks.get(u, {}).get("kind") == "addon"
+              and checks[u]["state"] in ("archive", "chart")]
+    return song, addons
+
+
 def main():
     event = sys.argv[1]
     works = json.loads(Path(event, "works.json").read_text())
+    checks_file = Path(event, "links.json")
+    checks = json.loads(checks_file.read_text()) if checks_file.exists() else {}
     r = subprocess.run(["gh", "release", "view", event, "--json", "assets"],
                        capture_output=True, text=True, check=True)
     by_num = {}
@@ -44,7 +71,10 @@ def main():
         if not files:
             # the chosen archive first, then its add-ons, then the others
             first = w.get("main", []) + [u for g in w.get("extra", []) for u in g]
-            e["links"] = first + [l["url"] for l in w["links"] if l["url"] not in first]
+            links = first + [l["url"] for l in w["links"] if l["url"] not in first]
+            e["links"], addons = order(links, checks)
+            if addons:
+                e["addons"] = addons
         out.append(e)
     json.dump(out, sys.stdout, ensure_ascii=False, indent=1)
     print()

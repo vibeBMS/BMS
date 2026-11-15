@@ -1,0 +1,87 @@
+name: Check links
+
+# For the events that are not mirrored: download each work's links (with
+# bmseeker, from vibeBMS/vibe) to see which still work and what they hold
+# (the song, an add-on, media), into <event>/links.json; then write the
+# event's index.json, which orders the links by it (tools/index.py).
+# A run is cut at about five hours per event and goes on from there the
+# next time; results are kept for 30 days (failures: a day).
+
+on:
+  workflow_dispatch:
+    inputs:
+      events:
+        description: Event folders, comma separated (empty = all not mirrored)
+        default: ""
+  schedule:
+    # Mondays
+    - cron: "17 4 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: check-links
+
+jobs:
+  events:
+    runs-on: ubuntu-latest
+    outputs:
+      list: ${{ steps.list.outputs.list }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: list
+        env:
+          EVENTS: ${{ inputs.events }}
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, os
+          given = [e for e in os.environ.get("EVENTS", "").split(",") if e.strip()]
+          events = given or [e["tag"] for e in json.load(open("events.json")) if not e.get("mirror")]
+          print("list=" + json.dumps([e.strip() for e in events]))
+          PY
+
+  check:
+    needs: events
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        event: ${{ fromJson(needs.events.outputs.list) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: vibeBMS/vibe
+          path: vibe
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            vibe/target
+          key: bmseeker-${{ runner.os }}-${{ hashFiles('vibe/Cargo.lock') }}
+          restore-keys: bmseeker-${{ runner.os }}-
+      - name: bmseeker
+        run: cargo build --release -p bmseeker --manifest-path vibe/Cargo.toml
+      - name: Check
+        run: |
+          vibe/target/release/bmseeker check-links "${{ matrix.event }}/works.json" \
+            "${{ matrix.event }}/links.json" --minutes 290 2> check.log || true
+          tail -n 40 check.log
+          python3 - "${{ matrix.event }}" >> "$GITHUB_STEP_SUMMARY" <<'PY'
+          import collections, json, sys
+          ev = sys.argv[1]
+          c = collections.Counter()
+          for v in json.load(open(ev + "/links.json")).values():
+              c[v["state"] + ("/" + v["kind"] if v.get("kind") else "")] += 1
+          print("| %s | %s |" % (ev, ", ".join("%s %d" % kv for kv in sorted(c.items()))))
+          PY
+      - name: index.json
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git add "${{ matrix.event }}/links.json"
+          tools/publish_index.sh "${{ matrix.event }}"
