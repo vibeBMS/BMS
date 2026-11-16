@@ -1425,10 +1425,13 @@
   "team": "魔界都市ニイガタ",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=137",
-  "files": [],
-  "links": [
-   "https://raymaykikou.com/bms/bms_secret_mirage_ogg.zip",
-   "https://docs.google.com/uc?id=162dGT5STOInzuz-JeBajWiAFkS0thQwO&export=download"
+  "files": [
+   {
+    "name": "084.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvii/084.zip",
+    "size": 55683069,
+    "original": "bms_secret_mirage_ogg.zip"
+   }
   ]
  },
  {
@@ -3415,6 +3418,12 @@
     "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvii/212.zip",
     "size": 84501160,
     "original": "Legende der Morgenrote.zip"
+   },
+   {
+    "name": "212+1.txt",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvii/212%2B1.txt",
+    "size": 190,
+    "original": "Readme the legendaria.txt"
    }
   ]
  },
@@ -3710,9 +3719,13 @@
   "team": "SAFARITHM",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=231&event=137",
-  "files": [],
-  "links": [
-   "https://dl.dropbox.com/s/l7s2u3oa8w87sxn/NeonParadiseBMS.zip"
+  "files": [
+   {
+    "name": "231.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvii/231.zip",
+    "size": 91257857,
+    "original": "NeonParadiseBMS.zip"
+   }
   ]
  },
  {
@@ -3722,9 +3735,13 @@
   "team": "SAFARITHM",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=232&event=137",
-  "files": [],
-  "links": [
-   "https://dl.dropbox.com/s/7rsn376q6826lwd/CoolBlueSharkGirlBMS.zip"
+  "files": [
+   {
+    "name": "232.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvii/232.zip",
+    "size": 72661183,
+    "original": "CoolBlueSharkGirlBMS.zip"
+   }
   ]
  },
  {
@@ -4114,9 +4131,13 @@
   "team": "Pop Rock あつまった",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=258&event=137",
-  "files": [],
-  "links": [
-   "https://ponytailrecord.com/BOFXVII/Eight.zip"
+  "files": [
+   {
+    "name": "258.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvii/258.zip",
+    "size": 14126872,
+    "original": "Eight.zip"
+   }
   ]
  },
  {
