@@ -52,23 +52,10 @@ jobs:
         event: ${{ fromJson(needs.events.outputs.list) }}
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/checkout@v4
-        with:
-          repository: vibeBMS/vibe
-          path: vibe
-      - uses: actions/cache@v4
-        with:
-          path: |
-            ~/.cargo/registry
-            ~/.cargo/git
-            vibe/target
-          key: bmseeker-${{ runner.os }}-${{ hashFiles('vibe/Cargo.lock') }}
-          restore-keys: bmseeker-${{ runner.os }}-
-      - name: bmseeker
-        run: cargo build --release -p bmseeker --manifest-path vibe/Cargo.toml
+      - uses: ./.github/actions/bmseeker
       - name: Check
         run: |
-          vibe/target/release/bmseeker check-links "${{ matrix.event }}/works.json" \
+          bmseeker check-links "${{ matrix.event }}/works.json" \
             "${{ matrix.event }}/links.json" --minutes 290 2> check.log || true
           tail -n 40 check.log
           python3 - "${{ matrix.event }}" >> "$GITHUB_STEP_SUMMARY" <<'PY'

@@ -4,8 +4,9 @@
     tools/mirror.py bof22 --shard 3/10 [--hours 5]
 
 For each work in <event>/works.json (disqualified ones skipped) whose
-asset is not in release <event> yet: download the main archive (trying
-its mirrors in turn) and each add-on, then upload them as
+asset is not in release <event> yet: download the main archive (its
+links in turn, then BMS SEARCH's for the song) and each add-on with
+`bmseeker fetch` (vibeBMS/vibe, on the PATH), then upload them as
 
     042.zip      main archive of work No.42
     042+1.rar    its first add-on
@@ -25,9 +26,6 @@ import sys
 import tempfile
 import time
 from pathlib import Path
-
-sys.path.insert(0, str(Path(__file__).parent))
-from fetch import FetchError, fetch, kind  # noqa: E402
 
 LIMIT = 2 * 1024**3 - 1  # GitHub: each release asset below 2 GiB
 
@@ -53,21 +51,28 @@ def has(existing: set, stem: str) -> bool:
     return False
 
 
-def get_one(urls, work_dir: Path):
-    """The first of `urls` that downloads, and the errors before it."""
-    errors = []
-    for u in urls:
-        try:
-            return fetch(u, work_dir), errors
-        except FetchError as e:
-            errors.append(f"{u.split('/')[2]}: {e}")
-        except Exception as e:  # a host changed its pages, a timeout...
-            errors.append(f"{u.split('/')[2]}: {type(e).__name__}: {e}")
-    return None, errors
+def get_one(urls, work, work_dir: Path, search: bool):
+    """`bmseeker fetch`: (the file, its format, the link it came from) or
+    None, and the errors of the links that failed."""
+    cmd = ["bmseeker", "fetch", *urls, str(work_dir), "--json", "--any",
+           "-t", work["title"], "-a", work["artist"]]
+    if search:
+        cmd.append("--search")
+    if not urls and not search:
+        return None, ["no link"]
+    try:
+        r = subprocess.run(cmd, capture_output=True, text=True, timeout=4 * 3600)
+        out = json.loads(r.stdout.strip().splitlines()[-1])
+    except (subprocess.TimeoutExpired, IndexError, json.JSONDecodeError) as e:
+        return None, [f"bmseeker: {type(e).__name__} {e}"]
+    errors = out.get("errors", [])
+    if "file" not in out:
+        return None, errors
+    return (Path(out["file"]), out["format"], out["link"]), errors
 
 
-def upload(tag: str, path: Path, stem: str) -> str:
-    ext = {"zip": "zip", "rar": "rar", "7z": "7z"}.get(kind(path)) or path.suffix.lstrip(".").lower()
+def upload(tag: str, path: Path, fmt: str, stem: str) -> str:
+    ext = fmt if fmt in ("zip", "rar", "7z") else path.suffix.lstrip(".").lower()
     name = f"{stem}.{ext}"
     target = path.with_name(name)
     path.rename(target)
@@ -105,15 +110,19 @@ def main():
                 continue
             tmp = Path(tempfile.mkdtemp())
             try:
-                path, errors = get_one(urls, tmp)
-                if path is None:
+                # the song's archive may be found elsewhere; an add-on not
+                got, errors = get_one(urls, w, tmp, search="+" not in stem)
+                if got is None:
                     failed.append((stem, w["title"], "; ".join(errors) or "no link"))
-                elif path.stat().st_size > LIMIT:
+                    continue
+                path, fmt, link = got
+                if path.stat().st_size > LIMIT:
                     failed.append((stem, w["title"], f"{path.stat().st_size >> 20} MiB is over the 2 GiB asset limit"))
                 else:
-                    name = upload(a.event, path, stem)
-                    done.append((name, w["title"], path.name))
-                    print(f"{name}  {path.name}", flush=True)
+                    name = upload(a.event, path, fmt, stem)
+                    via = "" if link in urls else f" (BMS SEARCH: {link})"
+                    done.append((name, w["title"], path.name + via))
+                    print(f"{name}  {path.name}{via}", flush=True)
             except subprocess.CalledProcessError as e:
                 failed.append((stem, w["title"], f"upload: {e.stderr.strip()[:200]}"))
             finally:

@@ -51,13 +51,7 @@ jobs:
         shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
     steps:
       - uses: actions/checkout@v4
-      - name: Tools
-        run: |
-          sudo apt-get update -q && sudo apt-get install -y -q megatools
-          pip install -q gdown requests
-          # OneDrive share pages (tools/browser_download.js)
-          npm install --no-save --no-package-lock playwright@1.49.1
-          npx playwright install --with-deps chromium
+      - uses: ./.github/actions/bmseeker
       - name: Mirror
         env:
           GH_TOKEN: ${{ github.token }}

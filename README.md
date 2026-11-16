@@ -99,9 +99,15 @@ the latest full package over patches for earlier downloads. The choice is in `wo
 - `tools/scrape_manbow.py 152 bof22`: reads the venue's URL list and
   work list into `bof22/works.json` (the venue numbers are in
   `events.json`).
-- `tools/fetch.py URL DIR`: downloads one archive (Google Drive, Dropbox,
-  MediaFire, MEGA, OneDrive, web servers) and checks it is one.
-- `tools/mirror.py bof22`: uploads what the release lacks.
+- `tools/mirror.py bof22`: uploads what the release lacks. Downloads go
+  through [bmseeker](https://github.com/vibeBMS/vibe/tree/main/crates/bmseeker)
+  (`bmseeker fetch`, built by `.github/actions/bmseeker`): Google Drive,
+  Dropbox, MediaFire, MEGA and web servers, a work's links in turn and
+  then BMS SEARCH's for the song; what arrives must be an archive (or, for
+  an add-on, a chart or movie, not a page).
+- The **Check links** workflow (`bmseeker check-links`) does the same for
+  the events that are not mirrored: what each link still gives, into
+  `<event>/links.json`, by which `index.json` orders the links.
 - The **Mirror an event** workflow runs it in 10 shards and writes
   `index.json`. Run it again to fill in what failed (Google Drive
   download limits clear after a day).
