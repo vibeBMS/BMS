@@ -102,9 +102,7 @@
    "http://panzerforce.ath.cx/bof2009/spiralbeautysalon_hq.rar",
    "http://panzerforce.ath.cx/bof2009/spiralbeautysalon_lq.rar",
    "http://stoicsounds.matrix.jp/mirror/spiralbeautysalon_hq.rar",
-   "http://stoicsounds.matrix.jp/mirror/spiralbeautysalon_lq.rar",
-   "http://www.talesing.com/bof2009/spiralbeautysalon_hq.rar",
-   "http://www.talesing.com/bof2009/spiralbeautysalon_lq.rar"
+   "http://stoicsounds.matrix.jp/mirror/spiralbeautysalon_lq.rar"
   ]
  },
  {
@@ -128,9 +126,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=60",
   "files": [],
-  "links": [
-   "http://page.freett.com/locabms/on_the_voltage__loca.rar"
-  ]
+  "links": []
  },
  {
   "num": 12,
@@ -201,9 +197,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=60",
   "files": [],
-  "links": [
-   "http://page.freett.com/cyandog/nununu.htm"
-  ]
+  "links": []
  },
  {
   "num": 18,
@@ -376,9 +370,10 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=60",
   "files": [],
   "links": [
-   "http://uploader.bms.ms/data/bof2009/comgikokananika/xi_mirage_garden.zip",
-   "http://uploader.bms.ms/data/bof2009/comgikokananika/xi_mirage_garden_bga.zip",
-   "http://uploader.bms.ms/data/bof2009/comgikokananika/xi_mirage_garden_no_bga.zip("
+   "http://uploader.bms.ms/data/bof2009/comgikokananika/xi_mirage_garden.zip"
+  ],
+  "addons": [
+   "http://uploader.bms.ms/data/bof2009/comgikokananika/xi_mirage_garden_bga.zip"
   ]
  },
  {
@@ -465,9 +460,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=60",
   "files": [],
-  "links": [
-   "http://page.freett.com/kobakuruse/bms/bof_fine.html"
-  ]
+  "links": []
  },
  {
   "num": 39,
@@ -514,9 +507,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=60",
   "files": [],
-  "links": [
-   "http://kamineko.sakura.ne.jp/BMS/rider04_extend_ogg.rar"
-  ]
+  "links": []
  },
  {
   "num": 43,
@@ -551,9 +542,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=60",
   "files": [],
   "links": [
-   "http://uploader.bms.ms/data/bof2009/dot96/bms/skyline.zip",
    "http://uploader.bms.ms/data/bof2009/dot96/bms/skyline_lq.zip",
-   "https://cid-e2b751f673dbfc25.skydrive.live.com/browse.aspx/BMS"
+   "http://uploader.bms.ms/data/bof2009/dot96/bms/skyline.zip"
   ]
  },
  {
@@ -651,9 +641,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=53&event=60",
   "files": [],
-  "links": [
-   "http://page.freett.com/ykyk00/"
-  ]
+  "links": []
  },
  {
   "num": 54,
@@ -675,9 +663,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=60",
   "files": [],
-  "links": [
-   "http://page.freett.com/ykyk00/"
-  ]
+  "links": []
  },
  {
   "num": 56,
@@ -700,8 +686,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=60",
   "files": [],
   "links": [
-   "http://scytheleg.bms.ms/tempyou/music/pmc/bms/ffr/djsl_pmc-ffr.rar",
-   "https://cid-2e98d30b216bc0bd.skydrive.live.com/self.aspx/%e5%85%ac%e9%96%8b/djsl%5E_pmc-ffr.rar"
+   "http://scytheleg.bms.ms/tempyou/music/pmc/bms/ffr/djsl_pmc-ffr.rar"
   ]
  },
  {
@@ -748,9 +733,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=60",
   "files": [],
-  "links": [
-   "http://sound.jp/hate/x/nowhere.html"
-  ]
+  "links": []
  },
  {
   "num": 62,
@@ -760,9 +743,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=60",
   "files": [],
-  "links": [
-   "http://sound.jp/hate/x/nowhere.html"
-  ]
+  "links": []
  },
  {
   "num": 63,
@@ -772,9 +753,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=60",
   "files": [],
-  "links": [
-   "http://sound.jp/hate/x/nowhere.html"
-  ]
+  "links": []
  },
  {
   "num": 66,
@@ -784,9 +763,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=60",
   "files": [],
-  "links": [
-   "http://uploader.bms.ms/data/sa.zip"
-  ]
+  "links": []
  },
  {
   "num": 67,
@@ -837,9 +814,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=60",
   "files": [],
-  "links": [
-   "http://www7a.biglobe.ne.jp/~furiefurie/bms/askafroa.rar"
-  ]
+  "links": []
  },
  {
   "num": 71,
@@ -924,8 +899,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=60",
   "files": [],
   "links": [
-   "http://flrecords.info/bof/fen-ready_to_go.zip",
-   "http://uploader.bms.ms/data/bof2009/ALR/fen-ready_to_go.zip"
+   "http://uploader.bms.ms/data/bof2009/ALR/fen-ready_to_go.zip",
+   "http://flrecords.info/bof/fen-ready_to_go.zip"
   ]
  },
  {
@@ -960,9 +935,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=60",
   "files": [],
-  "links": [
-   "http://www.lpokeh.com/~ruriane/02exci-sueprstring_theory(hq_ogg).exe"
-  ]
+  "links": []
  },
  {
   "num": 81,
@@ -972,9 +945,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=60",
   "files": [],
-  "links": [
-   "http://www.lpokeh.com/~ruriane/03purekontrol-go_faster(hq_wav).exe"
-  ]
+  "links": []
  },
  {
   "num": 82,
@@ -1009,9 +980,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=60",
   "files": [],
-  "links": [
-   "http://www5.pf-x.net/~nora2r/dream.html"
-  ]
+  "links": []
  },
  {
   "num": 85,
@@ -1062,9 +1031,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=60",
   "files": [],
-  "links": [
-   "http://big.freett.com/t59g59/orange_road.rar"
-  ]
+  "links": []
  },
  {
   "num": 89,
@@ -1180,9 +1147,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=60",
   "files": [],
-  "links": [
-   "http://page.freett.com/ykyk00/"
-  ]
+  "links": []
  },
  {
   "num": 99,
@@ -1229,8 +1194,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=102&event=60",
   "files": [],
   "links": [
-   "http://estish.hp.infoseek.co.jp/bms/okayama_est_odrmx_ogg.zip",
-   "http://nekokan.dyndns.info/~anonymous/bms/est/okayama_est_odrmx.zip"
+   "http://nekokan.dyndns.info/~anonymous/bms/est/okayama_est_odrmx.zip",
+   "http://estish.hp.infoseek.co.jp/bms/okayama_est_odrmx_ogg.zip"
   ]
  },
  {
@@ -1301,9 +1266,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=60",
   "files": [],
-  "links": [
-   "http://paradoxist.web.fc2.com/amajack.html"
-  ]
+  "links": []
  },
  {
   "num": 109,
@@ -1313,9 +1276,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=109&event=60",
   "files": [],
-  "links": [
-   "http://paradoxist.web.fc2.com/amajack.html"
-  ]
+  "links": []
  },
  {
   "num": 110,
@@ -1325,10 +1286,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=110&event=60",
   "files": [],
-  "links": [
-   "http://str3.org/data/bms/bof09_2106.zip",
-   "http://thbok.com/data/bof09_2106.zip"
-  ]
+  "links": []
  },
  {
   "num": 111,
@@ -1338,10 +1296,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=111&event=60",
   "files": [],
-  "links": [
-   "http://str3.org/data/bms/bof09_tammi.zip",
-   "http://thbok.com/data/bof09_tammi.zip"
-  ]
+  "links": []
  },
  {
   "num": 112,
@@ -1351,10 +1306,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=112&event=60",
   "files": [],
-  "links": [
-   "http://str3.org/data/bms/bof09_soy.zip",
-   "http://thbok.com/data/bof09_soy.zip"
-  ]
+  "links": []
  },
  {
   "num": 113,
@@ -1406,9 +1358,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=116&event=60",
   "files": [],
-  "links": [
-   "http://paradoxist.web.fc2.com/amajack.html"
-  ]
+  "links": []
  },
  {
   "num": 117,
@@ -1419,9 +1369,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=117&event=60",
   "files": [],
   "links": [
+   "http://dl.getdropbox.com/u/380086/uniciname.zip",
    "http://k2i.tn.st/bms/uniciname_bgaless.zip",
    "http://k2i.tn.st/bms/uniciname.zip",
-   "http://dl.getdropbox.com/u/380086/uniciname.zip",
    "http://k2i.tn.st/bms/uniciname_bganess.zip"
   ]
  },
@@ -1446,9 +1396,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=119&event=60",
   "files": [],
-  "links": [
-   "http://big.freett.com/t59g59/Aeria.rar"
-  ]
+  "links": []
  },
  {
   "num": 120,
@@ -1458,9 +1406,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=120&event=60",
   "files": [],
-  "links": [
-   "http://uploader.bms.ms/data/bof2009/Violet.zip"
-  ]
+  "links": []
  },
  {
   "num": 121,
@@ -1470,9 +1416,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=60",
   "files": [],
-  "links": [
-   "http://big.freett.com/t59g59/phantasmal_terrain.rar"
-  ]
+  "links": []
  },
  {
   "num": 122,
@@ -1545,8 +1489,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=127&event=60",
   "files": [],
   "links": [
-   "http://www.geocities.jp/coco_bms_xxxxxx/cocoleftfield.zip",
-   "http://uploader.bms.ms/data/bof2009/cocoleftfield.zip"
+   "http://uploader.bms.ms/data/bof2009/cocoleftfield.zip",
+   "http://www.geocities.jp/coco_bms_xxxxxx/cocoleftfield.zip"
   ]
  },
  {
@@ -1630,8 +1574,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=134&event=60",
   "files": [],
   "links": [
-   "http://maozon.net/bms/ms_undermine.html",
-   "http://uploader.bms.ms/data/bof2009/okome/ms_undermine.zip"
+   "http://uploader.bms.ms/data/bof2009/okome/ms_undermine.zip",
+   "http://maozon.net/bms/ms_undermine.html"
   ]
  },
  {
@@ -1654,9 +1598,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=136&event=60",
   "files": [],
-  "links": [
-   "http://www1.axfc.net/uploader/Li/so/46266.zip"
-  ]
+  "links": []
  },
  {
   "num": 137,
@@ -1678,9 +1620,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=60",
   "files": [],
-  "links": [
-   "http://www7b.biglobe.ne.jp/~ssbossmix/lexus_cyanixs_ogg.zip"
-  ]
+  "links": []
  },
  {
   "num": 139,
@@ -1724,9 +1664,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=60",
   "files": [],
-  "links": [
-   "http://monochrome-world.sakura.ne.jp/onicore.zip"
-  ]
+  "links": []
  },
  {
   "num": 143,
@@ -1886,7 +1824,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=155&event=60",
   "files": [],
   "links": [
-   "http://uploader.bms.ms/data/bof2009/fixesaraven/krone_alice.zip",
+   "http://uploader.bms.ms/data/bof2009/fixesaraven/krone_alice.zip"
+  ],
+  "addons": [
    "http://uploader.bms.ms/data/bof2009/fixesaraven/alice_sab.zip"
   ]
  },
@@ -1910,9 +1850,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=157&event=60",
   "files": [],
-  "links": [
-   "http://uploader.bms.ms/data/bof2009/kamikaze/meguri%202.zip"
-  ]
+  "links": []
  },
  {
   "num": 158,
@@ -1923,8 +1861,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=158&event=60",
   "files": [],
   "links": [
-   "http://amiad.hp.infoseek.co.jp/01_bad_bad_rockets_burning_boost_rising_ogg.rar",
-   "http://www.luzeria.net/xbla/01_bad_bad_rockets_burning_boost_rising_ogg.rar"
+   "http://www.luzeria.net/xbla/01_bad_bad_rockets_burning_boost_rising_ogg.rar",
+   "http://amiad.hp.infoseek.co.jp/01_bad_bad_rockets_burning_boost_rising_ogg.rar"
   ]
  },
  {
@@ -1936,8 +1874,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=159&event=60",
   "files": [],
   "links": [
-   "http://www.rinku.zaq.ne.jp/platina/bof2009/02_rabbit_bat_rainy_beauty_ogg.rar",
    "http://www.luzeria.net/xbla/02_rabbit_bat_rainy_beauty_ogg.rar",
+   "http://www.rinku.zaq.ne.jp/platina/bof2009/02_rabbit_bat_rainy_beauty_ogg.rar",
    "http://fz.bms.ms/bms/rabbitbat_rainy_beauty_ogg.zip"
   ]
  },
@@ -2000,8 +1938,7 @@
   "files": [],
   "links": [
    "http://uploader.bms.ms/data/bof2009/2052/gseMQ.rar",
-   "http://3m34.tistory.com/attachment/cfile28.uf@121819284ABE1D138E70F2.rar",
-   "http://sany-on.tistory.com/5"
+   "http://3m34.tistory.com/attachment/cfile28.uf@121819284ABE1D138E70F2.rar"
   ]
  },
  {
@@ -2039,8 +1976,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=60",
   "files": [],
   "links": [
-   "http://www14.plala.or.jp/ystpro/tmp/antilife.rar",
-   "https://cid-edc72d529484cbcb.skydrive.live.com/self.aspx/forbof2009/antilife.rar"
+   "http://www14.plala.or.jp/ystpro/tmp/antilife.rar"
   ]
  },
  {
@@ -2063,9 +1999,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=169&event=60",
   "files": [],
-  "links": [
-   "http://uploader.bms.ms/data/bof2009/kamikaze/aimai%203.zip"
-  ]
+  "links": []
  },
  {
   "num": 170,
@@ -2100,9 +2034,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=60",
   "files": [],
-  "links": [
-   "http://usotsuki.a-auc.net/bof09/shion.rar"
-  ]
+  "links": []
  },
  {
   "num": 173,
@@ -2113,8 +2045,10 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=173&event=60",
   "files": [],
   "links": [
-   "http://uploader.bms.ms/data/bof2009/pasteldenata/marriage.zip",
    "http://vfpq.fau.jp/marriage.zip"
+  ],
+  "addons": [
+   "http://uploader.bms.ms/data/bof2009/pasteldenata/marriage.zip"
   ]
  },
  {
@@ -2162,10 +2096,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=177&event=60",
   "files": [],
-  "links": [
-   "http://www.naotyu-studio7.com/music/bms/nao_her_majestyOgg.rar",
-   "http://www.naotyu-studio7.com/music/bms/nao_her_majestyHQ.rar"
-  ]
+  "links": []
  },
  {
   "num": 178,
@@ -2214,10 +2145,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=181&event=60",
   "files": [],
   "links": [
-   "http://str3.org/data/bms/BOF2009_ZEPHSTR_WAV_HQMOV.rar",
    "http://yamajet.bms.ms/bms/data/BOF2009_ZEPHSTR_WAV_HQMOV.rar",
    "http://numabukuro.net/yamajet/BOF2009_ZEPHSTR_WAV_HQMOV.rar",
-   "http://str3.org/data/bms/BOF2009_ZEPHSTR_OGG_LQMOV.rar",
    "http://yamajet.bms.ms/bms/data/BOF2009_ZEPHSTR_OGG_LQMOV.rar",
    "http://numabukuro.net/yamajet/BOF2009_ZEPHSTR_OGG_LQMOV.rar"
   ]
@@ -2231,9 +2160,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=182&event=60",
   "files": [],
   "links": [
-   "http://str3.org/data/bms/BOF2009_ZEPHSTR_WAV_HQMOV.rar",
    "http://yamajet.bms.ms/bms/data/BOF2009_ZEPHSTR_WAV_HQMOV.rar",
-   "http://str3.org/data/bms/BOF2009_ZEPHSTR_OGG_LQMOV.rar",
    "http://yamajet.bms.ms/bms/data/BOF2009_ZEPHSTR_OGG_LQMOV.rar"
   ]
  },
@@ -2246,9 +2173,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=183&event=60",
   "files": [],
   "links": [
-   "http://str3.org/data/bms/BOF2009_ZEPHSTR_WAV_HQMOV.rar",
    "http://yamajet.bms.ms/bms/data/BOF2009_ZEPHSTR_WAV_HQMOV.rar",
-   "http://str3.org/data/bms/BOF2009_ZEPHSTR_OGG_LQMOV.rar",
    "http://yamajet.bms.ms/bms/data/BOF2009_ZEPHSTR_OGG_LQMOV.rar"
   ]
  },
@@ -2322,10 +2247,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=60",
   "files": [],
-  "links": [
-   "http://uploader.bms.ms/data/bof2009/chaospark/2009_densi_haru_no_umi_trance.rar",
-   "http://freett.com/nitrix/bof2009_data.html"
-  ]
+  "links": []
  },
  {
   "num": 190,
@@ -2335,9 +2257,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=60",
   "files": [],
-  "links": [
-   "http://kaikou.nothing.sh/bms/perfect.zip"
-  ]
+  "links": []
  },
  {
   "num": 191,
@@ -2347,9 +2267,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=60",
   "files": [],
-  "links": [
-   "http://uploader.bms.ms/data/bof2009/kamikaze/mata%202.zip"
-  ]
+  "links": []
  },
  {
   "num": 192,
@@ -2373,8 +2291,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=60",
   "files": [],
   "links": [
-   "http://orgt.bms.ms/papy/papyrus_ogg.rar",
    "http://nekokan.dyndns.info/~anonymous/bof2009/Papyrus__wav.rar",
+   "http://orgt.bms.ms/papy/papyrus_ogg.rar",
    "http://orgt.bms.ms/papy/papyrus_dtx.rar",
    "http://orgt.bms.ms/papy/papyrus_bms_mov_hq.rar",
    "http://orgt.bms.ms/papy/papyrus_bms_mov_mq.rar"
@@ -2388,10 +2306,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=194&event=60",
   "files": [],
-  "links": [
-   "http://uploader.bms.ms/data/bof2009/chaospark/2009_mike_disc_jockey_mike.rar",
-   "http://freett.com/nitrix/bof2009_data.html"
-  ]
+  "links": []
  },
  {
   "num": 195,
@@ -2401,9 +2316,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=195&event=60",
   "files": [],
-  "links": [
-   "http://monochrome-world.sakura.ne.jp/fall.zip"
-  ]
+  "links": []
  },
  {
   "num": 196,
@@ -2413,10 +2326,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=196&event=60",
   "files": [],
-  "links": [
-   "http://usotsuki.a-auc.net/bof09/cc_suou_ogg.rar",
-   "http://usotsuki.a-auc.net/bof09/cc_suou_wav.rar"
-  ]
+  "links": []
  },
  {
   "num": 197,
@@ -2454,8 +2364,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=199&event=60",
   "files": [],
   "links": [
-   "http://scene.pekori.to/amgm.zip",
-   "http://uploader.bms.ms/data/bof2009/team04/amgm.zip"
+   "http://uploader.bms.ms/data/bof2009/team04/amgm.zip",
+   "http://scene.pekori.to/amgm.zip"
   ]
  },
  {
@@ -2466,10 +2376,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=200&event=60",
   "files": [],
-  "links": [
-   "http://uploader.bms.ms/data/bof2009/chaospark/2009_slt-m_brutal_hearts.rar",
-   "http://freett.com/nitrix/bof2009_data.html"
-  ]
+  "links": []
  },
  {
   "num": 201,
@@ -2519,9 +2426,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=204&event=60",
   "files": [],
-  "links": [
-   "http://uploader.bms.ms/data/bof2009/dhb.zip"
-  ]
+  "links": []
  },
  {
   "num": 205,
@@ -2531,9 +2436,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=205&event=60",
   "files": [],
-  "links": [
-   "http://uploader.bms.ms/data/bof2009/paradigm%20shift/%5Bparadigm%20shift%5D%20last%20word%20%5BRe%5D.rar"
-  ]
+  "links": []
  },
  {
   "num": 206,
@@ -2543,9 +2446,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=206&event=60",
   "files": [],
-  "links": [
-   "http://uploader.bms.ms/data/bof2009/paradigm%20shift/%5Bparadigm%20shift%5D%20mooned%20insect%20%5BRe%5D.rar"
-  ]
+  "links": []
  },
  {
   "num": 207,
@@ -2555,9 +2456,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=207&event=60",
   "files": [],
-  "links": [
-   "http://monochrome-world.sakura.ne.jp/summer.zip"
-  ]
+  "links": []
  },
  {
   "num": 208,
