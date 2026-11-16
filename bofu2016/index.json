@@ -20,8 +20,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=110",
   "files": [],
   "links": [
-   "http://3t1a.net/bms/ikaros.zip",
-   "http://3t1a.net/bms/ikaros_fix.zip"
+   "http://3t1a.net/bms/ikaros_fix.zip",
+   "http://3t1a.net/bms/ikaros.zip"
   ]
  },
  {
@@ -58,8 +58,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=110",
   "files": [],
   "links": [
-   "https://www.dropbox.com/s/n14wb9tuwr34kwe/glory_of_the_sacred_kingdom.zip?dl=1",
-   "http://www.mediafire.com/file/rql089u4i3d0542/glory_of_the_sacred_kingdom.zip"
+   "http://www.mediafire.com/file/rql089u4i3d0542/glory_of_the_sacred_kingdom.zip",
+   "https://www.dropbox.com/s/n14wb9tuwr34kwe/glory_of_the_sacred_kingdom.zip?dl=1"
   ]
  },
  {
@@ -72,8 +72,8 @@
   "files": [],
   "links": [
    "https://www.dropbox.com/s/s387wdisqlnxczp/Combate_Cuerpo_a_Cuerpo_ogg_final_fix.zip?dl=0",
-   "https://drive.google.com/open?id=0B7zmuNYn1oy7Yk4zUzR6U2tFNVE",
    "https://www.dropbox.com/s/as6hw9mfmdss8r8/Combate_Cuerpo_a_Cuerpo_wav_final_fix.zip?dl=0",
+   "https://drive.google.com/open?id=0B7zmuNYn1oy7Yk4zUzR6U2tFNVE",
    "https://drive.google.com/open?id=0B7zmuNYn1oy7YVFVQU1VQTBEVDQ",
    "https://drive.google.com/open?id=0B7zmuNYn1oy7SHg4YjBTNnZHa28",
    "https://drive.google.com/open?id=0B7zmuNYn1oy7S0JnVFZyYWZ3TWM"
@@ -89,8 +89,8 @@
   "files": [],
   "links": [
    "https://www.dropbox.com/s/c9xaymsnuhpljad/Pierce_ogg.zip?dl=0",
-   "https://drive.google.com/open?id=0B7zmuNYn1oy7bDd3bWpkcFdIdTA",
    "https://www.dropbox.com/s/y61sjuspqbt0k6g/Pierce_wav.zip?dl=0",
+   "https://drive.google.com/open?id=0B7zmuNYn1oy7bDd3bWpkcFdIdTA",
    "https://drive.google.com/open?id=0B7zmuNYn1oy7Y01fYkhNVXd6LW8"
   ]
  },
@@ -104,8 +104,8 @@
   "files": [],
   "links": [
    "https://www.dropbox.com/s/2ryicyth5bk33co/Invade_ogg.zip?dl=1",
-   "https://drive.google.com/open?id=0B7zmuNYn1oy7ZlJEbENNckZmem8",
    "https://www.dropbox.com/s/2n2y2td9fxr6rwk/Invade_wav.zip?dl=1",
+   "https://drive.google.com/open?id=0B7zmuNYn1oy7ZlJEbENNckZmem8",
    "https://drive.google.com/open?id=0B7zmuNYn1oy7Nnp5cUdQMGs4LVk"
   ]
  },
@@ -155,9 +155,7 @@
   "files": [],
   "links": [
    "https://data.korsnack.kr/bms/160924_grey_night_bga_hq.mpg",
-   "https://drive.google.com/file/d/0B62jB-6KncH4Wm53TGprcEloTFU/view",
-   "https://data.korsnack.kr/bms/160924_grey_night.zip",
-   "https://drive.google.com/file/d/0B62jB-6KncH4dWxTbnE1TmdLQk0/view"
+   "https://data.korsnack.kr/bms/160924_grey_night.zip"
   ]
  },
  {
@@ -243,8 +241,10 @@
   "files": [],
   "links": [
    "https://www.dropbox.com/s/i1t3qzpru7e0r1s/%5BRegats_and%5DAquaflowers.zip?dl=1",
-   "https://www.dropbox.com/s/7e7aru7q46tr31w/Aquaflowers%20%E4%BF%AE%E6%AD%A3%E7%94%A8.zip?dl=1",
    "https://www.dropbox.com/s/qvkkvlbxzk97gk4/kurosiro_bofu2016.rar?dl=1"
+  ],
+  "addons": [
+   "https://www.dropbox.com/s/7e7aru7q46tr31w/Aquaflowers%20%E4%BF%AE%E6%AD%A3%E7%94%A8.zip?dl=1"
   ]
  },
  {
@@ -255,10 +255,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0ByJyxlS30svbVHN5Y1NySE81bVU/view?usp=sharing",
-   "https://drive.google.com/file/d/0ByJyxlS30svbaDl5Qlk0SG1tOE0/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 21,
@@ -308,9 +305,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/uc?export=download&id=0B48eE_aEGpOPdGhQYXZBQmhCLTA"
-  ]
+  "links": []
  },
  {
   "num": 25,
@@ -344,9 +339,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/uc?id=0B1VHZ7dBRAqAcGJYcXZaNXNJa2s"
-  ]
+  "links": []
  },
  {
   "num": 28,
@@ -395,8 +388,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=110",
   "files": [],
   "links": [
-   "https://drive.google.com/file/d/0B_JSxrtTvjwHeWZCeW04aXdXR2M/view",
-   "https://dl.dropboxusercontent.com/u/23821865/bbangsami_Sinabro_Galmuri.zip"
+   "https://drive.google.com/file/d/0B_JSxrtTvjwHeWZCeW04aXdXR2M/view"
   ]
  },
  {
@@ -407,9 +399,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B5DeFNA6-2ddZEdyaWVnNFE5dkE/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 33,
@@ -420,7 +410,6 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=110",
   "files": [],
   "links": [
-   "https://dl.dropboxusercontent.com/u/50992731/BMS%20Original/%5BBMSON%5D%20DECONSTRUKT.zip",
    "https://bemuse.ninja/?server=https://be-music.spacet.me/BOFU2016/TEAM-BMSON/"
   ]
  },
@@ -447,9 +436,9 @@
   "links": [
    "https://drive.google.com/open?id=0B7zmuNYn1oy7R1N3QkViRm1EV1U",
    "https://www.dropbox.com/s/8mlr5nj0x20enqf/GNMD_Pusha_Plucka_ogg.zip?dl=0",
+   "https://www.dropbox.com/s/3cirquw878x97ta/GNMD_Pusha_Plucka_wav.zip?dl=0",
    "https://drive.google.com/open?id=0B7zmuNYn1oy7bzJPVlE2UTRxUzQ",
-   "https://drive.google.com/open?id=0B7zmuNYn1oy7NU9NN3ZxckpzX00",
-   "https://www.dropbox.com/s/3cirquw878x97ta/GNMD_Pusha_Plucka_wav.zip?dl=0"
+   "https://drive.google.com/open?id=0B7zmuNYn1oy7NU9NN3ZxckpzX00"
   ]
  },
  {
@@ -571,9 +560,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B5b6YWJ45ySfgz4Epay1jKVmJXbTdlbjA"
-  ]
+  "links": []
  },
  {
   "num": 46,
@@ -668,9 +655,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=54&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/uc?export=download&id=0B48eE_aEGpOPMDByU3NFSUM1TVE"
-  ]
+  "links": []
  },
  {
   "num": 55,
@@ -730,9 +715,7 @@
   "files": [],
   "links": [
    "https://www.dropbox.com/s/u6f6rb8cns6kpi5/Crimsona_Hyper_Fiber_World_Spectrum_ogg.zip?dl=1",
-   "https://drive.google.com/file/d/0B55A06U-EDUKalNoNm5KTXNUOFk/view?usp=sharing",
-   "https://www.dropbox.com/s/5fwdsrm03wb8e9h/Crimsona_Hyper_Fiber_World_Spectrum_wav.zip?dl=1",
-   "https://drive.google.com/file/d/0B55A06U-EDUKTjA0VThiQjM2ZGc/view?usp=sharing"
+   "https://www.dropbox.com/s/5fwdsrm03wb8e9h/Crimsona_Hyper_Fiber_World_Spectrum_wav.zip?dl=1"
   ]
  },
  {
@@ -757,7 +740,6 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=110",
   "files": [],
   "links": [
-   "http://raymaykikou.com/bms/ds2016_barboomy_ogg.zip",
    "https://docs.google.com/uc?id=0ByS9Wlo7KZbxSjBZZmtReERteEE&export=download"
   ]
  },
@@ -781,9 +763,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/uc?export=download&id=0B48eE_aEGpOPazBiZ19GWkRRMGc"
-  ]
+  "links": []
  },
  {
   "num": 64,
@@ -841,9 +821,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/uc?export=download&id=0B48eE_aEGpOPaFBraFpxSnFpWGc"
-  ]
+  "links": []
  },
  {
   "num": 69,
@@ -877,10 +855,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/50992731/BMS%20Original/Ingen_ogg.zip",
-   "https://dl.dropboxusercontent.com/u/50992731/BMS%20Original/Ingen_dp.rar"
-  ]
+  "links": []
  },
  {
   "num": 72,
@@ -915,8 +890,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=110",
   "files": [],
   "links": [
-   "https://dl.dropboxusercontent.com/s/4r4pgtgwmpy3vpb/zio-cryptwalker_ogg.zip",
-   "https://drive.google.com/open?id=0B3eoh0F0HRexbEd0R2pQbW1KQkE"
+   "https://drive.google.com/open?id=0B3eoh0F0HRexbEd0R2pQbW1KQkE",
+   "https://dl.dropboxusercontent.com/s/4r4pgtgwmpy3vpb/zio-cryptwalker_ogg.zip"
   ]
  },
  {
@@ -927,9 +902,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=75&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0BxdWLxHTZvueVVc4dFdNZkkzbjg/view"
-  ]
+  "links": []
  },
  {
   "num": 76,
@@ -987,9 +960,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/85685659/bms/BOFU2016/%E9%96%89%E9%8E%96%E7%97%85%E6%A3%9F/SOCK.rar"
-  ]
+  "links": []
  },
  {
   "num": 81,
@@ -999,9 +970,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/50992731/BMS%20Original/bm98_marine_wav.zip"
-  ]
+  "links": []
  },
  {
   "num": 82,
@@ -1011,9 +980,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/85685659/bms/BOFU2016/%E9%96%89%E9%8E%96%E7%97%85%E6%A3%9F/Big%20Impact.rar"
-  ]
+  "links": []
  },
  {
   "num": 83,
@@ -1023,9 +990,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=83&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/50992731/BMS%20Original/bm98_raveagain_wav.zip"
-  ]
+  "links": []
  },
  {
   "num": 84,
@@ -1047,9 +1012,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0BxdWLxHTZvuebVpydlJFM3FrNUk/view?usp=drivesdk"
-  ]
+  "links": []
  },
  {
   "num": 86,
@@ -1059,9 +1022,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/50992731/BMS%20Original/bm98_sunflower_wav.zip"
-  ]
+  "links": []
  },
  {
   "num": 87,
@@ -1095,9 +1056,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0BxdWLxHTZvueWE5EVkhsdUdKLU0"
-  ]
+  "links": []
  },
  {
   "num": 90,
@@ -1107,9 +1066,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=90&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0BxdWLxHTZvuebFF4UmRwZXRPSTQ/view?usp=drivesdk"
-  ]
+  "links": []
  },
  {
   "num": 91,
@@ -1119,10 +1076,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=91&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B9bZ63dms-RteHhfdmxsVFN2amM",
-   "https://drive.google.com/open?id=0B9bZ63dms-RtMXV3QVdESEZFTGM"
-  ]
+  "links": []
  },
  {
   "num": 92,
@@ -1144,9 +1098,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=93&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0BxdWLxHTZvueNHkteDB3TGFncTQ/view?usp=drivesdk"
-  ]
+  "links": []
  },
  {
   "num": 94,
@@ -1168,9 +1120,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=95&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0BxdWLxHTZvueeld6LXVRQk9qd2c"
-  ]
+  "links": []
  },
  {
   "num": 96,
@@ -1192,9 +1142,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=97&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0BxdWLxHTZvueQWo5cUlSWl9PU0k/view?usp=drivesdk"
-  ]
+  "links": []
  },
  {
   "num": 98,
@@ -1216,9 +1164,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0BxdWLxHTZvueWVR0UTMxZ3ViaDg"
-  ]
+  "links": []
  },
  {
   "num": 100,
@@ -1252,9 +1198,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=102&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0BxdWLxHTZvuea09kQ09lUFZObGs"
-  ]
+  "links": []
  },
  {
   "num": 103,
@@ -1348,9 +1292,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=110&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0BxdWLxHTZvueWlRzVUhISU1SRDg/view?usp=drivesdk"
-  ]
+  "links": []
  },
  {
   "num": 111,
@@ -1372,9 +1314,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=112&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0BxdWLxHTZvueYmxUdzMyT2Q4VU0/view?usp=drivesdk"
-  ]
+  "links": []
  },
  {
   "num": 113,
@@ -1420,9 +1360,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=116&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0BzctcS0AL326U1BXUkpma1dmZnM"
-  ]
+  "links": []
  },
  {
   "num": 117,
@@ -1518,9 +1456,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=124&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0BxdWLxHTZvueakRwa1A3cGl0WFk/view?usp=drivesdk"
-  ]
+  "links": []
  },
  {
   "num": 125,
@@ -1542,9 +1478,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=126&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B2FYk0gprrHMckY2OW5ReVk4elE/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 127,
@@ -1627,9 +1561,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=134&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0BxdWLxHTZvuecHhlRk1ndWZoT00/view?usp=drivesdk"
-  ]
+  "links": []
  },
  {
   "num": 135,
@@ -1677,8 +1609,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
   "files": [],
   "links": [
-   "http://3t1a.net/bms/black_lotus.zip",
-   "https://www.dropbox.com/s/apdwkjcifqpyoth/black_lotus.zip"
+   "https://www.dropbox.com/s/apdwkjcifqpyoth/black_lotus.zip",
+   "http://3t1a.net/bms/black_lotus.zip"
   ]
  },
  {
@@ -1797,9 +1729,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=148&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/107522853/bms/%5BMaple%20brit%27S%5Dhiten%20-%20HOUJIROU.rar"
-  ]
+  "links": []
  },
  {
   "num": 149,
@@ -1860,9 +1790,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=110",
   "files": [],
   "links": [
-   "https://dl.dropboxusercontent.com/u/45247999/BMS/anubasu-anubasu_-_Materialize_Anything_bms.zip",
-   "http://www.mediafire.com/file/6189v1pdj5cnq2x/anubasu-anubasu_-_Materialize_Anything_bms.zip",
-   "https://dl.dropboxusercontent.com/u/45247999/BMS/anubasu-anubasu_-_Materialize_Anything_syuseisabun.zip"
+   "http://www.mediafire.com/file/6189v1pdj5cnq2x/anubasu-anubasu_-_Materialize_Anything_bms.zip"
   ]
  },
  {
@@ -1909,9 +1837,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=157&event=110",
   "files": [],
-  "links": [
-   "http://dl.dropboxusercontent.com/u/86897153/%E9%BB%92%E9%B3%B6%EF%BD%9E%E3%81%93%E3%81%8F%E3%81%88%E3%82%93%EF%BD%9E.zip"
-  ]
+  "links": []
  },
  {
   "num": 158,
@@ -1957,9 +1883,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=161&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B1JnlvW8_EaYZ1Zuc2ljWnNGN2c/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 162,
@@ -1981,9 +1905,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=163&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B1JnlvW8_EaYSy05TWN6SEU4bVE/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 164,
@@ -1993,9 +1915,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=164&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B1JnlvW8_EaYekdxbnZzSExfM0E/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 165,
@@ -2032,8 +1952,8 @@
   "files": [],
   "links": [
    "https://drive.google.com/file/d/0B7rN2JU3m0plRVBvMDFNRWZRTHc/view?usp=sharing",
-   "https://drive.google.com/file/d/0B7rN2JU3m0plWml6UWV6eF9BdzA/view?usp=sharing",
-   "https://drive.google.com/file/d/0B7rN2JU3m0plVFNLTHVraTFoZ1E/view?usp=sharing"
+   "https://drive.google.com/file/d/0B7rN2JU3m0plVFNLTHVraTFoZ1E/view?usp=sharing",
+   "https://drive.google.com/file/d/0B7rN2JU3m0plWml6UWV6eF9BdzA/view?usp=sharing"
   ]
  },
  {
@@ -2069,7 +1989,6 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=170&event=110",
   "files": [],
   "links": [
-   "https://dl.dropboxusercontent.com/u/25097375/BMS/2016/everydayevermore.zip",
    "https://bemuse.ninja/?server=https://be-music.spacet.me/BOFU2016/TEAM-BMSON/"
   ]
  },
@@ -2094,8 +2013,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=110",
   "files": [],
   "links": [
-   "https://www.dropbox.com/s/4jaehqj96c5ca2o/ss_metaboknight_ogg.zip?dl=1",
-   "https://www.dropbox.com/s/xgxmgjbtk9pb954/metabknight_mov.zip?dl=1"
+   "https://www.dropbox.com/s/4jaehqj96c5ca2o/ss_metaboknight_ogg.zip?dl=1"
   ]
  },
  {
@@ -2178,9 +2096,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/38773828/bms/est130_wee.zip"
-  ]
+  "links": []
  },
  {
   "num": 180,
@@ -2203,9 +2119,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=181&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0BysIZAgrZHyIb2F4VFhEWHBQTHM/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 182,
@@ -2215,9 +2129,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=182&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/87173069/REFLET_bmh_idzc_bof2016.zip"
-  ]
+  "links": []
  },
  {
   "num": 183,
@@ -2228,9 +2140,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=183&event=110",
   "files": [],
   "links": [
-   "https://dl.dropboxusercontent.com/u/1725586/triwaste_only_one.zip",
-   "https://drive.google.com/open?id=0B3ERt4PCZKnHM1NKRzdnQW45anM",
-   "https://dl.dropboxusercontent.com/u/1725586/triwaste_only_one_BGA.zip"
+   "https://drive.google.com/open?id=0B3ERt4PCZKnHM1NKRzdnQW45anM"
   ]
  },
  {
@@ -2241,10 +2151,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=184&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B3ruAOjZ5w2HNXhBRmsxel9VODA/view?usp=sharing",
-   "https://drive.google.com/file/d/0B3ruAOjZ5w2Hb1ViWHE5WHlha1k/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 185,
@@ -2506,9 +2413,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=206&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/87297315/BOFU2016/haert_and_end.zip"
-  ]
+  "links": []
  },
  {
   "num": 207,
@@ -2531,8 +2436,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=208&event=110",
   "files": [],
   "links": [
-   "https://dl.dropboxusercontent.com/s/fozzs7l8gd2ahr9/Uma_cerveja_por_favor.zip?dl=0",
-   "https://drive.google.com/open?id=0B-BKhHX9dw3yM0xicVhYcjV4akU"
+   "https://drive.google.com/open?id=0B-BKhHX9dw3yM0xicVhYcjV4akU",
+   "https://dl.dropboxusercontent.com/s/fozzs7l8gd2ahr9/Uma_cerveja_por_favor.zip?dl=0"
   ]
  },
  {
@@ -2678,8 +2583,6 @@
   "files": [],
   "links": [
    "https://drive.google.com/file/d/0Bz11NPCG2jIPZF9fOTJXbV82TEk/view?usp=sharing",
-   "https://drive.google.com/file/d/0Bz11NPCG2jIPNGtjZmU1NVZWVmM/view?usp=sharing",
-   "https://drive.google.com/file/d/0Bz11NPCG2jIPSVVXcHU2MEF1d1E/view",
    "https://drive.google.com/file/d/0Bz11NPCG2jIPYUlXLU0wRGJWRDg/view?usp=sharing"
   ]
  },
@@ -2691,9 +2594,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=221&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/59367462/Midnight%20o%27clock.rar"
-  ]
+  "links": []
  },
  {
   "num": 222,
@@ -2751,9 +2652,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=226&event=110",
   "files": [],
-  "links": [
-   "http://muffler.red/downloadContents/Garefowl.zip"
-  ]
+  "links": []
  },
  {
   "num": 227,
@@ -2801,12 +2700,12 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=230&event=110",
   "files": [],
   "links": [
-   "https://drive.google.com/file/d/0BynfbbNsezMGLVAxUm5nWV9ldGs/view?usp=sharing",
-   "https://drive.google.com/file/d/0BynfbbNsezMGbjctT1I2eUpEZms/view?usp=sharing",
+   "https://drive.google.com/file/d/0BynfbbNsezMGaWV0NGExYjhZUWM/view?usp=sharing",
+   "https://drive.google.com/file/d/0BynfbbNsezMGVFR3amJjcUwyOWc/view?usp=sharing",
    "https://drive.google.com/file/d/0B2iq8HxwTkzgbmRYZWJ0QjhuMzQ/view?usp=sharing",
    "https://drive.google.com/file/d/0B2iq8HxwTkzgdFAySk13Wml2Tzg/view?usp=sharing",
-   "https://drive.google.com/file/d/0BynfbbNsezMGaWV0NGExYjhZUWM/view?usp=sharing",
-   "https://drive.google.com/file/d/0BynfbbNsezMGVFR3amJjcUwyOWc/view?usp=sharing"
+   "https://drive.google.com/file/d/0BynfbbNsezMGLVAxUm5nWV9ldGs/view?usp=sharing",
+   "https://drive.google.com/file/d/0BynfbbNsezMGbjctT1I2eUpEZms/view?usp=sharing"
   ]
  },
  {
@@ -2841,10 +2740,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=233&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B8GwtzMj7C4gcWNsb0wtelVSakE",
-   "https://drive.google.com/open?id=0B8GwtzMj7C4gVGNrLUVSWHFLSkk"
-  ]
+  "links": []
  },
  {
   "num": 234,
@@ -2854,11 +2750,7 @@
   "kind": "Remix",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=234&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B8GwtzMj7C4gQVJCZUdPcVcwbVk",
-   "https://drive.google.com/file/d/0B8GwtzMj7C4gTnoxcVpBay1kNnc/view",
-   "https://drive.google.com/open?id=0B8GwtzMj7C4gMk9kVTVkRUxDMVE"
-  ]
+  "links": []
  },
  {
   "num": 235,
@@ -2868,11 +2760,7 @@
   "kind": "Copy",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=235&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B8GwtzMj7C4gZlQ2eHFBTjVGYnc",
-   "https://drive.google.com/file/d/0B8GwtzMj7C4gdWsyOUhleVJRd28/view",
-   "https://drive.google.com/open?id=0B8GwtzMj7C4gMlZFZG0zMmJYS2c"
-  ]
+  "links": []
  },
  {
   "num": 236,
@@ -2882,9 +2770,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=236&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/67837309/Secret/chicken%20bmson.zip"
-  ]
+  "links": []
  },
  {
   "num": 237,
@@ -2895,7 +2781,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=237&event=110",
   "files": [],
   "links": [
-   "https://www.dropbox.com/s/dybnliss0pxs5le/Dreamin%20Flier.zip?dl=0",
+   "https://www.dropbox.com/s/dybnliss0pxs5le/Dreamin%20Flier.zip?dl=0"
+  ],
+  "addons": [
    "https://www.dropbox.com/sh/wiz4obvxaq7i27h/AACIJK6MXDRxEZw4f9sZCxAwa?dl=0"
   ]
  },
@@ -2932,9 +2820,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=240&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B8zvWi0g7oosNTVSTDNEVFVXM1k/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 241,
@@ -2981,10 +2867,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=244&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B8GwtzMj7C4gVng0QU1JaWZORWM",
-   "https://drive.google.com/open?id=0B8GwtzMj7C4gdmo0WlY5am9jSkU"
-  ]
+  "links": []
  },
  {
   "num": 245,
@@ -2994,10 +2877,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=245&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B8GwtzMj7C4gWC01T1JWQlhzY0U",
-   "https://drive.google.com/open?id=0B8GwtzMj7C4gMjZULVlmZzkzNXM"
-  ]
+  "links": []
  },
  {
   "num": 246,
@@ -3008,12 +2888,12 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=246&event=110",
   "files": [],
   "links": [
-   "https://drive.google.com/open?id=0B2iq8HxwTkzgWnBWWjdsQi1rOXc",
-   "https://drive.google.com/file/d/0BynfbbNsezMGX25aY0dXc1dwZGM",
-   "https://drive.google.com/open?id=0B2iq8HxwTkzgcHlId2h1elVhbGM",
-   "https://drive.google.com/file/d/0BynfbbNsezMGRTJYbHRDOEFtd0k",
    "https://drive.google.com/file/d/0BynfbbNsezMGaWV0NGExYjhZUWM",
-   "https://drive.google.com/file/d/0BynfbbNsezMGVFR3amJjcUwyOWc"
+   "https://drive.google.com/file/d/0BynfbbNsezMGVFR3amJjcUwyOWc",
+   "https://drive.google.com/open?id=0B2iq8HxwTkzgWnBWWjdsQi1rOXc",
+   "https://drive.google.com/open?id=0B2iq8HxwTkzgcHlId2h1elVhbGM",
+   "https://drive.google.com/file/d/0BynfbbNsezMGX25aY0dXc1dwZGM",
+   "https://drive.google.com/file/d/0BynfbbNsezMGRTJYbHRDOEFtd0k"
   ]
  },
  {
@@ -3025,7 +2905,6 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=247&event=110",
   "files": [],
   "links": [
-   "https://dl.dropboxusercontent.com/u/25097375/BMS/2016/bursting-music-star.zip",
    "https://bemuse.ninja/?server=https://be-music.spacet.me/BOFU2016/thai"
   ]
  },
@@ -3062,8 +2941,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=250&event=110",
   "files": [],
   "links": [
-   "https://mega.nz/#!dYJl3A7R!I2kguhN_FsIjCKEnl5UWv5IOCaQyePR7gklIZt1i3wY",
-   "https://www.dropbox.com/s/ohfqra9ssv1g8ch/%E6%99%82%E3%83%8E%E5%AD%90%E4%BE%9B%E3%82%BF%E3%83%81.zip?dl=0"
+   "https://mega.nz/#!dYJl3A7R!I2kguhN_FsIjCKEnl5UWv5IOCaQyePR7gklIZt1i3wY"
   ]
  },
  {
@@ -3100,9 +2978,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=253&event=110",
   "files": [],
-  "links": [
-   "http://qq4q.biz/yINX"
-  ]
+  "links": []
  },
  {
   "num": 254,
@@ -3115,10 +2991,10 @@
   "links": [
    "https://drive.google.com/file/d/0BynfbbNsezMGVG5XbmNOZHRVNVk/view?usp=sharing",
    "https://drive.google.com/file/d/0BynfbbNsezMGUE5veTBEN0VvdzA/view?usp=sharing",
-   "https://drive.google.com/file/d/0B2iq8HxwTkzgNWpyMVRJdmM5WEU/view?usp=sharing",
-   "https://drive.google.com/file/d/0B2iq8HxwTkzgSS1TRUhOS2hQT00/view?usp=sharing",
    "https://drive.google.com/file/d/0BynfbbNsezMGaWV0NGExYjhZUWM/view?usp=sharing",
-   "https://drive.google.com/file/d/0BynfbbNsezMGVFR3amJjcUwyOWc/view?usp=sharing"
+   "https://drive.google.com/file/d/0BynfbbNsezMGVFR3amJjcUwyOWc/view?usp=sharing",
+   "https://drive.google.com/file/d/0B2iq8HxwTkzgNWpyMVRJdmM5WEU/view?usp=sharing",
+   "https://drive.google.com/file/d/0B2iq8HxwTkzgSS1TRUhOS2hQT00/view?usp=sharing"
   ]
  },
  {
@@ -3165,10 +3041,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B3ruAOjZ5w2HU2QtRWpRdWdKS28/view?usp=sharing",
-   "https://drive.google.com/file/d/0B3ruAOjZ5w2HMHE2SXVobW9ZeXM/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 260,
@@ -3191,7 +3064,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=110",
   "files": [],
   "links": [
-   "https://dl.dropboxusercontent.com/s/tvjp4phuqel19y5/LNB60-stumbling.rar",
+   "https://dl.dropboxusercontent.com/s/tvjp4phuqel19y5/LNB60-stumbling.rar"
+  ],
+  "addons": [
    "https://dl.dropboxusercontent.com/s/xd4jijd40512aw8/LNB60-stumbling_sabun.rar"
   ]
  },
@@ -3204,7 +3079,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=110",
   "files": [],
   "links": [
-   "https://dl.dropboxusercontent.com/s/yvj2qapkhchvrqm/LNB59-majesty.rar",
+   "https://dl.dropboxusercontent.com/s/yvj2qapkhchvrqm/LNB59-majesty.rar"
+  ],
+  "addons": [
    "https://dl.dropboxusercontent.com/s/f6dia08dy4r2hga/LNB59-majesty_sabun.rar"
   ]
  },
@@ -3240,9 +3117,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=265&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B2Pb1kBAiENRVmhGZElSampaMkE"
-  ]
+  "links": []
  },
  {
   "num": 266,
@@ -3291,9 +3166,10 @@
   "files": [],
   "links": [
    "https://www.dropbox.com/s/u9h8dwz6w4ohtzd/%5B%E7%8F%BE%E4%BB%A3%E7%9A%84%E5%B9%BB%E6%83%B3%E7%9A%84%E6%A5%BD%E6%9B%B2%5DRE.rar?dl=0",
-   "https://www.dropbox.com/s/j714p6c1ztvvtia/%5B%E7%8F%BE%E4%BB%A3%E7%9A%84%E5%B9%BB%E6%83%B3%E7%9A%84%E6%A5%BD%E6%9B%B2%5DRE_9keys%E5%B7%AE%E5%88%86.rar?dl=0",
-   "https://www.dropbox.com/s/3gxka8o8hnoew0u/%5B%E7%8F%BE%E4%BB%A3%E7%9A%84%E5%B9%BB%E6%83%B3%E7%9A%84%E6%A5%BD%E6%9B%B2%5DRE.wav.rar?dl=0",
-   "https://www.dropbox.com/s/ohfqra9ssv1g8ch/%E6%99%82%E3%83%8E%E5%AD%90%E4%BE%9B%E3%82%BF%E3%83%81.zip?dl=0"
+   "https://www.dropbox.com/s/3gxka8o8hnoew0u/%5B%E7%8F%BE%E4%BB%A3%E7%9A%84%E5%B9%BB%E6%83%B3%E7%9A%84%E6%A5%BD%E6%9B%B2%5DRE.wav.rar?dl=0"
+  ],
+  "addons": [
+   "https://www.dropbox.com/s/j714p6c1ztvvtia/%5B%E7%8F%BE%E4%BB%A3%E7%9A%84%E5%B9%BB%E6%83%B3%E7%9A%84%E6%A5%BD%E6%9B%B2%5DRE_9keys%E5%B7%AE%E5%88%86.rar?dl=0"
   ]
  },
  {
@@ -3366,9 +3242,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=275&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B6sR7Ar5lBpXVHIycDBxbDZ2QmM/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 276,
@@ -3403,7 +3277,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=278&event=110",
   "files": [],
   "links": [
-   "https://www.dropbox.com/s/lbmb9kcclni5ym4/COLORS_wav.zip?dl=0",
+   "https://www.dropbox.com/s/lbmb9kcclni5ym4/COLORS_wav.zip?dl=0"
+  ],
+  "addons": [
    "https://www.dropbox.com/s/id3myom3gc7sgof/COLORS_wav_CT.zip?dl=0"
   ]
  },
@@ -3525,9 +3401,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=290&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0BysIZAgrZHyIcTJkd1pSUVlpR1k/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 291,
@@ -3549,9 +3423,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=292&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B9IgQ_GDHQNdX1JiUDJfUTFxS3c"
-  ]
+  "links": []
  },
  {
   "num": 293,
@@ -3561,9 +3433,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=293&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B9IgQ_GDHQNdZDhCREhTdFAtOHc"
-  ]
+  "links": []
  },
  {
   "num": 294,
@@ -3585,9 +3455,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=295&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B9IgQ_GDHQNdcE9DM1AwUktnUjQ"
-  ]
+  "links": []
  },
  {
   "num": 296,
@@ -3597,9 +3465,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=296&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B6T9Dzbce7JUWlQzQTI1X3dUdzg"
-  ]
+  "links": []
  },
  {
   "num": 297,
@@ -3609,9 +3475,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=297&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B9IgQ_GDHQNdQUw3cVNReWJKRjQ"
-  ]
+  "links": []
  },
  {
   "num": 298,
@@ -3633,9 +3497,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=299&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B9IgQ_GDHQNdTzRDcngyRVl2X1E"
-  ]
+  "links": []
  },
  {
   "num": 300,
@@ -3646,7 +3508,6 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=300&event=110",
   "files": [],
   "links": [
-   "https://dl.dropboxusercontent.com/u/93953374/shinsou_doitzno9.zip",
    "http://www.luzeria.net/music/shinsou_doitzno9.zip"
   ]
  },
@@ -3658,9 +3519,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=301&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B9IgQ_GDHQNdNUZMMFhteWpMTk0"
-  ]
+  "links": []
  },
  {
   "num": 302,
@@ -3670,9 +3529,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=302&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/65319630/bofu2016/piece_of_mine.zip"
-  ]
+  "links": []
  },
  {
   "num": 303,
@@ -3718,9 +3575,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B3ruAOjZ5w2HQjZBbnVnaVlDUm8/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 308,
@@ -3817,10 +3672,10 @@
   "links": [
    "https://drive.google.com/file/d/0BynfbbNsezMGeFMxZ0w5WHVyMU0/view?usp=sharing",
    "https://drive.google.com/file/d/0BynfbbNsezMGTzRFTW1RS1hud3c/view?usp=sharing",
-   "https://drive.google.com/file/d/0B2iq8HxwTkzgUHFkTmFkNGsybUE/view?usp=sharing",
-   "https://drive.google.com/file/d/0B2iq8HxwTkzgWHRqNUVpWElodEE/view?usp=sharing",
    "https://drive.google.com/file/d/0BynfbbNsezMGaWV0NGExYjhZUWM/view?usp=sharing",
-   "https://drive.google.com/file/d/0BynfbbNsezMGVFR3amJjcUwyOWc/view?usp=sharing"
+   "https://drive.google.com/file/d/0BynfbbNsezMGVFR3amJjcUwyOWc/view?usp=sharing",
+   "https://drive.google.com/file/d/0B2iq8HxwTkzgUHFkTmFkNGsybUE/view?usp=sharing",
+   "https://drive.google.com/file/d/0B2iq8HxwTkzgWHRqNUVpWElodEE/view?usp=sharing"
   ]
  },
  {
@@ -3856,7 +3711,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=318&event=110",
   "files": [],
   "links": [
-   "https://www.dropbox.com/s/r09oel6th4m8i2c/hp_bw2iris_ogg.zip?dl=1",
+   "https://www.dropbox.com/s/r09oel6th4m8i2c/hp_bw2iris_ogg.zip?dl=1"
+  ],
+  "addons": [
    "https://www.dropbox.com/s/u3tnmti0j5fcivx/hp_bw2iris_typeN_7N.zip?dl=1"
   ]
  },
@@ -3868,10 +3725,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=319&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/2081567/bms/driving_wind_ogg.zip",
-   "https://dl.dropboxusercontent.com/u/2081567/bms/driving_wind_wav.zip"
-  ]
+  "links": []
  },
  {
   "num": 320,
@@ -3881,9 +3735,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=320&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/24418657/BMS/8_to_7-Unreal_Wasteland.zip"
-  ]
+  "links": []
  },
  {
   "num": 321,
@@ -3954,8 +3806,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=326&event=110",
   "files": [],
   "links": [
-   "http://pwsl.sakura.ne.jp?download=126783",
-   "http://daida.tv/bms/[BOFU2016]DAIDA_THREE_BROTHERS.zip"
+   "http://daida.tv/bms/[BOFU2016]DAIDA_THREE_BROTHERS.zip",
+   "http://pwsl.sakura.ne.jp?download=126783"
   ]
  },
  {
@@ -3966,9 +3818,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=327&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/24418657/BMS/8_to_7-Amber_Light.zip"
-  ]
+  "links": []
  },
  {
   "num": 328,
@@ -3991,7 +3841,6 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=329&event=110",
   "files": [],
   "links": [
-   "https://dl.dropboxusercontent.com/u/54555387/bms/%5BBMSON%5DGoliath_ogg.zip",
    "https://drive.google.com/open?id=0B2H4n5O4rM2KYWx3Z3BnNjlaX2M",
    "https://bemuse.ninja/?server=https://be-music.spacet.me/BOFU2016/TEAM-BMSON/"
   ]
@@ -4079,9 +3928,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=336&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/107522853/bms/%5BCosmo%20burst%5D%20Rebreath%20-HOUJIROU.rar"
-  ]
+  "links": []
  },
  {
   "num": 337,
@@ -4166,7 +4013,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=343&event=110",
   "files": [],
   "links": [
-   "https://www.dropbox.com/s/y0c5yvrvi43xngj/Azrael%20Stream.zip?dl=0",
+   "https://www.dropbox.com/s/y0c5yvrvi43xngj/Azrael%20Stream.zip?dl=0"
+  ],
+  "addons": [
    "https://www.dropbox.com/s/94ayu2e0xsl6uxf/Azrael%20Stream-BGA.zip?dl=0"
   ]
  },
@@ -4238,9 +4087,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=349&event=110",
   "files": [],
-  "links": [
-   "http://iamjackg.com/JackG%20-%20RaGGaMaNZIa.7z"
-  ]
+  "links": []
  },
  {
   "num": 350,
@@ -4251,7 +4098,6 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=350&event=110",
   "files": [],
   "links": [
-   "https://drive.google.com/open?id=0B2FYk0gprrHMVmlLa05uTkJ6R3M",
    "https://www.dropbox.com/s/m6jgobvbyvhy30l/%5BBOFU2016%5D%E7%84%A1%E5%90%8D%E6%88%A613%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3.zip?dl=1"
   ]
  },
@@ -4299,9 +4145,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/87375397/%5BBOFU2016%5DAIWS%28ogg%29%5BKurubukko%5D.zip"
-  ]
+  "links": []
  },
  {
   "num": 355,
@@ -4349,8 +4193,8 @@
   "files": [],
   "links": [
    "https://www.dropbox.com/s/wawu1i83ae7cqci/%5Bkazunocobit%5Daojirokute_tsumetai%20%28ogg%29.zip?dl=0",
-   "http://ux.getuploader.com/kazunoco/download/15/%5Bkazunocobit%5Daojirokute_tsumetai+%28ogg%29.zip",
-   "https://www.dropbox.com/s/hfegapxdp7orkwz/%5Bkazunocobit%5Daojirokute_tsumetai%20%28wav%29.zip?dl=0"
+   "https://www.dropbox.com/s/hfegapxdp7orkwz/%5Bkazunocobit%5Daojirokute_tsumetai%20%28wav%29.zip?dl=0",
+   "http://ux.getuploader.com/kazunoco/download/15/%5Bkazunocobit%5Daojirokute_tsumetai+%28ogg%29.zip"
   ]
  },
  {
@@ -4471,7 +4315,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=368&event=110",
   "files": [],
   "links": [
-   "https://www.dropbox.com/s/8fi4fibe2wgkztl/organizer.rar?dl=0",
+   "https://www.dropbox.com/s/8fi4fibe2wgkztl/organizer.rar?dl=0"
+  ],
+  "addons": [
    "https://www.dropbox.com/s/j8iujlx4qnvb05z/organizer_syusei.zip?dl=0"
   ]
  },
@@ -4520,9 +4366,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=372&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B3ruAOjZ5w2HbHhhZEFtMHdram8/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 373,
@@ -4580,9 +4424,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=377&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B194Ylh4s7moRklkRWR2aEROTk0/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 378,
@@ -4592,9 +4434,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=378&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B194Ylh4s7moYV9QYmljUTBUbUU/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 379,
@@ -4604,9 +4444,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=379&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B194Ylh4s7moYzNuOXdBdDFoV1E/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 380,
@@ -4640,9 +4478,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=382&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/87173069/ZINC_ndk_bof2016.zip"
-  ]
+  "links": []
  },
  {
   "num": 383,
@@ -4665,7 +4501,8 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=384&event=110",
   "files": [],
-  "links": [
+  "links": [],
+  "addons": [
    "https://www.dropbox.com/s/vt4kcrb07uhp1uy/haou_aura.rar?dl=1"
   ]
  },
@@ -4713,9 +4550,7 @@
   "kind": "Remix",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/80023107/sugoi_route209/sugoi_route209_ogg.zip"
-  ]
+  "links": []
  },
  {
   "num": 389,
@@ -4725,9 +4560,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B5p6Fs4qIQ0IejhXbHk2RmxEMFU"
-  ]
+  "links": []
  },
  {
   "num": 390,
@@ -4882,10 +4715,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=402&event=110",
   "files": [],
-  "links": [
-   "http://kaikou.nothing.sh/bms/S5RFMG_ogg.rar",
-   "http://kaikou.nothing.sh/bms/S5RFMG_wav.rar"
-  ]
+  "links": []
  },
  {
   "num": 403,
@@ -4956,9 +4786,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=408&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/32124994/spareribs.rar"
-  ]
+  "links": []
  },
  {
   "num": 409,
@@ -5127,9 +4955,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=422&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B_6yYGJI9GyKVUl6aFM5WTI2ckU/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 423,
@@ -5200,9 +5026,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=428&event=110",
   "files": [],
-  "links": [
-   "http://dl.dropboxusercontent.com/u/87133313/BMS/arosonik%27A_ogg.zip"
-  ]
+  "links": []
  },
  {
   "num": 429,
@@ -5212,10 +5036,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=429&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/27513776/bof2016/cleistogamy.zip",
-   "https://dl.dropboxusercontent.com/u/27513776/bof2016/cleistogamy_fix.zip"
-  ]
+  "links": []
  },
  {
   "num": 430,
@@ -5225,10 +5046,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B8GwtzMj7C4gLTBxZTd1bkNjRG8",
-   "https://drive.google.com/open?id=0B8GwtzMj7C4gVmlsTWtMN0s2a3c"
-  ]
+  "links": []
  },
  {
   "num": 433,
@@ -5238,9 +5056,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=433&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/24418657/BMS/Karous-icfu2016.zip"
-  ]
+  "links": []
  },
  {
   "num": 435,
@@ -5288,8 +5104,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=438&event=110",
   "files": [],
   "links": [
-   "https://data.korsnack.kr/bms/161002_happy_escape.zip",
-   "https://drive.google.com/file/d/0B62jB-6KncH4bmpkUm1aSEl2cVU/view"
+   "https://data.korsnack.kr/bms/161002_happy_escape.zip"
   ]
  },
  {
@@ -5313,7 +5128,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=440&event=110",
   "files": [],
   "links": [
-   "http://www.mediafire.com/file/m7tbk2ssd654u5q/%5BHammer+Switch%5DLots+Of+Spices-ogg.zip",
+   "http://www.mediafire.com/file/m7tbk2ssd654u5q/%5BHammer+Switch%5DLots+Of+Spices-ogg.zip"
+  ],
+  "addons": [
    "http://www.mediafire.com/file/tmtmyy89bu3kf2t/%5BHammer+Switch%5DLots+Of+Spices-ogg.zip"
   ]
  },
@@ -5362,9 +5179,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B3ruAOjZ5w2HbmxwN0hYT09aMjA/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 445,
@@ -5425,9 +5240,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=449&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/34120259/BOFU2016/maru-NewPeriod.zip"
-  ]
+  "links": []
  },
  {
   "num": 450,
@@ -5451,8 +5264,8 @@
   "files": [],
   "links": [
    "https://www.dropbox.com/s/4wqw0ysdd05eaoj/%5BMEGALOPULSE%5DNIKITA_Fakeover.zip?dl=1",
-   "https://1drv.ms/u/s!Ag8Qc24Ds3n_gUxQ-v75Lccmq_s-",
-   "http://www.mediafire.com/file/akd71slc9zll73t/MEGALOPULSE.zip"
+   "http://www.mediafire.com/file/akd71slc9zll73t/MEGALOPULSE.zip",
+   "https://1drv.ms/u/s!Ag8Qc24Ds3n_gUxQ-v75Lccmq_s-"
   ]
  },
  {
@@ -5584,9 +5397,7 @@
   "kind": "Arrange",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=462&event=110",
   "files": [],
-  "links": [
-   "http://kagerow.net/bms/kimitoarukumichi.zip"
-  ]
+  "links": []
  },
  {
   "num": 463,
@@ -5596,7 +5407,8 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=463&event=110",
   "files": [],
-  "links": [
+  "links": [],
+  "addons": [
    "https://drive.google.com/file/d/0B7UDQUaZcBtnQVFHUXNpV0Q0RkE/view?usp=sharing"
   ]
  },
@@ -5633,9 +5445,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=466&event=110",
   "files": [],
   "links": [
-   "https://www.dropbox.com/s/q5dwsubo5vhqo8d/eicateve_luca_ogg-mqbga.rar?dl=1",
-   "https://www.dropbox.com/s/2sfpll8vl7hm176/eicateve_luca_hqbga.rar?dl=1",
-   "https://www.dropbox.com/s/0f519tbhexm6uml/eicateve_luca_lqbga.rar?dl=1"
+   "https://www.dropbox.com/s/q5dwsubo5vhqo8d/eicateve_luca_ogg-mqbga.rar?dl=1"
   ]
  },
  {
@@ -5683,9 +5493,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=470&event=110",
   "files": [],
-  "links": [
-   "http://dl.dropboxusercontent.com/u/86927902/black_submarine.rar"
-  ]
+  "links": []
  },
  {
   "num": 471,
@@ -5708,8 +5516,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=472&event=110",
   "files": [],
   "links": [
-   "https://mega.nz/#!RwJFyDZK!-WjeO7nl0wmSDVTgrFMvaa-C7b69lGy-I5ZS4cAseSI",
-   "http://www.megafileupload.com/g2qi/TheEarth.zip"
+   "http://www.megafileupload.com/g2qi/TheEarth.zip",
+   "https://mega.nz/#!RwJFyDZK!-WjeO7nl0wmSDVTgrFMvaa-C7b69lGy-I5ZS4cAseSI"
   ]
  },
  {
@@ -5720,9 +5528,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=473&event=110",
   "files": [],
-  "links": [
-   "http://cerebralmuddystream.nekokan.dyndns.info/BMS/0_wosderge_fgsbs.zip"
-  ]
+  "links": []
  },
  {
   "num": 474,
@@ -5747,8 +5553,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=110",
   "files": [],
   "links": [
-   "https://mega.nz/#!k9IESL7K!1_iYFUsjXlw8VTIbSH238m8dsb2_HwHXNF97kHBrn1k",
-   "http://www.megafileupload.com/g2q0/ColdHands.zip"
+   "http://www.megafileupload.com/g2q0/ColdHands.zip",
+   "https://mega.nz/#!k9IESL7K!1_iYFUsjXlw8VTIbSH238m8dsb2_HwHXNF97kHBrn1k"
   ]
  },
  {
@@ -5821,8 +5627,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=481&event=110",
   "files": [],
   "links": [
-   "https://www.dropbox.com/s/nyuybu6n9mnu091/%5Bcellon.%5Dsorayume_bgaupdate.zip?dl=0",
-   "https://www.dropbox.com/s/2rhaqa8sewuzna0/sorayume_bga.zip?dl=0"
+   "https://www.dropbox.com/s/nyuybu6n9mnu091/%5Bcellon.%5Dsorayume_bgaupdate.zip?dl=0"
   ]
  },
  {
@@ -5858,9 +5663,7 @@
   "kind": "Arrange",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=484&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/80717290/Animate%E3%81%AE%E7%B7%B4%E7%BF%92.zip"
-  ]
+  "links": []
  },
  {
   "num": 485,
@@ -5943,9 +5746,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=491&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/28376944/sx_bofu2016_mono.zip"
-  ]
+  "links": []
  },
  {
   "num": 492,
@@ -6005,7 +5806,6 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=496&event=110",
   "files": [],
   "links": [
-   "http://raymaykikou.com/bms/ds2016_xiatlice_ogg.zip",
    "https://docs.google.com/uc?id=0ByS9Wlo7KZbxdnF5WXk0T1NpZUE&export=download"
   ]
  },
@@ -6018,8 +5818,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=497&event=110",
   "files": [],
   "links": [
-   "https://www.axfc.net/u/3729455",
    "https://www.dropbox.com/s/fi6bdmqrj5s4dve/Earthlight_1013update_2.zip?dl=0",
+   "https://www.axfc.net/u/3729455",
    "https://www.axfc.net/u/3729454",
    "https://www.axfc.net/u/3729395"
   ]
@@ -6034,11 +5834,8 @@
   "files": [],
   "links": [
    "http://leafbms.web.fc2.com/song.html",
-   "https://dl.dropboxusercontent.com/u/87878874/bms/%5Bclover%5DLeaF_Aleph0.zip",
-   "http://optie.tv/[clover]LeaF_Aleph0.zip",
    "https://docs.google.com/uc?export=download&confirm=g2kV&id=0B32gNGhdrZhKc1h0QWJUdy0zTlk",
-   "https://dl.dropboxusercontent.com/u/87878874/bms/Aleph0_begin.zip",
-   "https://dl.dropboxusercontent.com/u/87878874/bms/Aleph0_fix.zip"
+   "http://optie.tv/[clover]LeaF_Aleph0.zip"
   ]
  },
  {
@@ -6061,11 +5858,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=500&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/64302289/BMS/makino_Heartcatch_ogg.rar",
-   "https://dl.dropboxusercontent.com/u/64302289/BMS/makino_Heartcatch_%E5%B7%AE%E5%88%86.rar",
-   "https://dl.dropboxusercontent.com/u/64302289/BMS/makino_Heartcatch_wav.rar"
-  ]
+  "links": []
  },
  {
   "num": 501,
@@ -6077,9 +5870,8 @@
   "files": [],
   "links": [
    "http://leafbms.web.fc2.com/song.html",
-   "https://dl.dropboxusercontent.com/u/87878874/bms/%5Bclover%5DLeaF_AliceinMisanthrope.zip",
-   "http://optie.tv/[clover]LeaF_AliceinMisanthrope.zip",
-   "https://docs.google.com/uc?export=download&confirm=0Ijd&id=0B32gNGhdrZhKUG92Y3d6VkNvRUU"
+   "https://docs.google.com/uc?export=download&confirm=0Ijd&id=0B32gNGhdrZhKUG92Y3d6VkNvRUU",
+   "http://optie.tv/[clover]LeaF_AliceinMisanthrope.zip"
   ]
  },
  {
@@ -6114,9 +5906,7 @@
   "kind": "Arrange",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=504&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/80717290/%E3%82%82%E3%81%86%E3%81%A0%E3%82%81%E3%81%A0.zip"
-  ]
+  "links": []
  },
  {
   "num": 505,
@@ -6177,8 +5967,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=509&event=110",
   "files": [],
   "links": [
-   "http://beatmaniauet.sakura.ne.jp/BMS/uet_azteks_ogg.zip",
-   "http://dl.dropboxusercontent.com/u/60346274/BOFU2016/uet_azteks_ogg.zip"
+   "http://beatmaniauet.sakura.ne.jp/BMS/uet_azteks_ogg.zip"
   ]
  },
  {
@@ -6189,9 +5978,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=510&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/0B3ruAOjZ5w2HSmtLbVdOTDVvSDA/view?usp=sharing"
-  ]
+  "links": []
  },
  {
   "num": 511,
@@ -6237,9 +6024,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=514&event=110",
   "files": [],
-  "links": [
-   "https://docs.google.com/uc?id=0B4Fhcg03Z-ctbF9DbUZXUUxNOEE&export=download"
-  ]
+  "links": []
  },
  {
   "num": 515,
@@ -6299,10 +6084,8 @@
   "files": [],
   "links": [
    "http://www.nekomirin.com/bms/nekomirin_scf_HQogg_with_HQbga.zip",
-   "http://www.nekomirin.com/bms/nekomirin_scf_append_HQbga.zip",
    "http://daida.tv/bms/BOFU2016_noranekoxi.zip",
-   "http://www.nekomirin.com/bms/nekomirin_scf_HQogg.zip",
-   "https://dl.dropboxusercontent.com/u/48382591/bms/nekomirin_scf_HQogg.zip"
+   "http://www.nekomirin.com/bms/nekomirin_scf_HQogg.zip"
   ]
  },
  {
@@ -6314,9 +6097,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=521&event=110",
   "files": [],
   "links": [
+   "http://www.mediafire.com/file/ahw5pntnrcw0te7/the_final_elysion.zip",
    "https://www.dropbox.com/s/3ei78icd1wjh4fz/the_final_elysion.zip?dl=1",
-   "https://www.dropbox.com/s/1excujf33o2ywh3/tfe_bgi.zip?dl=1",
-   "http://www.mediafire.com/file/ahw5pntnrcw0te7/the_final_elysion.zip"
+   "https://www.dropbox.com/s/1excujf33o2ywh3/tfe_bgi.zip?dl=1"
   ]
  },
  {
@@ -6353,9 +6136,7 @@
   "files": [],
   "links": [
    "http://leafbms.web.fc2.com/song.html",
-   "https://dl.dropboxusercontent.com/u/87878874/bms/%5Bclover%5DLeaF_ATHAZA_1103.zip",
-   "https://docs.google.com/uc?export=download&confirm=l6_6&id=0B32gNGhdrZhKbWdudWhyVk9LMzQ",
-   "https://dl.dropboxusercontent.com/u/87878874/bms/_athaza_fx.zip"
+   "https://docs.google.com/uc?export=download&confirm=l6_6&id=0B32gNGhdrZhKbWdudWhyVk9LMzQ"
   ]
  },
  {
@@ -6378,9 +6159,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=526&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/59626843/xrv_steelblue.rar"
-  ]
+  "links": []
  },
  {
   "num": 527,
@@ -6391,7 +6170,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=527&event=110",
   "files": [],
   "links": [
-   "http://ogut.sakura.ne.jp/temp/BMS_FinalAction.7z",
+   "http://ogut.sakura.ne.jp/temp/BMS_FinalAction.7z"
+  ],
+  "addons": [
    "http://ogut.sakura.ne.jp/temp/BMS_FinalAction_10Key.zip"
   ]
  },
@@ -6477,10 +6258,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=534&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/93953374/spine_exoticas_ogg.zip",
-   "https://dl.dropboxusercontent.com/u/93953374/spine_exoticas_ogg_shusei.zip"
-  ]
+  "links": []
  },
  {
   "num": 535,
@@ -6490,10 +6268,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=535&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/106790826/galette%20des%20rois.zip",
-   "https://dl.dropboxusercontent.com/u/106790826/galette_des_rois_Another.zip"
-  ]
+  "links": []
  },
  {
   "num": 536,
@@ -6504,7 +6279,6 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=536&event=110",
   "files": [],
   "links": [
-   "https://dl.dropboxusercontent.com/u/23481644/bms/2016/Festa_Lemuria_ogg.zip",
    "http://daida.tv/bms/Festa_Lemuria_ogg.zip",
    "http://daida.tv/bms/BOFU2016_noranekoxi.zip"
   ]
@@ -6530,8 +6304,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=538&event=110",
   "files": [],
   "links": [
-   "https://www.dropbox.com/s/20dvnzsqipq4684/%5Bs-don%5DFlame_War_ogg.zip?dl=0",
-   "https://www.dropbox.com/s/hdr8b3t3xu4eqmd/%5Bs-don%5DFlame_War_BGA.zip?dl=0"
+   "https://www.dropbox.com/s/20dvnzsqipq4684/%5Bs-don%5DFlame_War_ogg.zip?dl=0"
   ]
  },
  {
@@ -6566,9 +6339,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=541&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/29574774/BOFU2016%20Keisuke%20Hara%20Kako%20%E7%84%A1%E7%88%86%E5%8B%A2%20(2).zip"
-  ]
+  "links": []
  },
  {
   "num": 542,
@@ -6628,10 +6399,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=546&event=110",
   "files": [],
-  "links": [
-   "http://kaikou.nothing.sh/bms/ymtsrsd_ogg.rar",
-   "http://kaikou.nothing.sh/bms/ymtsrsd.rar"
-  ]
+  "links": []
  },
  {
   "num": 547,
@@ -6678,8 +6446,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=550&event=110",
   "files": [],
   "links": [
-   "https://goo.gl/R5Z3vB",
-   "http://www.mediafire.com/file/akd71slc9zll73t/MEGALOPULSE.zip"
+   "http://www.mediafire.com/file/akd71slc9zll73t/MEGALOPULSE.zip",
+   "https://goo.gl/R5Z3vB"
   ]
  },
  {
@@ -6718,7 +6486,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=553&event=110",
   "files": [],
   "links": [
-   "http://gensoukyousoukyoku.nekokan.dyndns.info/4-LU-robb_ahar_chawVIP.rar",
+   "http://gensoukyousoukyoku.nekokan.dyndns.info/4-LU-robb_ahar_chawVIP.rar"
+  ],
+  "addons": [
    "http://gensoukyousoukyoku.nekokan.dyndns.info/robb_ahar_chawVIP_7+14.rar"
   ]
  },
@@ -6733,8 +6503,10 @@
   "links": [
    "https://dl.dropboxusercontent.com/s/o342kqdixtgur0q/wakeani_daida_forever_ogg.rar",
    "https://dl.dropboxusercontent.com/s/vz681yjd9ymuzsa/wakeani_daida_forever_wav.rar",
-   "https://dl.dropboxusercontent.com/s/ikx25o7lcly0ow3/daida_forever_fix01.rar",
    "http://daida.tv/bms/[BOFU2016]DAIDA_THREE_BROTHERS.zip"
+  ],
+  "addons": [
+   "https://dl.dropboxusercontent.com/s/ikx25o7lcly0ow3/daida_forever_fix01.rar"
   ]
  },
  {
@@ -6808,9 +6580,11 @@
   "files": [],
   "links": [
    "https://www.dropbox.com/s/zb77h24twsq5ky8/Getty%20vs%20DJ%20DiA%20-%20Grayed%20Out%20-Antifront%5Bogg%5D.zip?dl=0",
-   "https://www.dropbox.com/s/fisuosedjoudlfk/Grayed%20Out%20Hyper_Fix.zip?dl=0",
-   "https://www.dropbox.com/s/7mcjlonurn7iq4k/Grayed%20Out%20Another.zip?dl=0",
    "https://goo.gl/0pW3y7"
+  ],
+  "addons": [
+   "https://www.dropbox.com/s/fisuosedjoudlfk/Grayed%20Out%20Hyper_Fix.zip?dl=0",
+   "https://www.dropbox.com/s/7mcjlonurn7iq4k/Grayed%20Out%20Another.zip?dl=0"
   ]
  },
  {
@@ -6882,8 +6656,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=567&event=110",
   "files": [],
   "links": [
-   "https://drive.google.com/open?id=0BzSPWWdFFhk7ZXBfSnMzSGRMLWs",
-   "https://drive.google.com/open?id=0BzSPWWdFFhk7ZmpiT2hCWTVDSEk"
+   "https://drive.google.com/open?id=0BzSPWWdFFhk7ZXBfSnMzSGRMLWs"
   ]
  },
  {
@@ -6918,9 +6691,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=570&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/87173069/CallofRuin_A16th_idzc_bof2016.zip"
-  ]
+  "links": []
  },
  {
   "num": 571,
@@ -6955,8 +6726,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=573&event=110",
   "files": [],
   "links": [
-   "https://drive.google.com/file/d/0B-dlO0zMOBx5QVpFdTdGa0tPS2s/view?usp=sharing",
-   "https://drive.google.com/file/d/0B-dlO0zMOBx5dGdmenpObzhMRXM/view?usp=sharing"
+   "https://drive.google.com/file/d/0B-dlO0zMOBx5QVpFdTdGa0tPS2s/view?usp=sharing"
   ]
  },
  {
@@ -7029,7 +6799,6 @@
   "files": [],
   "links": [
    "https://www.dropbox.com/s/j0jm3cm3ds5d9ur/%E3%80%90BOFU2016%E3%80%91%E7%BF%A1%E4%B9%83%E3%82%A4%E3%82%B9%E3%82%AB%20vs%20Iriss%20-%20Booouncing%21%21__.zip?dl=1",
-   "https://www.dropbox.com/s/hst87ftpiofgipx/Booouncing_BGA.zip?dl=0",
    "https://goo.gl/0pW3y7"
   ]
  },
@@ -7053,12 +6822,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=581&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/53751238/Ino_BOFU2016_Natsuino_OGG.zip",
-   "http://str3.org/data/bms/Ino_BOFU2016_Natsuino_OGG.zip",
-   "https://dl.dropboxusercontent.com/u/53751238/Ino_BOFU2016_Natsuino.zip",
-   "http://str3.org/data/bms/Ino_BOFU2016_Natsuino.zip"
-  ]
+  "links": []
  },
  {
   "num": 582,
@@ -7105,9 +6869,11 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=585&event=110",
   "files": [],
   "links": [
-   "http://daida.tv/bms/nm45_bonono.zip",
-   "http://necoco.2-d.jp/bms/nm45_bonono.zip",
    "http://daida.tv/bms/[BOFU2016]DAIDA_THREE_BROTHERS.zip"
+  ],
+  "addons": [
+   "http://daida.tv/bms/nm45_bonono.zip",
+   "http://necoco.2-d.jp/bms/nm45_bonono.zip"
   ]
  },
  {
@@ -7118,9 +6884,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=586&event=110",
   "files": [],
-  "links": [
-   "https://dl.dropboxusercontent.com/u/75920885/%5Bdaph%5Dsilver_eater_ogg.zip"
-  ]
+  "links": []
  },
  {
   "num": 587,
@@ -7251,9 +7015,7 @@
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=597&event=110",
   "files": [],
-  "links": [
-   "https://drive.google.com/open?id=0B1_FI2qyOKE1MGJ4NXhpYmt2dXM"
-  ]
+  "links": []
  },
  {
   "num": 598,
@@ -7265,8 +7027,10 @@
   "files": [],
   "links": [
    "https://archive.org/download/BMS_DiagonalT_Riviera_mod/DiagonalT_Riviera_mod_ogg_161007.7z",
-   "https://archive.org/download/BMS_DiagonalT_Riviera_mod/DiagonalT_Riviera_mod_161007HA.zip",
    "https://archive.org/download/BMS_DiagonalT_Riviera_mod/DiagonalT_Riviera_mod_161007.7z"
+  ],
+  "addons": [
+   "https://archive.org/download/BMS_DiagonalT_Riviera_mod/DiagonalT_Riviera_mod_161007HA.zip"
   ]
  },
  {
@@ -7291,7 +7055,6 @@
   "files": [],
   "links": [
    "https://www.dropbox.com/s/h8fdzs82porc6hz/mu13e_kefi_vs_otaki.zip?dl=1",
-   "https://drive.google.com/file/d/0B0B-fsspr4zqU2h6OWpKSUpTVGM/view",
    "https://www.dropbox.com/s/m6jgobvbyvhy30l/%5BBOFU2016%5D%E7%84%A1%E5%90%8D%E6%88%A613%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3.zip?dl=1"
   ]
  },
@@ -7352,8 +7115,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=605&event=110",
   "files": [],
   "links": [
-   "https://drive.google.com/open?id=0B2_n2JOfaKpJUXlYRUFFaTIxMGM",
-   "https://www.dropbox.com/s/4t3e5bpe53d37b9/BOFU_blue.zip?dl=1"
+   "https://www.dropbox.com/s/4t3e5bpe53d37b9/BOFU_blue.zip?dl=1",
+   "https://drive.google.com/open?id=0B2_n2JOfaKpJUXlYRUFFaTIxMGM"
   ]
  },
  {
@@ -7377,8 +7140,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=607&event=110",
   "files": [],
   "links": [
-   "https://drive.google.com/open?id=0B2_n2JOfaKpJZUUtLWxwM0ppT2c",
-   "https://www.dropbox.com/s/lbbabba9lgse5s0/BOFU_af_f.zip?dl=1"
+   "https://www.dropbox.com/s/lbbabba9lgse5s0/BOFU_af_f.zip?dl=1",
+   "https://drive.google.com/open?id=0B2_n2JOfaKpJZUUtLWxwM0ppT2c"
   ]
  },
  {
@@ -7390,8 +7153,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=609&event=110",
   "files": [],
   "links": [
-   "https://drive.google.com/open?id=0B2_n2JOfaKpJNV91N1BNVzJ4SlE",
-   "https://www.dropbox.com/s/a3czccezpompdg6/BOFU_glory_night.zip?dl=0"
+   "https://www.dropbox.com/s/a3czccezpompdg6/BOFU_glory_night.zip?dl=0",
+   "https://drive.google.com/open?id=0B2_n2JOfaKpJNV91N1BNVzJ4SlE"
   ]
  },
  {
@@ -7439,8 +7202,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=613&event=110",
   "files": [],
   "links": [
-   "http://ux.getuploader.com/exStreamers_BMS/download/11/World+Raw+Ci+A%28ex%C2%A7tream%29.zip",
-   "https://www.dropbox.com/s/9wb2jeqpzvhi3wo/World%20Raw%20Ci%20A%28ex%C2%A7tream%29.zip?dl=0"
+   "https://www.dropbox.com/s/9wb2jeqpzvhi3wo/World%20Raw%20Ci%20A%28ex%C2%A7tream%29.zip?dl=0",
+   "http://ux.getuploader.com/exStreamers_BMS/download/11/World+Raw+Ci+A%28ex%C2%A7tream%29.zip"
   ]
  },
  {
