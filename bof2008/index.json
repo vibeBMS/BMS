@@ -20,8 +20,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=54",
   "files": [],
   "links": [
-   "http://sound.jp/soubrother/gear.html",
-   "http://uploader.bms.ms/data/bof2008/gear.rar"
+   "http://uploader.bms.ms/data/bof2008/gear.rar",
+   "http://sound.jp/soubrother/gear.html"
   ]
  },
  {
@@ -33,8 +33,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=54",
   "files": [],
   "links": [
-   "http://sound.jp/soubrother/taxi.html",
-   "http://uploader.bms.ms/data/bof2008/taxi_driver.rar"
+   "http://uploader.bms.ms/data/bof2008/taxi_driver.rar",
+   "http://sound.jp/soubrother/taxi.html"
   ]
  },
  {
@@ -46,8 +46,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=54",
   "files": [],
   "links": [
-   "http://sound.jp/soubrother/guu.html",
-   "http://uploader.bms.ms/data/bof2008/guu.rar"
+   "http://uploader.bms.ms/data/bof2008/guu.rar",
+   "http://sound.jp/soubrother/guu.html"
   ]
  },
  {
@@ -133,9 +133,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=54",
   "files": [],
-  "links": [
-   "http://www.siromaru.com/siromaru_absurd_gaff.rar"
-  ]
+  "links": []
  },
  {
   "num": 12,
@@ -146,8 +144,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=54",
   "files": [],
   "links": [
-   "http://uploader.bms.ms/data/bof2008/belly.rar",
-   "http://sound.jp/morigasigeru/belly.html"
+   "http://uploader.bms.ms/data/bof2008/belly.rar"
   ]
  },
  {
@@ -183,8 +180,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=54",
   "files": [],
   "links": [
-   "http://loki-okiba.net/bms/monolith_bms.rar",
-   "http://loki-okiba.net/bms/monolith_bga_hq.rar"
+   "http://loki-okiba.net/bms/monolith_bms.rar"
   ]
  },
  {
@@ -196,8 +192,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=54",
   "files": [],
   "links": [
-   "http://loki-okiba.net/bms/code_endymion_bms.rar",
-   "http://loki-okiba.net/bms/code_endymion_bga_hq.rar"
+   "http://loki-okiba.net/bms/code_endymion_bms.rar"
   ]
  },
  {
@@ -407,10 +402,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=54",
   "files": [],
-  "links": [
-   "http://fallbms.s335.xrea.com/files/bms/tr524_ogg.zip",
-   "http://fallbms.s335.xrea.com/files/bms/tr524_wav.zip"
-  ]
+  "links": []
  },
  {
   "num": 34,
@@ -570,9 +562,7 @@
   "files": [],
   "links": [
    "http://nekokan.dyndns.info/~anonymous/bof2008/ky/freeze_time_hq_ogg.rar",
-   "http://uploader.bms.ms/data/bof2008/freeze_time_hq_ogg.rar",
-   "http://nekokan.dyndns.info/~anonymous/bof2008/ky/freeze_time_lq.rar",
-   "http://uploader.bms.ms/data/bof2008/freeze_time_lq.rar"
+   "http://nekokan.dyndns.info/~anonymous/bof2008/ky/freeze_time_lq.rar"
   ]
  },
  {
@@ -611,7 +601,6 @@
   "files": [],
   "links": [
    "http://uploader.bms.ms/data/bof2008/sad_hq.zip",
-   "http://page.freett.com/mbemsa2/sad.htm",
    "http://uploader.bms.ms/data/bof2008/sad_lq.zip",
    "http://uploader.bms.ms/data/bof2008/sad_nobga.zip"
   ]
@@ -710,8 +699,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=54",
   "files": [],
   "links": [
-   "http://uploader.bms.ms/data/bof2008/KIEN_Sea_of_lie%28fixed_08.09.24%29.rar",
-   "http://blog.naver.com/leaf83/90035492749"
+   "http://uploader.bms.ms/data/bof2008/KIEN_Sea_of_lie%28fixed_08.09.24%29.rar"
   ]
  },
  {
@@ -824,8 +812,7 @@
   "files": [],
   "links": [
    "http://uploader.bms.ms/data/bof2008/great%20attractor_ogg.zip",
-   "http://nekokan.dyndns.info/uploader/great%20attractor_ogg.zip",
-   "http://uploader.bms.ms/data/bof2008/great%20attractor.rar"
+   "http://nekokan.dyndns.info/uploader/great%20attractor_ogg.zip"
   ]
  },
  {
@@ -849,7 +836,6 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=54",
   "files": [],
   "links": [
-   "http://uploader.bms.ms/data/bof2008/bamilibaro/fix/perhaps4_OGG.rar",
    "http://uploader.bms.ms/data/bof2008/bamilibaro/fix/perhaps4.rar",
    "http://uploader.bms.ms/data/bof2008/bamilibaro/fix/perhaps4_HQ.rar"
   ]
@@ -978,9 +964,9 @@
   "links": [
    "http://uploader.bms.ms/data/bof2008/bm_ring_hq.zip",
    "http://uploader.bms.ms/data/bof2008/bm_ring_lq.zip",
-   "http://happy-mlt.com/bm_ring_lq.zip",
    "http://nekokan.dyndns.info/uploader/bm_ring_lq.zip",
-   "http://nekokan.dyndns.info/uploader/bm_ring_hq.zip"
+   "http://nekokan.dyndns.info/uploader/bm_ring_hq.zip",
+   "http://happy-mlt.com/bm_ring_lq.zip"
   ]
  },
  {
@@ -1041,9 +1027,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=83&event=54",
   "files": [],
-  "links": [
-   "http://mommy16807.up.seesaa.net/image/I'll_forget_you_you'll_never_forget_me.zip"
-  ]
+  "links": []
  },
  {
   "num": 84,
@@ -1091,7 +1075,6 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=54",
   "files": [],
   "links": [
-   "http://www7b.biglobe.ne.jp/%7Egasaiyuno/lb_moon.zip",
    "http://nekokan.dyndns.info/uploader/lb_moonmq.rar",
    "http://uploader.bms.ms/data/bof2008/lb_moonmq.rar"
   ]
@@ -1142,10 +1125,7 @@
    "http://www.sm-sound.skmt14.jp/bms/blb16.zip",
    "http://www.sm-sound.skmt14.jp/bms/blb16.rar",
    "http://www.sm-sound.skmt14.jp/bms/blb8.zip",
-   "http://www.sm-sound.skmt14.jp/bms/blb8.rar",
-   "http://iimode-do.jp/obj/blb16.rar",
-   "http://page.freett.com/skmt_bms/",
-   "http://page.freett.com/wakimata_sabu/"
+   "http://www.sm-sound.skmt14.jp/bms/blb8.rar"
   ]
  },
  {
@@ -1220,8 +1200,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=97&event=54",
   "files": [],
   "links": [
-   "http://uploader.bms.ms/data/bof2008/xi_up%20in%20the%20air.zip",
-   "http://uploader.bms.ms/data/bof2008/xi_up_in_th_air_BGA.zip"
+   "http://uploader.bms.ms/data/bof2008/xi_up%20in%20the%20air.zip"
   ]
  },
  {
@@ -1233,10 +1212,10 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=54",
   "files": [],
   "links": [
-   "http://yamajet.bms.ms/bms/data/mugijet_hdmrexp_ogg.rar",
    "http://nekokan.dyndns.info/uploader/mugijet_hdmrexp_ogg.rar",
-   "http://yamajet.bms.ms/bms/data/mugijet_hdmrexp_wav.rar",
-   "http://nekokan.dyndns.info/uploader/mugijet_hdmrexp_wav.rar"
+   "http://nekokan.dyndns.info/uploader/mugijet_hdmrexp_wav.rar",
+   "http://yamajet.bms.ms/bms/data/mugijet_hdmrexp_ogg.rar",
+   "http://yamajet.bms.ms/bms/data/mugijet_hdmrexp_wav.rar"
   ]
  },
  {
@@ -1247,10 +1226,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=54",
   "files": [],
-  "links": [
-   "http://rasuku.s116.xrea.com/bms/nova_animal_HQ.rar",
-   "http://rasuku.s116.xrea.com/bms/nova_animal_LQ.rar"
-  ]
+  "links": []
  },
  {
   "num": 100,
@@ -1260,11 +1236,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=100&event=54",
   "files": [],
-  "links": [
-   "http://sweez.net/cgi-bin/dcnt/dcnt.cgi?n=10",
-   "http://sweez.net/cgi-bin/dcnt/dcnt.cgi?n=11",
-   "http://sweez.net/cgi-bin/dcnt/dcnt.cgi?n=12"
-  ]
+  "links": []
  },
  {
   "num": 101,
@@ -1275,9 +1247,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=101&event=54",
   "files": [],
   "links": [
-   "http://str3.org/data/bms/BOF08_tigerlily.zip",
-   "http://sweezy.ddo.jp/~sweez/bms/bof08_tigerlily.zip",
-   "http://thbok.com/data/BOF08_tigerlily.zip"
+   "http://sweezy.ddo.jp/~sweez/bms/bof08_tigerlily.zip"
   ]
  },
  {
@@ -1289,9 +1259,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=102&event=54",
   "files": [],
   "links": [
-   "http://www.str3.org/data/bms/roop_startrack.rar",
-   "http://sweezy.ddo.jp/~sweez/bms/roop_startrack.rar",
-   "http://thbok.com/data/roop_startrack.rar"
+   "http://sweezy.ddo.jp/~sweez/bms/roop_startrack.rar"
   ]
  },
  {
@@ -1340,9 +1308,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=106&event=54",
   "files": [],
-  "links": [
-   "http://uploader.bms.ms/data/bof2008/Magnificent_knights_LQ.zip"
-  ]
+  "links": []
  },
  {
   "num": 107,
@@ -1365,9 +1331,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=54",
   "files": [],
-  "links": [
-   "http://blog.naver.com/leaf83"
-  ]
+  "links": []
  },
  {
   "num": 109,
@@ -1427,9 +1391,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=114&event=54",
   "files": [],
-  "links": [
-   "http://xxbmsxx.web.fc2.com/salf.rar"
-  ]
+  "links": []
  },
  {
   "num": 115,
@@ -1453,8 +1415,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=116&event=54",
   "files": [],
   "links": [
-   "http://www002.upp.so-net.ne.jp/sd876e/music/lvgdmn_ogg.rar",
-   "http://uploader.bms.ms/data/bof2008/lvgdmn_ogg.rar"
+   "http://uploader.bms.ms/data/bof2008/lvgdmn_ogg.rar",
+   "http://www002.upp.so-net.ne.jp/sd876e/music/lvgdmn_ogg.rar"
   ]
  },
  {
@@ -1557,9 +1519,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=124&event=54",
   "files": [],
   "links": [
-   "http://dabxrayyellow148.hp.infoseek.co.jp/iv_snow_knows-ogg.zip",
    "http://uploader.bms.ms/data/bof2008/iv_snow_knows.zip",
-   "http://nekokan.dyndns.info/uploader/iv_snow_knows.zip"
+   "http://nekokan.dyndns.info/uploader/iv_snow_knows.zip",
+   "http://dabxrayyellow148.hp.infoseek.co.jp/iv_snow_knows-ogg.zip"
   ]
  },
  {
@@ -1669,8 +1631,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=133&event=54",
   "files": [],
   "links": [
-   "http://uploader.bms.ms/data/bof2008/Emilio_Valentine_-_MAJESTY%20HQ%20WAV.rar",
-   "http://blog.naver.com/leaf83/90035492749"
+   "http://uploader.bms.ms/data/bof2008/Emilio_Valentine_-_MAJESTY%20HQ%20WAV.rar"
   ]
  },
  {
@@ -1694,8 +1655,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=135&event=54",
   "files": [],
   "links": [
-   "http://loki-okiba.net/bms/sousyuu_bms.rar",
-   "http://loki-okiba.net/bms/sousyuu_bga_hq.rar"
+   "http://loki-okiba.net/bms/sousyuu_bms.rar"
   ]
  },
  {
@@ -1751,10 +1711,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=140&event=54",
   "files": [],
-  "links": [
-   "http://uploader.bms.ms/data/bof2008/Zukunft_HQ.rar",
-   "http://uploader.bms.ms/data/bof2008/Zukunft_LQ.rar"
-  ]
+  "links": []
  },
  {
   "num": 141,
@@ -1789,9 +1746,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=143&event=54",
   "files": [],
-  "links": [
-   "http://kaikou.nothing.sh/nobga.zip"
-  ]
+  "links": []
  },
  {
   "num": 144,
@@ -1803,8 +1758,6 @@
   "files": [],
   "links": [
    "http://uploader.bms.ms/data/bof2008/gsk_ogg.zip",
-   "http://uploader.bms.ms/data/bof2008/gsk_wav_custom.zip",
-   "http://uploader.bms.ms/data/bof2008/gsk_wav_custom.rar",
    "http://uploader.bms.ms/data/bof2008/gsk_wav.rar"
   ]
  },
@@ -1830,9 +1783,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=54",
   "files": [],
-  "links": [
-   "http://page.freett.com/mirrorspace/bof2008.htm"
-  ]
+  "links": []
  },
  {
   "num": 147,
@@ -1903,9 +1854,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=54",
   "files": [],
   "links": [
-   "http://www.hirona.jp/y3k_3_ego_ogg.zip",
-   "http://uploader.bms.ms/data/bof2008/y3k/y3k_3_ego_hqwav.rar",
-   "http://uploader.bms.ms/data/bof2008/y3k/egofix.zip"
+   "http://uploader.bms.ms/data/bof2008/y3k/y3k_3_ego_hqwav.rar"
   ]
  },
  {
@@ -1916,10 +1865,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=153&event=54",
   "files": [],
-  "links": [
-   "http://www.myonmyon.com/file/event/bof08/myon_bof08_hq.zip",
-   "http://www.myonmyon.com/file/event/bof08/myon_bof08_lq.zip"
-  ]
+  "links": []
  },
  {
   "num": 154,
@@ -1945,8 +1891,7 @@
   "files": [],
   "links": [
    "http://uploader.bms.ms/data/bof2008/y3k/y3k_2_oscillatory_universe_ogg200809280430.rar",
-   "http://uploader.bms.ms/data/bof2008/y3k/y3k_2_oscillatoryuniverse_hqwav.rar",
-   "http://uploader.bms.ms/data/bof2008/y3k/wavmq_y3k_2_oscillatory_universe-.rar"
+   "http://uploader.bms.ms/data/bof2008/y3k/y3k_2_oscillatoryuniverse_hqwav.rar"
   ]
  }
 ]
