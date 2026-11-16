@@ -108,8 +108,8 @@ the latest full package over patches for earlier downloads. The choice is in `wo
   Dropbox, MediaFire, MEGA and web servers, a work's links in turn and
   then BMS SEARCH's for the song; what arrives must be an archive (or, for
   an add-on, a chart or movie, not a page). Links that only give a page
-  are opened in a headless browser (`tools/browser_download.js`, with
-  `bmseeker press-js` for OneDrive), which takes what the page downloads.
+  are opened in a headless browser (`tools/browser_download.js`), which
+  presses the page's Download button and takes what it downloads.
 - The **Check links** workflow (`bmseeker check-links`) does the same for
   the events that are not mirrored: what each link still gives, into
   `<event>/links.json`, by which `index.json` orders the links.

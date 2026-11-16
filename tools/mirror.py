@@ -89,13 +89,11 @@ def browser(pages, work_dir: Path, any_file: bool):
     `any_file`: anything but a page), as `get_one` gives it."""
     if not pages:
         return None, []
-    press = work_dir / "press.js"
-    press.write_text(subprocess.run(["bmseeker", "press-js"], capture_output=True, text=True).stdout)
     script = Path(__file__).with_name("browser_download.js")
     errors = []
     for u in pages:
         try:
-            r = subprocess.run(["node", str(script), u, str(work_dir), str(press)],
+            r = subprocess.run(["node", str(script), u, str(work_dir)],
                                capture_output=True, text=True, timeout=3600)
         except subprocess.TimeoutExpired:
             errors.append(f"{u} (browser): timeout")
