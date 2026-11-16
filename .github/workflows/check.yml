@@ -2,7 +2,8 @@ name: Check links
 
 # For the events that are not mirrored: download each work's links (with
 # bmseeker, from vibeBMS/BMSeeker) to see which still work and what they hold
-# (the song, an add-on, media), into <event>/links.jsonl; then write the
+# (the song, an add-on, media), into <event>/links.jsonl (with `search`, for a
+# work whose links all fail, the links the sources know for it too); then write the
 # event's index.json, which orders the links by it (tools/index.py).
 # A run is cut at about five hours per event and goes on from there the
 # next time; results are kept for 30 days (failures: a day).
@@ -13,6 +14,14 @@ on:
       events:
         description: Event folders, comma separated (empty = all not mirrored)
         default: ""
+      search:
+        description: Works whose links all fail - also the links the sources know for them (BMS SEARCH)
+        type: boolean
+        default: false
+      third_party:
+        description: Also third parties' copies (dead uploaders' mirrors, the community archive)
+        type: boolean
+        default: false
   schedule:
     # Mondays
     - cron: "17 4 * * 1"
@@ -56,10 +65,12 @@ jobs:
       - name: Check
         env:
           EV: ${{ matrix.event }}
+          SEARCH: ${{ inputs.search && '--search' || '' }}
+          THIRD_PARTY: ${{ inputs.third_party && '--third-party' || '' }}
         run: |
           # earlier checks: links.jsonl (records), else the old links.json
           known="$EV/links.jsonl"; [ -f "$known" ] || known="$EV/links.json"
-          if bmseeker event check "$EV/works.json" --known "$known" --minutes 290 \
+          if bmseeker $THIRD_PARTY event check "$EV/works.json" --known "$known" --minutes 290 $SEARCH \
               > "$EV/links.new" 2> check.log; then
             mv "$EV/links.new" "$EV/links.jsonl"
             [ -f "$EV/links.json" ] && git rm -q "$EV/links.json"

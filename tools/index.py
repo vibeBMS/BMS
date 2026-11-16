@@ -82,6 +82,10 @@ def main():
             # the chosen archive first, then its add-ons, then the others
             first = w.get("main", []) + [u for g in w.get("extra", []) for u in g]
             links = first + [l["url"] for l in w["links"] if l["url"] not in first]
+            # links a source found for it that work (`event check --search`)
+            links += [u for u, c in checks.items()
+                      if c.get("num") == w["num"] and c.get("source")
+                      and c["state"] in ("archive", "chart") and u not in links]
             e["links"], addons = order(links, checks)
             if addons:
                 e["addons"] = addons
