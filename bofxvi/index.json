@@ -386,12 +386,13 @@
   "team": "736974KB -CREATION-",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=133",
-  "files": [],
-  "links": [
-   "http://ponytailrecord.com/BOFXVI/Drawing_the_Blue.rar",
-   "https://www.dropbox.com/s/r0a72xw68bkpvub/Drawing_the_Blue.rar?dl=1",
-   "http://ponytailrecord.com/BOFXVI/Drawing_the_Blue_WAV.rar",
-   "https://www.dropbox.com/s/r3d99qag6i862ae/Drawing_the_Blue_WAV.rar?dl=1"
+  "files": [
+   {
+    "name": "022.rar",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/022.rar",
+    "size": 18179404,
+    "original": "Drawing_the_Blue.rar"
+   }
   ]
  },
  {
