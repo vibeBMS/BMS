@@ -68,7 +68,7 @@ So this mirror:
 Charts by other people (差分) are not mirrored: they were never part of
 the event.
 
-## Takedown / 削除依頼 / 삭제 요청
+## Takedown / 削除依頼
 
 If you made one of these works and want it removed, open an
 [issue](../../issues/new) with the event and work number. It is removed
