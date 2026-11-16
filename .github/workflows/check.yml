@@ -1,6 +1,7 @@
 name: Check links
 
-# For the events that are not mirrored: download each work's links (with
+# For the events that are not mirrored (and the works a mirrored one lacks):
+# download each work's links (with
 # bmseeker, from vibeBMS/BMSeeker) to see which still work and what they hold
 # (the song, an add-on, media), into <event>/links.jsonl (with `search`, for a
 # work whose links all fail, the links the sources know for it too); then write the
@@ -73,7 +74,19 @@ jobs:
         run: |
           # earlier checks: links.jsonl (records), else the old links.json
           known="$EV/links.jsonl"; [ -f "$known" ] || known="$EV/links.json"
-          if bmseeker $THIRD_PARTY event check "$EV/works.json" --known "$known" --minutes 290 $SEARCH \
+          # a mirrored event: only its works the mirror lacks
+          python3 - "$EV" > "$RUNNER_TEMP/works.json" <<'PY'
+          import json, sys
+          ev = sys.argv[1]
+          works = json.load(open(ev + "/works.json"))
+          if any(e["tag"] == ev and e.get("mirror") for e in json.load(open("events.json"))):
+              have = {w["num"] for w in json.load(open(ev + "/index.json")) if w.get("files")}
+              works = [w for w in works if w["num"] not in have and w.get("kind") != "Disq"]
+          json.dump(works, sys.stdout, ensure_ascii=False)
+          PY
+          works="$RUNNER_TEMP/works.json"
+          echo "$(python3 -c 'import json,sys; print(len(json.load(open(sys.argv[1]))))' "$works") works to check"
+          if bmseeker $THIRD_PARTY event check "$works" --known "$known" --minutes 290 $SEARCH \
               > "$EV/links.new" 2> check.log; then
             mv "$EV/links.new" "$EV/links.jsonl"
             [ -f "$EV/links.json" ] && git rm -q "$EV/links.json"
