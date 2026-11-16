@@ -6,7 +6,9 @@
 For each work in <event>/works.json (disqualified ones skipped) whose
 asset is not in release <event> yet: download the main archive (its
 links in turn, then BMS SEARCH's for the song) and each add-on with
-`bmseeker fetch` (vibeBMS/vibe, on the PATH), then upload them as
+`bmseeker fetch` (vibeBMS/vibe, on the PATH) -- where a link only gives
+a page, in a headless browser (tools/browser_download.js) -- then upload
+them as
 
     042.zip      main archive of work No.42
     042+1.rar    its first add-on
@@ -66,9 +68,49 @@ def get_one(urls, work, work_dir: Path, search: bool):
     except (subprocess.TimeoutExpired, IndexError, json.JSONDecodeError) as e:
         return None, [f"bmseeker: {type(e).__name__} {e}"]
     errors = out.get("errors", [])
-    if "file" not in out:
-        return None, errors
-    return (Path(out["file"]), out["format"], out["link"]), errors
+    if "file" in out:
+        return (Path(out["file"]), out["format"], out["link"]), errors
+    got, more = browser(out.get("pages", []), work_dir, any_file=not search)
+    return got, errors + more
+
+
+def kind(path: Path) -> str:
+    """'zip', 'rar', '7z', or '' (from the first bytes)."""
+    head = path.open("rb").read(8)
+    for magic, k in ((b"PK\x03\x04", "zip"), (b"PK\x05\x06", "zip"),
+                     (b"Rar!\x1a\x07", "rar"), (b"7z\xbc\xaf\x27\x1c", "7z")):
+        if head.startswith(magic):
+            return k
+    return ""
+
+
+def browser(pages, work_dir: Path, any_file: bool):
+    """The first of `pages` a browser downloads a file from (an archive;
+    `any_file`: anything but a page), as `get_one` gives it."""
+    if not pages:
+        return None, []
+    press = work_dir / "press.js"
+    press.write_text(subprocess.run(["bmseeker", "press-js"], capture_output=True, text=True).stdout)
+    script = Path(__file__).with_name("browser_download.js")
+    errors = []
+    for u in pages:
+        try:
+            r = subprocess.run(["node", str(script), u, str(work_dir), str(press)],
+                               capture_output=True, text=True, timeout=3600)
+        except subprocess.TimeoutExpired:
+            errors.append(f"{u} (browser): timeout")
+            continue
+        if r.returncode != 0:
+            errors.append(f"{u} (browser): {(r.stderr.strip().splitlines() or ['failed'])[-1]}")
+            continue
+        path = Path(r.stdout.strip().splitlines()[-1])
+        fmt = kind(path)
+        page = path.open("rb").read(512).lstrip().startswith(b"<")
+        if fmt or (any_file and not page):
+            return (path, fmt or "file", u), errors
+        path.unlink(missing_ok=True)
+        errors.append(f"{u} (browser): not an archive")
+    return None, errors
 
 
 def upload(tag: str, path: Path, fmt: str, stem: str) -> str:

@@ -52,6 +52,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: ./.github/actions/bmseeker
+      - name: Browser
+        # for links that only give a page (tools/browser_download.js)
+        run: |
+          npm install --no-save --no-package-lock playwright@1.49.1
+          npx playwright install --with-deps chromium
       - name: Mirror
         env:
           GH_TOKEN: ${{ github.token }}
