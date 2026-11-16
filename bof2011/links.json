@@ -1,0 +1,3719 @@
+{
+  "http://100sec.com/music_data/bms/BOF2011/xi_parousia_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794801711
+  },
+  "http://72mo471.web.fc2.com/bof2011_Afternoon_Mirage.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794797560
+  },
+  "http://72mo471.web.fc2.com/bof2011_Iris.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795809
+  },
+  "http://72mo471.web.fc2.com/bof2011_awe.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795013
+  },
+  "http://aquaseeds.net/bof2011_maki_icevalley.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794793935
+  },
+  "http://aquaseeds.net/bof2011_maki_icevalley_hq.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794793937
+  },
+  "http://aquaseeds.net/bof2011_maki_icevalley_ogg.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794793938
+  },
+  "http://bbcworld.zc.bz/eventpage/bof2011_mb.htm": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795016
+  },
+  "http://bit-rec.info/works/bitscape_anokono_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794803161
+  },
+  "http://blocks.oops.jp//from_eoll/DestinySalmon_stage4.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795304
+  },
+  "http://blocks.oops.jp/bof2011/beluga_nwp.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794793547
+  },
+  "http://blocks.oops.jp/bof2011/eoll_010.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795313
+  },
+  "http://bof2011bfg.web.fc2.com/nowcanyouclear.html": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794797728
+  },
+  "http://bounge.sakura.ne.jp/Vinterfrost.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 12954748,
+    "charts": 3,
+    "title": "Vinterfrost [ANOTHER]",
+    "at": 1794792305
+  },
+  "http://clockxellox.sakura.ne.jp/BMS/%5BBOF2011%5Dnoir_noir%5Bfeature%20colors%5D.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "protocol: location header is malformed: https://clockxellox.sakura.ne.jp/BMS/[BOF2011]noir_noir[feature colors].zip",
+    "at": 1794794320
+  },
+  "http://daida.tv/bms/daida_add.zip": {
+    "state": "archive",
+    "kind": "addon",
+    "format": "zip",
+    "size": 228905,
+    "charts": 13,
+    "title": "real",
+    "at": 1794797714
+  },
+  "http://daida.tv/bms/real_add.zip": {
+    "state": "archive",
+    "kind": "addon",
+    "format": "zip",
+    "size": 49892,
+    "charts": 6,
+    "title": "real",
+    "at": 1794797721
+  },
+  "http://daida.tv/bms/real_bms_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 18481405,
+    "charts": 12,
+    "title": "real",
+    "at": 1794797719
+  },
+  "http://daida.tv/bms/spine_bbb_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 5803323,
+    "charts": 9,
+    "title": "back bone breaks (hard)",
+    "at": 1794797716
+  },
+  "http://db.tt/10WRP9Be": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795832
+  },
+  "http://db.tt/R4oYJxXM": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794796654
+  },
+  "http://db.tt/RgoUfwS6": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795832
+  },
+  "http://deltacity.sakura.ne.jp/files/SOLROS.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794801711
+  },
+  "http://dg-life.net/rich_racer/bms/girls_thorn.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794792661
+  },
+  "http://dg-life.net/rich_racer/bms/night_wind.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794792665
+  },
+  "http://dg-life.net/rich_racer/bms/rotterdamracer.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794792628
+  },
+  "http://dot.oops.jp/data/freeremix.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794802493
+  },
+  "http://dot.oops.jp/data/freeremix_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794802493
+  },
+  "http://dot908.net/bms/36x96x908_Studium.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794800330
+  },
+  "http://dotdollgothlia.web.fc2.com/zhyming_zhyming_LadiesTresses.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795839
+  },
+  "http://ed.bms.ms/bms/[SOA]Endless_Dance_ogg.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 526",
+    "at": 1794799142
+  },
+  "http://ed.bms.ms/bms/[SOA]Endless_Dance_wav.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 526",
+    "at": 1794799142
+  },
+  "http://electro-planet.net/download/oceanmemory2.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 28207343,
+    "charts": 4,
+    "title": "Ocean Memory [Normal]",
+    "at": 1794801731
+  },
+  "http://electro-planet.net/download/onceinmylife.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 23883402,
+    "charts": 3,
+    "title": "Once in my life [Another]",
+    "at": 1794800968
+  },
+  "http://electro-planet.net/loveplus/actbeloved.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 50900144,
+    "charts": 3,
+    "title": "Act Beloved [SP NORMAL]",
+    "at": 1794800998
+  },
+  "http://endymium.net/bms/slpls_daydream.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794801499
+  },
+  "http://endymium.net/bms/slpls_glolyworld.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794796001
+  },
+  "http://eye.candypop.jp/bms/Nichirin_ShamanCureAll.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794796612
+  },
+  "http://eye.candypop.jp/bms/ShowChow_ShamanCureAll.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794801834
+  },
+  "http://eye.candypop.jp/bms/TengYaWangYa_ShamanCureAll.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794796611
+  },
+  "http://flopra.com/bms/himitsu_efu_raids.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795303
+  },
+  "http://gensoukyousoukyoku.nekokan.dyndns.info/6-LU-hemispherectomy.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 42071646,
+    "charts": 4,
+    "title": "hemispherectomy",
+    "at": 1794800330
+  },
+  "http://glustar.sub.jp/bms/tokyo_rollin_lq.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 80391457,
+    "charts": 3,
+    "title": "TOKYO ROLLIN' -5 normal-",
+    "at": 1794802215
+  },
+  "http://glustar.sub.jp/bms/tokyo_rollin_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 56947490,
+    "charts": 3,
+    "title": "TOKYO ROLLIN' -5 normal-",
+    "at": 1794802222
+  },
+  "http://glustar.sub.jp/bms/tokyo_rollinfix.zip": {
+    "state": "archive",
+    "kind": "addon",
+    "format": "zip",
+    "size": 46341,
+    "charts": 3,
+    "title": "TOKYO ROLLIN' -5 normal-",
+    "at": 1794802223
+  },
+  "http://gmtn.sub.jp/mindslicer_bof/thetightness.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803763
+  },
+  "http://gmtn.sub.jp/mindslicer_bof/thetightness_7shd.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803763
+  },
+  "http://hapinano.2-d.jp/bms/the_whale.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794793851
+  },
+  "http://hapinano.2-d.jp/bms/wind_bms_ogg.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794798437
+  },
+  "http://higehime.main.jp/bms/bof2011/aisha_14keys_MS.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794797806
+  },
+  "http://higehime.main.jp/bms/bof2011/alicia_Aisha_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794797806
+  },
+  "http://higehime.main.jp/bms/bof2011/higehime_sg.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795840
+  },
+  "http://higehime.main.jp/bms/bof2011/timef_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795936
+  },
+  "http://homepage1.nifty.com/paraoka/cp_allnote.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794803973
+  },
+  "http://homepage3.nifty.com/higehime/bof2011/alicia_Aisha_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794797806
+  },
+  "http://homepage3.nifty.com/higehime/bof2011/higehime_sg.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795841
+  },
+  "http://ideebee.com/filekey=2604278-8ac6": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794794911
+  },
+  "http://ideebee.com/filekey=2611750-17ff": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794794912
+  },
+  "http://ideebee.com/filekey=2611878-9360": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794800775
+  },
+  "http://ideebee.com/filekey=2611890-52dd": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794801170
+  },
+  "http://iimode-do.jp/conflict_ogg_20110917.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 58960450,
+    "charts": 5,
+    "title": "conflict [NORMAL]",
+    "at": 1794794981
+  },
+  "http://kei.raindrop.jp/bms/flowerofthedreaming[featurecolors].zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794799389
+  },
+  "http://kei.raindrop.jp/bms/sunshinedance[teamSLTRB].zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794801728
+  },
+  "http://keltonephysics.web.fc2.com/es/sachi.html/": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794801812
+  },
+  "http://kie.nu/Mo": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794800583
+  },
+  "http://kie.nu/Mq": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794800703
+  },
+  "http://klamnop.info/bms/DestinySalmon_stage1.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 35696422,
+    "charts": 3,
+    "title": "DESTINY - Hyper -",
+    "at": 1794795312
+  },
+  "http://kurenaissance.web6.jp/": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "no data for 60 s",
+    "at": 1794797788
+  },
+  "http://liz.nothing.sh/yuju/b/sehaku.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: invalid peer certificate: certificate not valid for name \"liz.nothing.sh\"; certificate is only valid for DnsName(\"2kazy2.nothing.sh\"), DnsName(\"2occc.nothing.sh\"), DnsName(\"anraku.nothing.sh\"), DnsName(\"bms.nothing.sh\"), DnsName(\"d-soul.nothing.sh\"), DnsName(\"db.nothing.sh\"), DnsName(\"dnakama.nothing.sh\"), DnsName(\"documents.nothing.sh\"), DnsName(\"esct.nothing.sh\"), DnsName(\"kaikou.nothing.sh\"), DnsName(\"manbow.nothing.sh\"), DnsName(\"map.nothing.sh\"), DnsName(\"masa.nothing.sh\"), DnsName(\"nothing.sh\"), DnsName(\"raditami.nothing.sh\"), DnsName(\"sbfr.nothing.sh\"), DnsName(\"sirrow.nothing.sh\"), DnsName(\"uno.nothing.sh\") or DnsName(\"www.nothing.sh\")",
+    "at": 1794795303
+  },
+  "http://liz.nothing.sh/yuju/b/yuju_sick.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: invalid peer certificate: certificate not valid for name \"liz.nothing.sh\"; certificate is only valid for DnsName(\"2kazy2.nothing.sh\"), DnsName(\"2occc.nothing.sh\"), DnsName(\"anraku.nothing.sh\"), DnsName(\"bms.nothing.sh\"), DnsName(\"d-soul.nothing.sh\"), DnsName(\"db.nothing.sh\"), DnsName(\"dnakama.nothing.sh\"), DnsName(\"documents.nothing.sh\"), DnsName(\"esct.nothing.sh\"), DnsName(\"kaikou.nothing.sh\"), DnsName(\"manbow.nothing.sh\"), DnsName(\"map.nothing.sh\"), DnsName(\"masa.nothing.sh\"), DnsName(\"nothing.sh\"), DnsName(\"raditami.nothing.sh\"), DnsName(\"sbfr.nothing.sh\"), DnsName(\"sirrow.nothing.sh\"), DnsName(\"uno.nothing.sh\") or DnsName(\"www.nothing.sh\")",
+    "at": 1794792825
+  },
+  "http://ll.la/kELh": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803164
+  },
+  "http://ll.la/p%29.y": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794799959
+  },
+  "http://lyuso.net/bms/timeparadoxx/TPRDXX_FST.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795547
+  },
+  "http://lyuso.net/bms/timeparadoxx/TPRDXX_FST_patch.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795547
+  },
+  "http://lyuso.net/bms/timeparadoxx/TPRDXX_PLC.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795546
+  },
+  "http://lyuso.net/bms/timeparadoxx/TPRDXX_PLC_patch.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795546
+  },
+  "http://lyuso.net/bms/timeparadoxx/TPRDXX_TSP.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795647
+  },
+  "http://lyuso.net/bms/timeparadoxx/TPRDXX_TSP_patch.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795647
+  },
+  "http://maplebrits.x0.com/bof2011.htm": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794792498
+  },
+  "http://mikkiki.6.ql.bz/sakuzyo_Laplace_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795833
+  },
+  "http://mikkiki.6.ql.bz/sakuzyo_Neurotoxin_bga.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794792497
+  },
+  "http://mikkiki.6.ql.bz/sakuzyo_Neurotoxin_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794792497
+  },
+  "http://mikkiki.6.ql.bz/sakuzyo_vallista_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794801835
+  },
+  "http://min.us/l2CzXv0lxbBAS": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "no data for 60 s",
+    "at": 1794800643
+  },
+  "http://min.us/lbiLoiAee8Lh3U": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "no data for 60 s",
+    "at": 1794800763
+  },
+  "http://min.us/lvvtimwcNlN61": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "no data for 60 s",
+    "at": 1794800703
+  },
+  "http://minus.com/l2X4mE7daxO5O": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "no data for 60 s",
+    "at": 1794794678
+  },
+  "http://minus.com/lGXKuZC0IE0IN": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "no data for 60 s",
+    "at": 1794794739
+  },
+  "http://minus.com/m4TlYSmcP": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "no data for 60 s",
+    "at": 1794793934
+  },
+  "http://miohosina.moe.hm/bms/dl/nmk_Answer.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Temporary failure in name resolution",
+    "at": 1794800775
+  },
+  "http://mireth.squares.net/bof2011/September%20Wind.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794804496
+  },
+  "http://mireth.squares.net/bof2011/[Livetube.cc][Gari]DanceNow.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794804161
+  },
+  "http://mireth.squares.net/bof2011/[Livetube.cc][s-don]Adamantite.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794804039
+  },
+  "http://monochrome-world.sakura.ne.jp/blast_bms.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794801878
+  },
+  "http://monochrome-world.sakura.ne.jp/handz_bms.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794801728
+  },
+  "http://mournfinale.com/bof2011/altersist_hq.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 63111683,
+    "charts": 3,
+    "title": "Altersist [SP ANOTHER]",
+    "at": 1794795845
+  },
+  "http://mournfinale.com/bof2011/altersist_sq.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 46077167,
+    "charts": 3,
+    "title": "Altersist [SP ANOTHER]",
+    "at": 1794795849
+  },
+  "http://mournfinale.com/bof2011/tyhy.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 17048893,
+    "charts": 3,
+    "title": "T.Y.H.Y. [SP ANOTHER]",
+    "at": 1794801880
+  },
+  "http://mpc6666.sakura.ne.jp/BOF2011/REALIZM_by6666_team_IMAGICOLOR.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 15807048,
+    "charts": 3,
+    "title": "REALIZM",
+    "at": 1794801711
+  },
+  "http://mpc6666.sakura.ne.jp/BOF2011/REALIZM_by6666_team_IMAGICOLOR.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 19179802,
+    "charts": 3,
+    "title": "REALIZM",
+    "at": 1794801705
+  },
+  "http://ms-x.info/magicmashman/LaplaceBGA_HQ.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795839
+  },
+  "http://ms-x.info/magicmashman/LaplaceBGA_normal.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795838
+  },
+  "http://ms-x.info/magicmashman/laplace_bg_instant.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795839
+  },
+  "http://ms-x.info/magicmashman/sakuzyo_Laplace_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795832
+  },
+  "http://ms-x.info/magicmashman/sakuzyo_Neurotoxin_bga.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794792497
+  },
+  "http://ms-x.info/magicmashman/sakuzyo_Neurotoxin_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794792496
+  },
+  "http://ms-x.info/magicmashman/sakuzyo_vallista_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794801834
+  },
+  "http://music-side.com/dst/3rdexperience.rar": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794795314
+  },
+  "http://music-side.com/dst/distance.zip": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794795316
+  },
+  "http://music-side.com/dst/monokurokagura.zip": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794795313
+  },
+  "http://music.geocities.jp/dj_kakuni_is_still_alive/lexiks_dj-kakuni_schlaflosigkeitnacht.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794802224
+  },
+  "http://nekokan.dyndns.info/~anonymous/bms/fuki1755/ethnoscapes_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 37511874,
+    "charts": 4,
+    "title": "Ethnoscapes",
+    "at": 1794796689
+  },
+  "http://nekokan.dyndns.info/~anonymous/bof2011/omr/go_rewrite.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 14187380,
+    "charts": 10,
+    "title": "GO REWRITE",
+    "at": 1794794973
+  },
+  "http://nekokan.dyndns.info/~anonymous/bof2011/omr/kimura_holic.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 12566556,
+    "charts": 9,
+    "title": "KiMURA HOLiC",
+    "at": 1794795282
+  },
+  "http://nekokan.dyndns.info/~anonymous/bof2011/omr/omr2011_append.zip": {
+    "state": "archive",
+    "kind": "addon",
+    "format": "zip",
+    "size": 20467,
+    "charts": 3,
+    "title": "KiMURA HOLiC (putit monster)",
+    "at": 1794794974
+  },
+  "http://nekokan.dyndns.info/~anonymous/bof2011/omr/owen_niconico.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 4545699,
+    "charts": 10,
+    "title": "U.N.オーエンはニコ厨なのか？ ～狂気のＸＧ厨～ 【ニコニコオブジェのEASY】",
+    "at": 1794795049
+  },
+  "http://nekomimi.name/": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "no data for 60 s",
+    "at": 1794797712
+  },
+  "http://nekomimi.name/bof2011/cp.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "no data for 60 s",
+    "at": 1794803971
+  },
+  "http://oblivion.dip.jp/creation/bms/_wa_alruna.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Temporary failure in name resolution",
+    "at": 1794799087
+  },
+  "http://oblivion.dip.jp/creation/bms/_wa_sequence.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Temporary failure in name resolution",
+    "at": 1794795829
+  },
+  "http://oblivion.dip.jp/creation/bms/birdsprite_r-HQBGA.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Temporary failure in name resolution",
+    "at": 1794795092
+  },
+  "http://oblivion.dip.jp/creation/bms/birdsprite_r.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Temporary failure in name resolution",
+    "at": 1794795086
+  },
+  "http://oblivion.dip.jp/creation/bms/fairytale_d-suke.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Temporary failure in name resolution",
+    "at": 1794793948
+  },
+  "http://oblivion.dip.jp/creation/bms/vajuranda_bgasabun.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Temporary failure in name resolution",
+    "at": 1794798975
+  },
+  "http://oblivion.dip.jp/creation/bms/yuzen_oukaryouran.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Temporary failure in name resolution",
+    "at": 1794795546
+  },
+  "http://okari.6.ql.bz/bof2011/looptheliquid.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794801811
+  },
+  "http://okari.6.ql.bz/bof2011/moonglowHQ.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794803161
+  },
+  "http://okari.6.ql.bz/bof2011/sunfury_oggMQ.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795235
+  },
+  "http://ours.nekokan.dyndns.info/[bof2011-okayama]est_ll.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 29914207,
+    "charts": 3,
+    "title": "ルミナスライツ (HYPER)",
+    "at": 1794793850
+  },
+  "http://oversphere.jp/uploads/bof2011/[bof2011-okayama][Psychederic%20Rock]Nostalzia%20-%20takoyaki_o.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795646
+  },
+  "http://page.freett.com/kobakuruse/bms/bof2011_waltz.html": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794801727
+  },
+  "http://page.freett.com/nekonohito/seika.htm": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794792786
+  },
+  "http://page.freett.com/otorakuk4/bof2011/daitokai.html": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794792499
+  },
+  "http://page.freett.com/otorakuk4/bof2011/miuti.html": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795831
+  },
+  "http://page.freett.com/otorakuk4/bof2011/otoraku.html": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795840
+  },
+  "http://page.freett.com/takacyan930/event_fs_bms.html": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795235
+  },
+  "http://pal.mydns.to/cranky/bms/conflict_ogg_20110917.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794794974
+  },
+  "http://paradoxist.web.fc2.com/": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794799390
+  },
+  "http://pds18.egloos.com/pds/201110/15/92/an2mals.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794796839
+  },
+  "http://pds20.egloos.com/pds/201110/06/91/pattern_fix.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794794912
+  },
+  "http://placase.bms.ms/data/bms/bohyou_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 526",
+    "at": 1794801813
+  },
+  "http://placase.bms.ms/data/bms/kyoumei_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 526",
+    "at": 1794801809
+  },
+  "http://plugout4.com/bof2011/lopears-Daryl.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794803911
+  },
+  "http://plugout4.com/bof2011/lopears-flatcube.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794804858
+  },
+  "http://plugout4.com/bof2011/lopears-neko.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794803882
+  },
+  "http://roaraddiction.mods.jp/bms/x017_nty_ogg.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794792732
+  },
+  "http://roaraddiction.mods.jp/bms/x017_nty_wav.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794792732
+  },
+  "http://sample3034.tistory.com/attachment/cfile23.uf@176592444E7EF312166934.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794799186
+  },
+  "http://sentire.jp/dc.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794803559
+  },
+  "http://sentire.jp/gofel.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794803974
+  },
+  "http://sentire.jp/lv.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794804163
+  },
+  "http://simplesmooth.us/bms/Grayscale.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794804159
+  },
+  "http://simplesmooth.us/bms/Sharp_Curve.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794802492
+  },
+  "http://simplesmooth.us/bms/Yellow_Leaves.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795829
+  },
+  "http://sound.jp/tima/tknftff.html": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794796661
+  },
+  "http://sparrows-nest.net/~mmaki/ark_z-youll.zip": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794801814
+  },
+  "http://sparrows-nest.net/~mmaki/ark_z-youll_ogg.zip": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794801815
+  },
+  "http://spriterecordings.upper.jp/[BOF2011]cittan_leviathan_bms_ogg[syusei].rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 37358305,
+    "charts": 3,
+    "title": "Leviathan (SP HYPER)",
+    "at": 1794803774
+  },
+  "http://stoicsounds.jp/bof2011/everlastingdream.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794792788
+  },
+  "http://stoicsounds.jp/bof2011/x017_nty_ogg.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794792735
+  },
+  "http://stoicsounds.jp/bof2011/x017_nty_wav.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794792733
+  },
+  "http://stoicsounds.sakura.ne.jp/bof2011/everlastingdream.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794792787
+  },
+  "http://stoicsounds.sakura.ne.jp/bof2011/x017_nty_ogg.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794792736
+  },
+  "http://stoicsounds.sakura.ne.jp/bof2011/x017_nty_wav.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794792734
+  },
+  "http://str3.org/data/bms/strallstars_crossover.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803023
+  },
+  "http://str3.org/data/bms/strallstars_crossover_fix.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803047
+  },
+  "http://str3.org/data/bms/strallstars_crossover_ogg.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803023
+  },
+  "http://team-zummer.info/bof2011/": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794803163
+  },
+  "http://tech.bms.ms/newlplus_kimitosuki.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 526",
+    "at": 1794800969
+  },
+  "http://tribullets.info/bms/bof2011_tribullets-plus_full.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "no data for 60 s",
+    "at": 1794800929
+  },
+  "http://uploader.bms.ms/bof2011/?download=shijima.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 66077728,
+    "charts": 3,
+    "title": "静寂の向こう",
+    "at": 1794805080
+  },
+  "http://uploader.bms.ms/bof2011okfquh83/?download=MarisaB+-+Phantom+Ensemble+%28HQ+OGG%29_.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 34164551,
+    "charts": 7,
+    "title": "Phantom Ensemble (MarisaB Remix)",
+    "at": 1794798235
+  },
+  "http://uploader.bms.ms/bof2011okfquh83/OKAYUTEAM/": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794800972
+  },
+  "http://uploader.bms.ms/data/11okome/kaoru_sodom_HQ.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 40288583,
+    "charts": 3,
+    "title": "Sodom -Hyper-",
+    "at": 1794797870
+  },
+  "http://uploader.bms.ms/data/BANANASTORM.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 35384065,
+    "charts": 3,
+    "title": "BANANA STORM ('^'d/)[SP NORMAL]",
+    "at": 1794796929
+  },
+  "http://uploader.bms.ms/data/BOF2011_Afternoon%20Mirage.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 3492490,
+    "charts": 3,
+    "title": "Afternoon Mirage -ANOTHER-",
+    "at": 1794797561
+  },
+  "http://uploader.bms.ms/data/Field%20of%20Dreams%28BOF2011%29.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 7369352,
+    "charts": 3,
+    "title": "Field of Dreams [Blue-J]",
+    "at": 1794804493
+  },
+  "http://uploader.bms.ms/data/KANON%20-%20KAI.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794797727
+  },
+  "http://uploader.bms.ms/data/Keno/%5BKeno05%23MACARONIC%20TECHNO%5D%20INVASION.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 21455511,
+    "charts": 3,
+    "title": "INVASION [NORMAL]",
+    "at": 1794795707
+  },
+  "http://uploader.bms.ms/data/PW/sm_esm.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "Failed to read response body: Peer disconnected",
+    "at": 1794798431
+  },
+  "http://uploader.bms.ms/data/PW/subomi_m7.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 2284163,
+    "charts": 2,
+    "title": "minimum 7",
+    "at": 1794793549
+  },
+  "http://uploader.bms.ms/data/September%20Wind.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 33747996,
+    "charts": 6,
+    "title": "September Wind",
+    "at": 1794804519
+  },
+  "http://uploader.bms.ms/data/Sunrise%20%20SawsayG.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 21923384,
+    "charts": 3,
+    "title": "Sunrise SawsayG[Another]",
+    "at": 1794802820
+  },
+  "http://uploader.bms.ms/data/Virtual%20boiled.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 52756505,
+    "charts": 4,
+    "title": "Virtual boiled",
+    "at": 1794795639
+  },
+  "http://uploader.bms.ms/data/W2SB%20%281%29.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 30581804,
+    "charts": 4,
+    "title": "Welcome to SOUND BARRIER! [7K Another]",
+    "at": 1794795536
+  },
+  "http://uploader.bms.ms/data/agate.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 17468368,
+    "charts": 3,
+    "title": "Agate",
+    "at": 1794802749
+  },
+  "http://uploader.bms.ms/data/artslight/celtic_traveller_arc.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 5426421,
+    "charts": 6,
+    "title": "ケルティックトラベラー -7A-",
+    "at": 1794801172
+  },
+  "http://uploader.bms.ms/data/bof2011/4ksor_2011.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 27634732,
+    "charts": 3,
+    "title": "FUN (SP ANOTHER)",
+    "at": 1794803161
+  },
+  "http://uploader.bms.ms/data/bof2011/Fxxk%20the%20rock_refix.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794797871
+  },
+  "http://uploader.bms.ms/data/bof2011/Iris.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "Failed to read response body: Peer disconnected",
+    "at": 1794795819
+  },
+  "http://uploader.bms.ms/data/bof2011/It_laughs_ogg_2.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 16096773,
+    "charts": 3,
+    "title": "It laughs",
+    "at": 1794799141
+  },
+  "http://uploader.bms.ms/data/bof2011/Lewisia_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 19968857,
+    "charts": 3,
+    "title": "Lewisia",
+    "at": 1794798134
+  },
+  "http://uploader.bms.ms/data/bof2011/SABREMISSILE-Pernicious_Deed_ver1.1.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 35045498,
+    "charts": 5,
+    "title": "Pernicious Deed",
+    "at": 1794803320
+  },
+  "http://uploader.bms.ms/data/bof2011/SophisticatedTelescope.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 26240574,
+    "charts": 3,
+    "title": "Sophisticated Telescope[NORMAL]",
+    "at": 1794799183
+  },
+  "http://uploader.bms.ms/data/bof2011/Take_in_Contol_ogg_2.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 23868726,
+    "charts": 1,
+    "title": "Take in Control",
+    "at": 1794800992
+  },
+  "http://uploader.bms.ms/data/bof2011/Ten%20Stars%20to%20the%20Light.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 46624823,
+    "charts": 3,
+    "title": "Ten Stars to the Light",
+    "at": 1794803199
+  },
+  "http://uploader.bms.ms/data/bof2011/antimagi/kriemhild_ogg.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 19726456,
+    "charts": 6,
+    "title": "Programmed Utopia [DP another]",
+    "at": 1794803276
+  },
+  "http://uploader.bms.ms/data/bof2011/antimagi/walpurgis_ogg.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 8262416,
+    "charts": 6,
+    "title": "Nice Magicgirls VS scary Walpurgis [14KEY HYPER]",
+    "at": 1794803253
+  },
+  "http://uploader.bms.ms/data/bof2011/azu/25_73_marmaid.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 27181642,
+    "charts": 2,
+    "title": "25:73 marmaid",
+    "at": 1794800549
+  },
+  "http://uploader.bms.ms/data/bof2011/azu/hybrid_galaxy.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 29606244,
+    "charts": 3,
+    "title": "Hybrid Galaxy",
+    "at": 1794798117
+  },
+  "http://uploader.bms.ms/data/bof2011/cybermiso-ecstatic_ghost_party_as_nightmareghost%28withDP%29.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803048
+  },
+  "http://uploader.bms.ms/data/bof2011/else_grigori.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 26995445,
+    "charts": 3,
+    "title": "Grigori [Hyper]",
+    "at": 1794798152
+  },
+  "http://uploader.bms.ms/data/bof2011/homura_akemi_if_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 40980822,
+    "charts": 3,
+    "title": "-if-扉のその向こう側へ",
+    "at": 1794800575
+  },
+  "http://uploader.bms.ms/data/bof2011/homura_akemi_if_sabun.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794800583
+  },
+  "http://uploader.bms.ms/data/bof2011/k_n_s_midnightsilence.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 522",
+    "at": 1794800258
+  },
+  "http://uploader.bms.ms/data/bof2011/nikujagga.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 10578216,
+    "charts": 2,
+    "title": "90's NIKUJAGGA PARTY",
+    "at": 1794797559
+  },
+  "http://uploader.bms.ms/data/bof2011/outerGRAY_eotrapunzel.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 20620222,
+    "charts": 3,
+    "title": "Escape of the Rapunzel [Another]",
+    "at": 1794800239
+  },
+  "http://uploader.bms.ms/data/bof2011/panda18_jumpingdown.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 23418705,
+    "charts": 1,
+    "title": "jumpingdown",
+    "at": 1794797652
+  },
+  "http://uploader.bms.ms/data/bof2011/panda_pop_parallels_wav.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 67391256,
+    "charts": 1,
+    "title": "Parallels",
+    "at": 1794800843
+  },
+  "http://uploader.bms.ms/data/bof2011/party%20time.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 13460488,
+    "charts": 7,
+    "title": "Party Time-ANOTHER-",
+    "at": 1794799767
+  },
+  "http://uploader.bms.ms/data/bof2011/sakuzyo_Laplace_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794795838
+  },
+  "http://uploader.bms.ms/data/bof2011/sakuzyo_vallista_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 52470055,
+    "charts": 3,
+    "title": "VALLISTA",
+    "at": 1794801877
+  },
+  "http://uploader.bms.ms/data/bof2011/sorayume_Epiten.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 19951756,
+    "charts": 2,
+    "title": "ソラユメまつり",
+    "at": 1794801499
+  },
+  "http://uploader.bms.ms/data/bof2011/teamameba/floating_water-mentalhealz_feat_sugisaki.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 10356445,
+    "charts": 8,
+    "title": "floating water [14Hyper]",
+    "at": 1794797460
+  },
+  "http://uploader.bms.ms/data/bof2011/teamameba/layer%20of%20the%20clouds%20-%20Laf_R.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794796001
+  },
+  "http://uploader.bms.ms/data/bof2011/teamameba/throng-l0B0t0M1a.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 6147779,
+    "charts": 7,
+    "title": "throng [7Hyper]",
+    "at": 1794800017
+  },
+  "http://uploader.bms.ms/data/bof2011genesis/lambda_driver_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "Failed to read response body: Peer disconnected",
+    "at": 1794795012
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/%5BDWMomega%5Dknell.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 85190724,
+    "charts": 6,
+    "title": "knell-第一楽章-[LongNote](NORMAL)",
+    "at": 1794792823
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/%5BDWMomega%5Dmaniera.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 42806384,
+    "charts": 3,
+    "title": "MANIERA(BASS)",
+    "at": 1794792784
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/%5BDWMomega%5Dsynthesized_fortress.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 40886063,
+    "charts": 3,
+    "title": "Synthesized Fortress(ANOTHER)",
+    "at": 1794792847
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/%5BJ-Kore%5Ddenpa001_nanikore.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 26030018,
+    "charts": 3,
+    "title": "NANI-KORE [7keys Another]",
+    "at": 1794796996
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/%5BLivetube.cc%5D%5Bs-don%5DAdamantite.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 32371924,
+    "charts": 6,
+    "title": "Adamantite[SP Another]",
+    "at": 1794804159
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/%5BSERENDIPITY-kanone%5DCross_Galaxy_ogg.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 51399479,
+    "charts": 3,
+    "title": "Cross Galaxy",
+    "at": 1794801904
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/%5Bnaganuma%5DMISOKATSU.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 73998642,
+    "charts": 3,
+    "title": "MI☆SO☆KA☆TSU☆",
+    "at": 1794805020
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/%5Bshimo_fw_hapi%5Dwind_bms_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 52709956,
+    "charts": 10,
+    "title": "風の塔 [7KEYS BLACK ANOTHER]",
+    "at": 1794798503
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/Aceout%20ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 4477609,
+    "charts": 3,
+    "title": "Aceout",
+    "at": 1794799190
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/BWTeam/Burn%27Ing%20%28BMS%20Edit%29OGG.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 23685755,
+    "charts": 10,
+    "title": "Burn'Ing [5key Normal]",
+    "at": 1794794179
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/BWTeam/HypeRhythm%20wav.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 14808122,
+    "charts": 5,
+    "title": "HypeRhythm 7Another",
+    "at": 1794795421
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/BWTeam/abyssal_lands.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 6234848,
+    "charts": 2,
+    "title": "Abyssal land SP(Another)",
+    "at": 1794801725
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/BWTeam/the_rain_outside_window.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 43638407,
+    "charts": 5,
+    "title": "The Rain outside the window 7k",
+    "at": 1794795809
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/EnFr_Stylish160.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 22164436,
+    "charts": 3,
+    "title": "Stylish 160 [Normal]",
+    "at": 1794799927
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/Fake%20Chord%20Union/Meggido%20Flame.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 33801186,
+    "charts": 1,
+    "title": "Meggido Flame",
+    "at": 1794804477
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/Fluorescence/bonus_stage_ogg.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 13312485,
+    "charts": 4,
+    "title": "BonusStage(Maniac)",
+    "at": 1794797428
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/Fluorescence/daybreak_ogg.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "Failed to read response body: Peer disconnected",
+    "at": 1794797455
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/Fluorescence/sunlight_%28bms_edit%29_ogg.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 26250954,
+    "charts": 3,
+    "title": "Sunlight (BMS Edit) [HYPER]",
+    "at": 1794797470
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/Future%20Road.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 6149936,
+    "charts": 4,
+    "title": "Future Road[NORMAL]",
+    "at": 1794798105
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/HK/HK_Deublithick.rar": {
+    "state": "error",
+    "format": "rar",
+    "size": 36942192,
+    "charts": 0,
+    "error": "unpacking: HK_Deublithick\\0R.wav: data CRC mismatch for HK_Deublithick\\0R.wav: expected 0x83c5853a, got 0x6522df69",
+    "at": 1794797805
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/HK/HK_ace_rev00.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 22057361,
+    "charts": 4,
+    "title": "A.C.E. -DK- (KF)",
+    "at": 1794797916
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/HK/HK_ace_rev00_ogg.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 5308095,
+    "charts": 4,
+    "title": "A.C.E. -DK- (KF)",
+    "at": 1794797919
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/HK/HK_webal_bms_rev01.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 9835368,
+    "charts": 4,
+    "title": "webal (hyper)",
+    "at": 1794798006
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/HK/HK_webal_bms_rev01_ogg.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 2402394,
+    "charts": 4,
+    "title": "webal (hyper)",
+    "at": 1794798014
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/HOPPER.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 87998724,
+    "charts": 2,
+    "title": "HOPPER",
+    "at": 1794804858
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/IBTeam/Hades%20%28Radio%20Edit%29%20OGG.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 41922614,
+    "charts": 7,
+    "title": "Hades (Radio Edit) SP 5 Normal",
+    "at": 1794799077
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/Lovers%2C%28ogg%29.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 6839425,
+    "charts": 3,
+    "title": "Lovers,",
+    "at": 1794801809
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/NRG_o.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 13362652,
+    "charts": 3,
+    "title": "NRG Orgasm -Another-",
+    "at": 1794803023
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/Paraclete.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 31278557,
+    "charts": 4,
+    "title": "Paraclete[FURIOUS]",
+    "at": 1794793546
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/Rapide_stellar_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 8273037,
+    "charts": 3,
+    "title": "Rapide stellar",
+    "at": 1794797391
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/Rapide_stellar_wavLQ.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 24839657,
+    "charts": 3,
+    "title": "Rapide stellar",
+    "at": 1794797211
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/SHIOKARA.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 36074357,
+    "charts": 6,
+    "title": "SHI☆O☆KA☆RA",
+    "at": 1794804338
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/SMTEAM/Empty_Sky_%28prog_rework%29.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 13371165,
+    "charts": 3,
+    "title": "Empty Sky (Prog. Rework)",
+    "at": 1794797412
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/SMTEAM/Gate%20N1%20%28Radio%20Edit%29OGG.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 41133766,
+    "charts": 12,
+    "title": "Gate N1 (Radio Edit) [A-5Key Another]",
+    "at": 1794794771
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/SMTEAM/KHTP_-_H.W.K.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 29329920,
+    "charts": 3,
+    "title": "H.W.K [7k Normal]",
+    "at": 1794795440
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/SMTEAM/Restoration%20%28BMS%20Edit%29.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 68117087,
+    "charts": 2,
+    "title": "Restoration [7K HD]",
+    "at": 1794794911
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/STDN_TABI_2011.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 29967210,
+    "charts": 4,
+    "title": "2011年すた丼の旅 [小旅行]",
+    "at": 1794797901
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/Surging%20Citrus%28ogg%29.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 10447684,
+    "charts": 3,
+    "title": "Surging Citrus",
+    "at": 1794801834
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/Violence%20Trident.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 54341056,
+    "charts": 4,
+    "title": "Violence Trident[VIOLENCE]",
+    "at": 1794793451
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/Vision.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 19261421,
+    "charts": 4,
+    "title": "Vision[NORMAL]",
+    "at": 1794798062
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/YOBISHI%5Bogg%5D.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 1440290,
+    "charts": 3,
+    "title": "砂上楼閣 \"妖菱\"",
+    "at": 1794800971
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/_idancing.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 42699815,
+    "charts": 1,
+    "title": "Inochi Dancing",
+    "at": 1794792622
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/_ohanabatake.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 50835564,
+    "charts": 1,
+    "title": "Ohanabatake Brain",
+    "at": 1794792496
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/_otouchan.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 49540410,
+    "charts": 1,
+    "title": "Otouchan Tsuyoi",
+    "at": 1794792660
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/aleph0.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 30406487,
+    "charts": 6,
+    "title": "Aleph_0 [Listening mode]",
+    "at": 1794799751
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/bof2011sutadon_mini.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 34429967,
+    "charts": 3,
+    "title": "すたの丼よ！",
+    "at": 1794797199
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/csp_eternal_drain_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 30912086,
+    "charts": 3,
+    "title": "ETERNAL DRAIN(HYPER)",
+    "at": 1794801697
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/csp_just_a_one_night_love_song_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 15397960,
+    "charts": 3,
+    "title": "Just a one night love song(HYPER)",
+    "at": 1794796505
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/csp_kiss_candy%20flaver_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "Failed to read response body: Peer disconnected",
+    "at": 1794796609
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/csp_luv_to_me%2011_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 26903370,
+    "charts": 3,
+    "title": "LUV TO ME 2011(ANOTHER)",
+    "at": 1794796651
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/do_it_yourself%5Bogg%5D.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 6919906,
+    "charts": 3,
+    "title": "DO IT YOURSELF[normal]",
+    "at": 1794797876
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/elementalist/darkfilament_flame_fix.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 13988439,
+    "charts": 3,
+    "title": "Dark Filament [NORMAL]",
+    "at": 1794794924
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/elementalist/glacialworld_ice.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 20302240,
+    "charts": 3,
+    "title": "glacial world[NORMAL]",
+    "at": 1794794152
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/elementalist/vajuranda_lightning.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 17899139,
+    "charts": 4,
+    "title": "Vajuranda [HYPER]",
+    "at": 1794798965
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/ending.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 4995522,
+    "charts": 2,
+    "title": "木工野郎 [Beginner's Normal]",
+    "at": 1794796980
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/eternal%20force%20blizzard.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 11354291,
+    "charts": 3,
+    "title": "Eternal force bllizard [beginner's Hard]",
+    "at": 1794794939
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/ethnoscapes_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 37511874,
+    "charts": 4,
+    "title": "Ethnoscapes",
+    "at": 1794796839
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/hitohira.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 13893897,
+    "charts": 4,
+    "title": "ひとひら [ANOTHER]",
+    "at": 1794801170
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/lsd05_gokuraku_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 23820577,
+    "charts": 7,
+    "title": "ゴクラクハスノウテナ (DP NORMAL)",
+    "at": 1794803461
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/lsd05_gokuraku_wav.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 56999186,
+    "charts": 7,
+    "title": "ゴクラクハスノウテナ (DP NORMAL)",
+    "at": 1794803558
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/moonlight%20express.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 14273031,
+    "charts": 1,
+    "title": "Moonlight Express [Beginner's Hard]",
+    "at": 1794796954
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/noexpectation/dualbeats_2.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 38754476,
+    "charts": 3,
+    "title": "Stairway to Heaven[Normal]",
+    "at": 1794799577
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/noexpectation/syo-rin.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 24287596,
+    "charts": 2,
+    "title": "yesteryear",
+    "at": 1794800126
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/noexpectation/takdrive_3.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 29622426,
+    "charts": 2,
+    "title": "brain dead[normal]",
+    "at": 1794800152
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/pingponghighway.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 8862558,
+    "charts": 1,
+    "title": "Ping Pong Highway",
+    "at": 1794799959
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/ricca_mb.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 6494947,
+    "charts": 3,
+    "title": "マカロニ望遠鏡(Another)",
+    "at": 1794795301
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/ricca_mb_a.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795302
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/sekilisyuken.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 29589360,
+    "charts": 7,
+    "title": "sekilishuken [Listening mode]",
+    "at": 1794799161
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/shiki_qliphoth_ogg.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 19445778,
+    "charts": 5,
+    "title": "Qliphoth[5light]",
+    "at": 1794803882
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/sleeplesswonder.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 9943679,
+    "charts": 2,
+    "title": "Sleepless Wonder",
+    "at": 1794799536
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/spiral_field__%5Bogg%5D.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 3505433,
+    "charts": 3,
+    "title": "Spiral Field[normal]",
+    "at": 1794798767
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/the_whale.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 40014355,
+    "charts": 5,
+    "title": "THE WHALE  [HYPER]",
+    "at": 1794793872
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/wakudoki.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 70630460,
+    "charts": 2,
+    "title": "わくわくこうじょうけんがく",
+    "at": 1794800965
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/zenbunagai_tamanooyo.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 12870730,
+    "charts": 9,
+    "title": "玉の緒よ (Another)",
+    "at": 1794796218
+  },
+  "http://uploader.bms.ms/data/bof2011okfquh83/zenbunagai_ueo_rc_ogg.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 62928672,
+    "charts": 6,
+    "title": "Rebirth Castle [SP ANOTHER]",
+    "at": 1794795936
+  },
+  "http://uploader.bms.ms/data/bof2011pr/Rapide_stellar_wavHQ.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 50582209,
+    "charts": 3,
+    "title": "Rapide stellar",
+    "at": 1794797316
+  },
+  "http://uploader.bms.ms/data/daisan/%5BBOF2011%5Dnoir_noir%5Bfeature%20colors%5D.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 57348299,
+    "charts": 5,
+    "title": "noir_noir[NORMAL]",
+    "at": 1794794438
+  },
+  "http://uploader.bms.ms/data/dance%20in%20the%20techso%20synth.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 29777015,
+    "charts": 3,
+    "title": "DANCE IN THE TECHSO SYNTH [NORMAL]",
+    "at": 1794802142
+  },
+  "http://uploader.bms.ms/data/eigo_finalexam.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 8193810,
+    "charts": 3,
+    "title": "Final Exam(bms edit) [7keys Hyper]",
+    "at": 1794798321
+  },
+  "http://uploader.bms.ms/data/enjoy_summer_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 9202287,
+    "charts": 3,
+    "title": "エンジョイ☆サマー[7key normal]",
+    "at": 1794793721
+  },
+  "http://uploader.bms.ms/data/enjoy_summer_wav.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 37075456,
+    "charts": 3,
+    "title": "エンジョイ☆サマー[7key normal]",
+    "at": 1794793716
+  },
+  "http://uploader.bms.ms/data/erogappahurricane.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 26032765,
+    "charts": 4,
+    "title": "えろがっぱハリケーン <SP ANOTHER>",
+    "at": 1794801944
+  },
+  "http://uploader.bms.ms/data/gekkaroh/OveR%E2%98%86FloW_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 41179512,
+    "charts": 3,
+    "title": "OveR☆FloW[Hyper]",
+    "at": 1794795785
+  },
+  "http://uploader.bms.ms/data/genesis/Exodus.wav.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 87138925,
+    "charts": 3,
+    "title": "Exodus[7key_Normal]",
+    "at": 1794802291
+  },
+  "http://uploader.bms.ms/data/genesis/Exodus_ogg.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 53425541,
+    "charts": 3,
+    "title": "Exodus[7key_Normal]",
+    "at": 1794802492
+  },
+  "http://uploader.bms.ms/data/genesis/Hydrangea_ogg.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794805166
+  },
+  "http://uploader.bms.ms/data/genesis/Hydrangea_wav.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 59564734,
+    "charts": 3,
+    "title": "Hydrangea[7key_Hyper]",
+    "at": 1794805159
+  },
+  "http://uploader.bms.ms/data/genesis/deus_ex_machina.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 70700668,
+    "charts": 2,
+    "title": "Deus ex Machina",
+    "at": 1794804039
+  },
+  "http://uploader.bms.ms/data/haganai/haganai__kobato.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 25547610,
+    "charts": 6,
+    "title": "Caudaemorducus",
+    "at": 1794800802
+  },
+  "http://uploader.bms.ms/data/haganai/haganai_maria.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 38262660,
+    "charts": 4,
+    "title": "Maria walking across the 100000000 pieces[HYPER]",
+    "at": 1794794319
+  },
+  "http://uploader.bms.ms/data/haganai/haganai_sena_yukimura.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 27912515,
+    "charts": 3,
+    "title": "AKATSUKI DRIVE",
+    "at": 1794800869
+  },
+  "http://uploader.bms.ms/data/knockitoff/etia_knockitoff_ogg_2.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794797428
+  },
+  "http://uploader.bms.ms/data/kusodegipo.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 16128526,
+    "charts": 3,
+    "title": "Facsory of Unhappiness",
+    "at": 1794802207
+  },
+  "http://uploader.bms.ms/data/kusodei.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 20734583,
+    "charts": 3,
+    "title": "トマトの中身はゴマ<SP ANOTHER>",
+    "at": 1794802740
+  },
+  "http://uploader.bms.ms/data/kusoexams.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 30588216,
+    "charts": 4,
+    "title": "Fuck'in Direct Mail[KUSO]",
+    "at": 1794802903
+  },
+  "http://uploader.bms.ms/data/kusozummer.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 36277742,
+    "charts": 2,
+    "title": "We Love KUSOSYNTH!! [SP NORMAL]",
+    "at": 1794801922
+  },
+  "http://uploader.bms.ms/data/mdkmgc/madoka_kaname_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 45003441,
+    "charts": 3,
+    "title": "円環の理 [ANOTHER]",
+    "at": 1794794616
+  },
+  "http://uploader.bms.ms/data/mindslicer/themicrobe.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 61436823,
+    "charts": 4,
+    "title": "The Microbe [7EZ]",
+    "at": 1794799388
+  },
+  "http://uploader.bms.ms/data/mindslicer/thetightness_.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 54125671,
+    "charts": 3,
+    "title": "THE TIGHTNESS (NM)",
+    "at": 1794803762
+  },
+  "http://uploader.bms.ms/data/mkani/M-kani_IaST_HQ_modified2.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 4292119,
+    "charts": 4,
+    "title": "It's a summer time!! (easy longnote)",
+    "at": 1794795076
+  },
+  "http://uploader.bms.ms/data/mkani/M-kani_IaST_ogg_modified2.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "Failed to read response body: Peer disconnected",
+    "at": 1794795070
+  },
+  "http://uploader.bms.ms/data/mkani/M-kani_bd_HQ.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 6516939,
+    "charts": 2,
+    "title": "Blue distortion",
+    "at": 1794792731
+  },
+  "http://uploader.bms.ms/data/mkani/M-kani_bd_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 1813183,
+    "charts": 2,
+    "title": "Blue distortion",
+    "at": 1794792667
+  },
+  "http://uploader.bms.ms/data/mkani/M-kani_mk_mtn_HQ.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 887205,
+    "charts": 2,
+    "title": "mk mtn (side B)",
+    "at": 1794797202
+  },
+  "http://uploader.bms.ms/data/mkani/M-kani_mk_mtn_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 445476,
+    "charts": 2,
+    "title": "mk mtn (side B)",
+    "at": 1794797201
+  },
+  "http://uploader.bms.ms/data/nightmare.rar": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "Failed to read response body: Peer disconnected",
+    "at": 1794795065
+  },
+  "http://uploader.bms.ms/data/pandars/Panda_77_HOOKER_bgatuki.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794798136
+  },
+  "http://uploader.bms.ms/data/qstolmonomosu/kernel_foolish_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 24978905,
+    "charts": 3,
+    "title": "kernel foolish",
+    "at": 1794795998
+  },
+  "http://uploader.bms.ms/data/rth_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "Failed to read response body: Peer disconnected",
+    "at": 1794795747
+  },
+  "http://uploader.bms.ms/data/saba/sabamiso-oisii_sabamiso%28110928%29.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 22580558,
+    "charts": 3,
+    "title": "おいしいさばみそ(べっとりアナザー)",
+    "at": 1794803910
+  },
+  "http://uploader.bms.ms/data/sen-goku/%5BSIG_TIS%5Dnature_of_the_earth.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "Failed to read response body: Peer disconnected",
+    "at": 1794796885
+  },
+  "http://uploader.bms.ms/data/sen-goku/funnydayz.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 20068539,
+    "charts": 3,
+    "title": "FUNNY DAYZ[NORMAL]",
+    "at": 1794799947
+  },
+  "http://uploader.bms.ms/data/subomi_psybeam.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 8973329,
+    "charts": 2,
+    "title": "PSYBEAM!!! [NORMAL]",
+    "at": 1794795234
+  },
+  "http://uploader.bms.ms/data/suugaku_sechigalizer_0927.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794796660
+  },
+  "http://uploader.bms.ms/data/tiro_finale.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 35683406,
+    "charts": 3,
+    "title": "Tiro finale [NORMAL]",
+    "at": 1794793189
+  },
+  "http://uploader.bms.ms/data/vaka/vak_cherrypetal.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 21888471,
+    "charts": 3,
+    "title": "Cherrypetal in her mind[ANOTHER]",
+    "at": 1794798954
+  },
+  "http://uploader.bms.ms/data/vaka/vak_hcooh%5E2-.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 18432271,
+    "charts": 3,
+    "title": "HCOOH thunder^2-proto type-[NORMAL]",
+    "at": 1794798740
+  },
+  "http://uploader.bms.ms/data/vaka/vak_rocate-.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "Failed to read response body: Peer disconnected",
+    "at": 1794798522
+  },
+  "http://uploader.bms.ms/data/xi_parousia_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794801712
+  },
+  "http://uploader.bms.ms/fdsyndrome/?download=lightning_ogg_2.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "Failed to read response body: Peer disconnected",
+    "at": 1794793208
+  },
+  "http://uploader.bms.ms/fdsyndrome/?download=lightning_wav_2.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 21011493,
+    "charts": 10,
+    "title": "lightning (SP HYPER)",
+    "at": 1794793274
+  },
+  "http://www.4shared.com/file/7mdwpUiy/MoonHare-ChineseRestaurantSynd.html": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794801170
+  },
+  "http://www.4shared.com/file/JYNChXkg/MoonHare-TearsofBlood.html": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794794912
+  },
+  "http://www.4shared.com/file/MspAVWja/MMvsMH-The3rdEscapeVelocity.html": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794800775
+  },
+  "http://www.4shared.com/file/R5ghUy1_/SmallSound-ThancingTonight.html": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794794912
+  },
+  "http://www.border.jp/sakura/bms/bof2011beatrix.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 401",
+    "at": 1794799389
+  },
+  "http://www.border.jp/sakura/bms/bof2011hukagyaku.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 401",
+    "at": 1794799927
+  },
+  "http://www.filey.jp/free/KnTTPH8p": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794800776
+  },
+  "http://www.geocities.jp/changggjp/bms/4bidden_area.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795316
+  },
+  "http://www.geocities.jp/changggjp/bms/AngelWing.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795317
+  },
+  "http://www.geocities.jp/changggjp/bms/GO.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795315
+  },
+  "http://www.geocities.jp/electronic_gravity/klocer.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794803163
+  },
+  "http://www.geocities.jp/electronic_gravity/temori.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794800994
+  },
+  "http://www.kimino-museum.com/snow_ache.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803163
+  },
+  "http://www.likeside.net/files/bms/DestinySalmon_stageLastBoss.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 38253185,
+    "charts": 3,
+    "title": "Against the DESTINY - Another -",
+    "at": 1794797565
+  },
+  "http://www.luzeria.net/music/61_scccq_ogg.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 21482302,
+    "charts": 8,
+    "title": "SCCCQB",
+    "at": 1794795642
+  },
+  "http://www.luzeria.net/music/62_uncaged_ogg.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 48844090,
+    "charts": 6,
+    "title": "uncaged",
+    "at": 1794803564
+  },
+  "http://www.luzeria.net/sayakawaii/mazy_mermaid.rar": {
+    "state": "archive",
+    "kind": "main",
+    "format": "rar",
+    "size": 26430449,
+    "charts": 6,
+    "title": "Mazy Mermaid",
+    "at": 1794801735
+  },
+  "http://www.mediafire.com/?9b992a47eibxv83": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794797428
+  },
+  "http://www.mediafire.com/?ksc60nyz3o6avlk": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794797470
+  },
+  "http://www.mediafire.com/?wi5x6g2id6u2z1q": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794797455
+  },
+  "http://www.mediafire.com/?wwtv7kpj1c8pd13": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794792784
+  },
+  "http://www.mediafire.com/download.php?h0xurn9zmweuy4x": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794792847
+  },
+  "http://www.mediafire.com/download/e4vrubmqtvvelv6/The%20Lamia%20170.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 81923198,
+    "charts": 11,
+    "title": "The Lamia 170 [Listening mode]",
+    "at": 1794800765
+  },
+  "http://www.mediafire.com/file/dgkv23piwv0ffci/%5BBMP%5DCassiopeiA_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 69224814,
+    "charts": 8,
+    "title": "Cassiopeia [Listen]",
+    "at": 1794793874
+  },
+  "http://www.mediafire.com/file/gtmx7b34s8ds2y8/%5BBMP%5DBe-music-primary%28inverse%20mix%29_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 37807364,
+    "charts": 4,
+    "title": "Be-Music-Primary(inverse mix)",
+    "at": 1794794679
+  },
+  "http://www.mediafire.com/file/vfqss7v9smh97br/%5BBMP%5DMorning%20Island___ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 71528350,
+    "charts": 7,
+    "title": "Morning Island 5Another",
+    "at": 1794794618
+  },
+  "http://www.nekomirin.com/bms/kaomirin_DoS_Maid_HQogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 9146923,
+    "charts": 5,
+    "title": "ねぇ？メイドさんはみんな忠実だと思う？ [HYPER7]",
+    "at": 1794796659
+  },
+  "http://www.nekomirin.com/bms/nekomirin_vg_HQogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 44551975,
+    "charts": 8,
+    "title": "VG (Radio Edit) [5KEY]",
+    "at": 1794792742
+  },
+  "http://www.pichnopop.net/bof2011/poppin_shower.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794800331
+  },
+  "http://www.s6.ql.bz/~t59g59/Nostalgic_Memories.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794798504
+  },
+  "http://www.siromaru.com/bms/conflict_ogg_20110917.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794794975
+  },
+  "http://www.siromaru.com/bms/fragment_of_tears.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794801728
+  },
+  "http://www.sohmatoa.com/wata_aikotoba_ogg.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795313
+  },
+  "http://www.studio2x.com/_/bof2011/[daitokai_kurashiki]ten_fix.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795283
+  },
+  "http://www.studio2x.com/_/bof2011/ten.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795283
+  },
+  "http://www.topo-sol.jp/unig/contents/data/bms_tamanta.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794804161
+  },
+  "http://www.yamajet.com/files/cp.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 500",
+    "at": 1794803973
+  },
+  "http://www.yamajet.com/files/nekoko14_tenten.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 7880604,
+    "charts": 6,
+    "title": "てんてん [7keys ANOTHER]",
+    "at": 1794798436
+  },
+  "http://www.yw-works.com/data/bm/bwroad10_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 29046910,
+    "charts": 11,
+    "title": "闘気に満ちた草原",
+    "at": 1794792628
+  },
+  "http://www.yw-works.com/data/bm/harukatoku_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 28581544,
+    "charts": 11,
+    "title": "遠く、遥か遠く (bms edit)",
+    "at": 1794792748
+  },
+  "http://www.yw-works.com/data/bm/next_stage_ogg.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 13849622,
+    "charts": 13,
+    "title": "NEXT STAGE!!",
+    "at": 1794792665
+  },
+  "http://www1.axfc.net/uploader/C/so/150022": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794800128
+  },
+  "http://www1.axfc.net/uploader/C/so/150105.zip&key=xiv": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803885
+  },
+  "http://www1.axfc.net/uploader/C/so/150150.zip": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794804163
+  },
+  "http://www1.axfc.net/uploader/C/so/152244.rar&key=bof2011": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803321
+  },
+  "http://www1.axfc.net/uploader/C/so/187056.zip": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794800334
+  },
+  "http://www1.axfc.net/uploader/H/so/143676.zip": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794801811
+  },
+  "http://www1.axfc.net/uploader/K/so/105984.zip&key=kiti": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795646
+  },
+  "http://www1.axfc.net/uploader/N/so/136848.zip": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794798016
+  },
+  "http://www1.axfc.net/uploader/N/so/136922": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794804859
+  },
+  "http://www1.axfc.net/uploader/N/so/138219": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794796506
+  },
+  "http://www1.axfc.net/uploader/Ne/so/118360.zip": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794798063
+  },
+  "http://www1.axfc.net/uploader/O/so/181542.zip": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794796000
+  },
+  "http://www1.axfc.net/uploader/O/so/181929.zip&key=xiv": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803911
+  },
+  "http://www1.axfc.net/uploader/O/so/181930.zip&key=xiv": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803886
+  },
+  "http://www1.axfc.net/uploader/O/so/181999.zip&key=kiti": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795645
+  },
+  "http://www1.axfc.net/uploader/O/so/184453": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794801906
+  },
+  "http://www1.axfc.net/uploader/P/so/97254.zip&key=xiv": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803883
+  },
+  "http://www1.axfc.net/uploader/S/so/108614": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794801735
+  },
+  "http://www1.axfc.net/uploader/S/so/108779": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794801813
+  },
+  "http://www1.axfc.net/uploader/S/so/125969": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794792825
+  },
+  "http://www1.axfc.net/uploader/Si/so/120797": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794804494
+  },
+  "http://www1.axfc.net/uploader/Si/so/122662": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794801698
+  },
+  "http://www1.axfc.net/uploader/Si/so/122663": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794796611
+  },
+  "http://www1.axfc.net/uploader/Si/so/122664": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794796653
+  },
+  "http://www1.axfc.net/uploader/so/2898673.zip": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794803889
+  },
+  "http://www5.pf-x.net/~malie/archive/TheSunLight2.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794799928
+  },
+  "http://www5.pf-x.net/~nora2r/truth.html": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794792500
+  },
+  "http://www5.pf-x.net/~nora2r/worldend.html": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794797727
+  },
+  "http://www7a.biglobe.ne.jp/~furiefurie/u/[bof2011-okayama]scenario.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794792661
+  },
+  "http://www7b.biglobe.ne.jp/~ssbossmix/sakuzyo_Neurotoxin_ogg.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794792496
+  },
+  "http://x.gmobb.jp/eicateve/data/endofnewworld.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803162
+  },
+  "http://x.gmobb.jp/eicateve/data/fylaki.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794796659
+  },
+  "http://xettho.6.ql.bz/bms/dpdpdpdp_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795644
+  },
+  "http://xettho.6.ql.bz/bms/dpdpdpdp_wav.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "io: failed to lookup address information: Name or service not known",
+    "at": 1794795645
+  },
+  "http://xiv.si/": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794803882
+  },
+  "http://xiv.si/XIV_DVTN.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803910
+  },
+  "http://xiv.si/XIV_GRAD.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803885
+  },
+  "http://xiv.si/XIV_YRKG.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803883
+  },
+  "http://yaruki0.sakura.ne.jp/bms/exit_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794800777
+  },
+  "http://yaruki0.sakura.ne.jp/bms/play_ogg.zip": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 403",
+    "at": 1794800803
+  },
+  "http://yashimadoh.web.fc2.com/2-8_to_7-Drown_memories.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 9893758,
+    "charts": 1,
+    "title": "Drown memories",
+    "at": 1794795014
+  },
+  "http://yashimadoh.web.fc2.com/6-8_to_7-Zwielichtquarz.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 3041224,
+    "charts": 1,
+    "title": "Zwielichtquarz",
+    "at": 1794799184
+  },
+  "http://yashimadoh.web.fc2.com/8-8_to_7-Aerialize.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 5043096,
+    "charts": 1,
+    "title": "Aerialize",
+    "at": 1794799184
+  },
+  "https://dl.dropbox.com/u/16367925/BMS/hdlvremix.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795546
+  },
+  "https://dl.dropbox.com/u/19913007/Mars%20Olympus.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794797727
+  },
+  "https://dl.dropbox.com/u/20077825/BMS/humdrumbass_7db919.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794801815
+  },
+  "https://dl.dropbox.com/u/20077825/BMS/humdrumbass_albescent_ambivalence.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794794974
+  },
+  "https://dl.dropbox.com/u/20077825/BMS/humdrumbass_minnashinimasu.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794796996
+  },
+  "https://dl.dropbox.com/u/24418657/bof2011-FakeChordUnion/8-8_to_7-Aerialize.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794799184
+  },
+  "https://dl.dropbox.com/u/24418657/bof2011-imagicolor/2-8_to_7-Drown_memories.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795013
+  },
+  "https://dl.dropbox.com/u/24418657/bof2011-ndk/6-8_to_7-Zwielichtquarz.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794799183
+  },
+  "https://dl.dropbox.com/u/25036474/XIV_DVTN.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803910
+  },
+  "https://dl.dropbox.com/u/25036474/XIV_GRAD.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803885
+  },
+  "https://dl.dropbox.com/u/25036474/XIV_YRKG.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803884
+  },
+  "https://dl.dropbox.com/u/25036474/XIV_bms.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803882
+  },
+  "https://dl.dropbox.com/u/30230629/melody_express%5Bogg%5D.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794798136
+  },
+  "https://dl.dropbox.com/u/30230629/overclocked%5Bogg%5D.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794798235
+  },
+  "https://dl.dropbox.com/u/34035220/tearvid..rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795832
+  },
+  "https://dl.dropbox.com/u/34120259/important_meanings.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803911
+  },
+  "https://dl.dropbox.com/u/34178538/MoonHare-Erin.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795832
+  },
+  "https://dl.dropbox.com/u/34178538/bbangsami_Tranquillity_Tree.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795014
+  },
+  "https://dl.dropbox.com/u/34178538/bbangsami_team_ib_glory_to_stormwind.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795536
+  },
+  "https://dl.dropbox.com/u/34178538/kiri_vs_bbangsami_Fitd_Remember.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794801711
+  },
+  "https://dl.dropbox.com/u/34178538/team_musicbakery_Black_flag.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795016
+  },
+  "https://dl.dropbox.com/u/34178538/team_musicbakery_La_nyam_europa_mix.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795016
+  },
+  "https://dl.dropbox.com/u/34178538/team_musicbakery_cloud_tracer.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794798014
+  },
+  "https://dl.dropbox.com/u/3475198/gentle%20action.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794805020
+  },
+  "https://dl.dropbox.com/u/36615944/%5BDCF%5DTRI-TECH.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795303
+  },
+  "https://dl.dropbox.com/u/36615944/%5BDCF%5Ddisco%20the%20ground.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794798014
+  },
+  "https://dl.dropbox.com/u/36615944/%5BDCF%5Dnext%20generation.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794798014
+  },
+  "https://dl.dropbox.com/u/36615944/%5Bstg%5Dspin_paradigm.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794798134
+  },
+  "https://dl.dropbox.com/u/37310334/find%20a%20way.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794805080
+  },
+  "https://dl.dropbox.com/u/3822971/NDK-eizokuteki.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803885
+  },
+  "https://dl.dropbox.com/u/39690370/bof2011beatrix.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794799389
+  },
+  "https://dl.dropbox.com/u/39690370/bof2011hukagyaku.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794799927
+  },
+  "https://dl.dropbox.com/u/4166666/Rush%20Hour.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794805080
+  },
+  "https://dl.dropbox.com/u/41761207/straw_CRose.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794794924
+  },
+  "https://dl.dropbox.com/u/41940940/zio-digital_metropolis.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795013
+  },
+  "https://dl.dropbox.com/u/41940940/zio-digital_metropolis_ogg.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795013
+  },
+  "https://dl.dropbox.com/u/45360077/cybermiso-ecstatic_ghost_party_as_nightmareghost%28withDP%29.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803048
+  },
+  "https://dl.dropbox.com/u/45360077/sabamiso-oisii_sabamiso%28110928%29.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803910
+  },
+  "https://dl.dropbox.com/u/52909188/LUCK4_yume.zip": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795819
+  },
+  "https://dl.dropbox.com/u/59495318/BMS/rr_gandharva.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794792788
+  },
+  "https://dl.dropbox.com/u/91177583/BMS/infinity.rar": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794800971
+  },
+  "https://drive.google.com/open?id=0B7qCw4hNijr4UjZQR0RtYm00VDg": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 10942800,
+    "charts": 9,
+    "title": "A FLOWER GARDEN",
+    "at": 1794801176
+  },
+  "https://drive.google.com/open?id=0B7qCw4hNijr4cDdzcDIyNG1ydWc": {
+    "state": "error",
+    "size": 0,
+    "charts": 0,
+    "error": "failed to convert header to a str",
+    "at": 1794795240
+  },
+  "https://drive.google.com/uc?export=download&id=0Bx5WxQLWV4feTTRQaTlUaFJ4YjA": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795936
+  },
+  "https://goo.gl/KXreu": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794798322
+  },
+  "https://goo.gl/YcTXz": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795643
+  },
+  "https://goo.gl/hGivU": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794798322
+  },
+  "https://goo.gl/kHSGm": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794795644
+  },
+  "https://sites.google.com/site/richardroebms/gandharva": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794792788
+  },
+  "https://skydrive.live.com/?cid=2aaf542477cdbdc2&sc=documents&uc=1&id=2AAF542477CDBDC2%21136#": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794804163
+  },
+  "https://skydrive.live.com/?cid=EDC72D529484CBCB&id=EDC72D529484CBCB!233": {
+    "state": "page",
+    "size": 0,
+    "charts": 0,
+    "at": 1794797919
+  },
+  "https://skydrive.live.com/embedicon.aspx/.Public/[nob]dirtyrainbow.rar?cid=5c95bb1adfdcbf88&sc=documents": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794792498
+  },
+  "https://tinyurl.com/3eryku8": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803033
+  },
+  "https://tinyurl.com/3to39fk": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803042
+  },
+  "https://tinyurl.com/43z8lsl": {
+    "state": "gone",
+    "size": 0,
+    "charts": 0,
+    "error": "HTTP 404",
+    "at": 1794803047
+  },
+  "https://www.dropbox.com/s/mtz8i5nxvn629ji/ascetic_NLM.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 20699274,
+    "charts": 3,
+    "title": "NEUROTIC LOOPING MACHINE [7ANOTHER]",
+    "at": 1794804861
+  },
+  "https://www.dropbox.com/s/q87tp0nidxnkijm/ascetic_FPM.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 33386768,
+    "charts": 3,
+    "title": "FRANTIC POUNDING MACHINE [7HYPER]",
+    "at": 1794804496
+  },
+  "https://www.dropbox.com/s/smd246hy0g88wlo/sany-on_myfancy_yourfancy.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 33300415,
+    "charts": 5,
+    "title": "my fancy, your fancy (bms edit) [7keys HARD]",
+    "at": 1794800333
+  },
+  "https://www.dropbox.com/s/vf8o5o400g59akk/ascetic_TSM.zip": {
+    "state": "archive",
+    "kind": "main",
+    "format": "zip",
+    "size": 41443979,
+    "charts": 3,
+    "title": "TRAGIC STOMPING MACHINE [7ANOTHER]",
+    "at": 1794803888
+  }
+}
