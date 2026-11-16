@@ -17,8 +17,14 @@ git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 git add -- "${@/%//index.json}"
 git diff --cached --quiet && exit 0
 git commit -q -m "index.json: $*"
+# another run may have pushed the same event's files meanwhile (two lists
+# of events with one in common): this run's, the newer, win
 for i in 1 2 3 4 5; do
-  git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0
+  if git pull -q --rebase -X theirs origin main; then
+    git push -q origin HEAD:main && exit 0
+  else
+    git rebase --abort 2>/dev/null || true
+  fi
   sleep $((i * 5))
 done
 exit 1
