@@ -96,9 +96,12 @@ the latest full package over patches for earlier downloads. The choice is in `wo
 
 ## How it is made
 
-- `tools/scrape_manbow.py 152 bof22`: reads the venue's URL list and
-  work list into `bof22/works.json` (the venue numbers are in
-  `events.json`).
+- `bmseeker manbow 152 bof22` ([bmseeker](https://github.com/vibeBMS/vibe/tree/main/crates/bmseeker),
+  from vibeBMS/vibe): reads the venue's URL list and work list into
+  `bof22/works.json`, with its guess of each work's main archive,
+  add-ons and mirrors, and `bof22/overrides.json` applied (the venue
+  numbers are in `events.json`). vibeBMS makes the same choice when it
+  downloads from a work's page.
 - `tools/mirror.py bof22`: uploads what the release lacks. Downloads go
   through [bmseeker](https://github.com/vibeBMS/vibe/tree/main/crates/bmseeker)
   (`bmseeker fetch`, built by `.github/actions/bmseeker`): Google Drive,
