@@ -29,8 +29,11 @@ on:
 permissions:
   contents: write
 
+# one run per list of events at a time (another list runs beside it: each
+# pushes its own events' files); a run waiting for its turn is replaced by
+# a newer one of the same list
 concurrency:
-  group: check-links
+  group: check-links-${{ inputs.events || 'all' }}
 
 jobs:
   events:
