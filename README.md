@@ -97,15 +97,15 @@ the latest full package over patches for earlier downloads. The choice is in `wo
 ## How it is made
 
 - `bmseeker event works 152 --overrides bof22/overrides.json`
-  ([bmseeker](https://github.com/vibeBMS/vibe/tree/main/crates/bmseeker),
-  from vibeBMS/vibe) reads the venue's URL list and work list: each work
+  ([bmseeker](https://github.com/vibeBMS/BMSeeker),
+  vibeBMS/BMSeeker) reads the venue's URL list and work list: each work
   as a record (JSON Lines) with its guess of the main archive, add-ons and
   mirrors, the hand-made choices applied (the venue numbers are in
   `events.json`). `bof22/works.json` is those records as one array:
   `bmseeker event works 152 --overrides bof22/overrides.json | jq -s . > bof22/works.json`.
   vibeBMS makes the same choice when it downloads from a work's page.
 - `tools/mirror.py bof22`: uploads what the release lacks. Downloads go
-  through [bmseeker](https://github.com/vibeBMS/vibe/tree/main/crates/bmseeker)
+  through [bmseeker](https://github.com/vibeBMS/BMSeeker)
   (`bmseeker link get`, built by `.github/actions/bmseeker`): Google Drive,
   Dropbox, MediaFire, MEGA and web servers, a work's links in turn and
   then BMS SEARCH's for the song; what arrives must be an archive (or, for

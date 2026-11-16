@@ -1,7 +1,7 @@
 name: Check links
 
 # For the events that are not mirrored: download each work's links (with
-# bmseeker, from vibeBMS/vibe) to see which still work and what they hold
+# bmseeker, from vibeBMS/BMSeeker) to see which still work and what they hold
 # (the song, an add-on, media), into <event>/links.jsonl; then write the
 # event's index.json, which orders the links by it (tools/index.py).
 # A run is cut at about five hours per event and goes on from there the
