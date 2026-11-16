@@ -864,9 +864,13 @@
   "team": "SOLITUDE & SOLIDARITY",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=137",
-  "files": [],
-  "links": [
-   "https://box.keysounds.net/dolphin/%5BDolphin%5DWonderfulTomorrow_bga.zip"
+  "files": [
+   {
+    "name": "050.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvii/050.zip",
+    "size": 29423878,
+    "original": "wtremixHQ.zip"
+   }
   ]
  },
  {
@@ -5726,9 +5730,13 @@
   "team": "TEAM パンデサル",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=360&event=137",
-  "files": [],
-  "links": [
-   "https://download1347.mediafire.com/kz37cmqygxmg/9vkxx39zgzyo83o/%5BBOFXVII+-+TEAM+PANDESAL%5D+h.+-+RZURCTN.zip"
+  "files": [
+   {
+    "name": "360.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvii/360.zip",
+    "size": 92863372,
+    "original": "[BOFXVII - TEAM PANDESAL] h. - RZURCTN.zip"
+   }
   ]
  },
  {
