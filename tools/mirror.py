@@ -5,7 +5,9 @@
 
 For each work in <event>/works.json (disqualified ones skipped) whose
 asset is not in release <event> yet: download the main archive (its
-links in turn, then BMS SEARCH's for the song) and each add-on with
+links in turn, then those "Check links" found for it elsewhere and saw
+work -- <event>/links.jsonl records with its "num" and a "source" --
+then BMS SEARCH's for the song) and each add-on with
 `bmseeker link get` (vibeBMS/vibe, on the PATH) -- where a link only gives
 a page, in a headless browser (tools/browser_download.js) -- then upload
 them as
@@ -53,11 +55,28 @@ def has(existing: set, stem: str) -> bool:
     return False
 
 
-def get_one(urls, work, work_dir: Path, search: bool):
+def found_links(event: str) -> dict:
+    """Work number -> the links "Check links" found for it elsewhere (BMS
+    SEARCH, the community archive) that gave the song, with their source."""
+    path = Path(event, "links.jsonl")
+    out = {}
+    for line in path.read_text().splitlines() if path.exists() else []:
+        if not line.strip():
+            continue
+        c = json.loads(line)
+        if (c.get("source") and c.get("num") is not None
+                and c.get("state") in ("archive", "chart") and c.get("kind", "main") == "main"):
+            out.setdefault(c["num"], []).append((c["url"], c["source"]))
+    return out
+
+
+def get_one(urls, work, work_dir: Path, search: bool, third_party: bool):
     """`bmseeker link get`: (the file, its format, the link it came from) or
     None, and the errors of the links that failed."""
     cmd = ["bmseeker", "--json", "link", "get", *urls, "-o", f"{work_dir}/", "--any",
            "--title", work["title"], "--artist", work["artist"]]
+    if third_party:
+        cmd.append("--third-party")
     if search:
         cmd.append("--search")
     if not urls and not search:
@@ -128,12 +147,15 @@ def main():
     ap.add_argument("--only", help="comma separated work numbers")
     ap.add_argument("--replace", action="store_true",
                     help="download --only works again and replace their assets")
+    ap.add_argument("--third-party", action="store_true",
+                    help="third parties' copies too (dead uploaders' mirrors, the community archive)")
     a = ap.parse_args()
     i, n = map(int, a.shard.split("/"))
     deadline = time.time() + a.hours * 3600
     works = json.loads(Path(a.event, "works.json").read_text())
     only = {int(x) for x in a.only.split(",")} if a.only else None
     existing = assets(a.event)
+    found = found_links(a.event)
     done, failed, skipped = [], [], []
     for w in works:
         num = w["num"]
@@ -141,7 +163,9 @@ def main():
             continue
         if w.get("kind") == "Disq":
             continue
-        jobs = [(f"{num:03}", w["main"])] + [(f"{num:03}+{k}", urls) for k, urls in enumerate(w["extra"], 1)]
+        # the song: its own links, then those found for it that worked
+        elsewhere = [u for u, _ in found.get(num, []) if u not in w["main"]]
+        jobs = [(f"{num:03}", w["main"] + elsewhere)] + [(f"{num:03}+{k}", urls) for k, urls in enumerate(w["extra"], 1)]
         for stem, urls in jobs:
             if has(existing, stem) and not (a.replace and only):
                 continue
@@ -151,7 +175,8 @@ def main():
             tmp = Path(tempfile.mkdtemp())
             try:
                 # the song's archive may be found elsewhere; an add-on not
-                got, errors = get_one(urls, w, tmp, search="+" not in stem)
+                got, errors = get_one(urls, w, tmp, search="+" not in stem,
+                                      third_party=a.third_party)
                 if got is None:
                     failed.append((stem, w["title"], "; ".join(errors) or "no link"))
                     continue
@@ -160,7 +185,10 @@ def main():
                     failed.append((stem, w["title"], f"{path.stat().st_size >> 20} MiB is over the 2 GiB asset limit"))
                 else:
                     name = upload(a.event, path, fmt, stem)
-                    via = "" if link in urls else f" (BMS SEARCH: {link})"
+                    source = dict(found.get(num, [])).get(link)
+                    via = ("" if link in w["main"] or "+" in stem
+                           else f" ({source}: {link})" if source
+                           else f" (BMS SEARCH: {link})")
                     done.append((name, w["title"], path.name + via))
                     print(f"{name}  {path.name}{via}", flush=True)
             except subprocess.CalledProcessError as e:

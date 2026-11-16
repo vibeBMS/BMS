@@ -17,6 +17,10 @@ on:
         description: Download the listed works again, replacing their files
         type: boolean
         default: false
+      third_party:
+        description: Also third parties' copies (dead uploaders' mirrors, the community archive)
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -63,10 +67,12 @@ jobs:
           EVENT: ${{ inputs.event }}
           ONLY: ${{ inputs.only }}
           REPLACE: ${{ inputs.replace }}
+          THIRD_PARTY: ${{ inputs.third_party }}
         run: |
           python3 tools/mirror.py "$EVENT" --shard "${{ matrix.shard }}/10" \
             --hours 5.2 ${ONLY:+--only "$ONLY"} \
-            $([ "$REPLACE" = true ] && [ -n "$ONLY" ] && echo --replace)
+            $([ "$REPLACE" = true ] && [ -n "$ONLY" ] && echo --replace) \
+            $([ "$THIRD_PARTY" = true ] && echo --third-party)
       - uses: actions/upload-artifact@v4
         if: always()
         with:
