@@ -3747,9 +3747,13 @@
   "team": "Vector Tech",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=296&event=149",
-  "files": [],
-  "links": [
-   "https://drive.google.com/drive/u/1/folders/141dpSkRQBq1o6WjsOSV0lx0SavRaZzR0"
+  "files": [
+   {
+    "name": "296.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bof21/296.zip",
+    "size": 14335608,
+    "original": "ogg.zip"
+   }
   ]
  },
  {
