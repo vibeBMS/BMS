@@ -2,7 +2,7 @@ name: Check links
 
 # For the events that are not mirrored: download each work's links (with
 # bmseeker, from vibeBMS/vibe) to see which still work and what they hold
-# (the song, an add-on, media), into <event>/links.json; then write the
+# (the song, an add-on, media), into <event>/links.jsonl; then write the
 # event's index.json, which orders the links by it (tools/index.py).
 # A run is cut at about five hours per event and goes on from there the
 # next time; results are kept for 30 days (failures: a day).
@@ -54,15 +54,26 @@ jobs:
       - uses: actions/checkout@v4
       - uses: ./.github/actions/bmseeker
       - name: Check
+        env:
+          EV: ${{ matrix.event }}
         run: |
-          bmseeker check-links "${{ matrix.event }}/works.json" \
-            "${{ matrix.event }}/links.json" --minutes 290 2> check.log || true
+          # earlier checks: links.jsonl (records), else the old links.json
+          known="$EV/links.jsonl"; [ -f "$known" ] || known="$EV/links.json"
+          if bmseeker event check "$EV/works.json" --known "$known" --minutes 290 \
+              > "$EV/links.new" 2> check.log; then
+            mv "$EV/links.new" "$EV/links.jsonl"
+            [ -f "$EV/links.json" ] && git rm -q "$EV/links.json"
+          else
+            rm -f "$EV/links.new"
+          fi
           tail -n 40 check.log
-          python3 - "${{ matrix.event }}" >> "$GITHUB_STEP_SUMMARY" <<'PY'
-          import collections, json, sys
+          python3 - "$EV" >> "$GITHUB_STEP_SUMMARY" <<'PY'
+          import collections, json, os, sys
           ev = sys.argv[1]
           c = collections.Counter()
-          for v in json.load(open(ev + "/links.json")).values():
+          path = ev + "/links.jsonl"
+          for line in open(path) if os.path.exists(path) else []:
+              v = json.loads(line)
               c[v["state"] + ("/" + v["kind"] if v.get("kind") else "")] += 1
           print("| %s | %s |" % (ev, ", ".join("%s %d" % kv for kv in sorted(c.items()))))
           PY
@@ -70,5 +81,5 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          git add "${{ matrix.event }}/links.json"
+          git add -A "${{ matrix.event }}/"
           tools/publish_index.sh "${{ matrix.event }}"

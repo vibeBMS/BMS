@@ -18,5 +18,5 @@ runs:
         restore-keys: bmseeker-${{ runner.os }}-
     - shell: bash
       run: |
-        cargo build --release -p bmseeker --manifest-path vibe/Cargo.toml
+        cargo build --release -p bmseeker-cli --manifest-path vibe/Cargo.toml
         echo "$GITHUB_WORKSPACE/vibe/target/release" >> "$GITHUB_PATH"

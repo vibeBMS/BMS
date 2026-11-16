@@ -11,7 +11,7 @@ overrides.json: {"040.zip": "the original file name"}) names its file.
 
 Works without files (not mirrored yet, or only downloadable by hand)
 keep their `links` so a player can download from the authors. Where
-`<event>/links.json` (what each link gave: `bmseeker check-links`, the
+`<event>/links.jsonl` (what each link gave: `bmseeker event check`, the
 "Check links" workflow) knows them, the links that bring the song itself
 come first, then those not checked yet, pages, and failing ones; gone
 links (404 / 410) are left out, and add-ons (charts without their sounds,
@@ -45,11 +45,21 @@ def order(links, checks):
     return song, addons
 
 
+def read_checks(event):
+    """URL -> its check: <event>/links.jsonl (records), else the older
+    links.json (an object by URL)."""
+    lines = Path(event, "links.jsonl")
+    if lines.exists():
+        recs = [json.loads(l) for l in lines.read_text().splitlines() if l.strip()]
+        return {r["url"]: r for r in recs}
+    old = Path(event, "links.json")
+    return json.loads(old.read_text()) if old.exists() else {}
+
+
 def main():
     event = sys.argv[1]
     works = json.loads(Path(event, "works.json").read_text())
-    checks_file = Path(event, "links.json")
-    checks = json.loads(checks_file.read_text()) if checks_file.exists() else {}
+    checks = read_checks(event)
     r = subprocess.run(["gh", "release", "view", event, "--json", "assets"],
                        capture_output=True, text=True, check=True)
     by_num = {}

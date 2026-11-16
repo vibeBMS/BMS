@@ -96,23 +96,26 @@ the latest full package over patches for earlier downloads. The choice is in `wo
 
 ## How it is made
 
-- `bmseeker manbow 152 bof22` ([bmseeker](https://github.com/vibeBMS/vibe/tree/main/crates/bmseeker),
-  from vibeBMS/vibe): reads the venue's URL list and work list into
-  `bof22/works.json`, with its guess of each work's main archive,
-  add-ons and mirrors, and `bof22/overrides.json` applied (the venue
-  numbers are in `events.json`). vibeBMS makes the same choice when it
-  downloads from a work's page.
+- `bmseeker event works 152 --overrides bof22/overrides.json`
+  ([bmseeker](https://github.com/vibeBMS/vibe/tree/main/crates/bmseeker),
+  from vibeBMS/vibe) reads the venue's URL list and work list: each work
+  as a record (JSON Lines) with its guess of the main archive, add-ons and
+  mirrors, the hand-made choices applied (the venue numbers are in
+  `events.json`). `bof22/works.json` is those records as one array:
+  `bmseeker event works 152 --overrides bof22/overrides.json | jq -s . > bof22/works.json`.
+  vibeBMS makes the same choice when it downloads from a work's page.
 - `tools/mirror.py bof22`: uploads what the release lacks. Downloads go
   through [bmseeker](https://github.com/vibeBMS/vibe/tree/main/crates/bmseeker)
-  (`bmseeker fetch`, built by `.github/actions/bmseeker`): Google Drive,
+  (`bmseeker link get`, built by `.github/actions/bmseeker`): Google Drive,
   Dropbox, MediaFire, MEGA and web servers, a work's links in turn and
   then BMS SEARCH's for the song; what arrives must be an archive (or, for
   an add-on, a chart or movie, not a page). Links that only give a page
   are opened in a headless browser (`tools/browser_download.js`), which
   presses the page's Download button and takes what it downloads.
-- The **Check links** workflow (`bmseeker check-links`) does the same for
+- The **Check links** workflow (`bmseeker event check`) does the same for
   the events that are not mirrored: what each link still gives, into
-  `<event>/links.json`, by which `index.json` orders the links.
+  `<event>/links.jsonl` (one record a line), by which `index.json` orders
+  the links.
 - The **Mirror an event** workflow runs it in 10 shards and writes
   `index.json`. Run it again to fill in what failed (Google Drive
   download limits clear after a day).

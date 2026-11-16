@@ -6,7 +6,7 @@
 For each work in <event>/works.json (disqualified ones skipped) whose
 asset is not in release <event> yet: download the main archive (its
 links in turn, then BMS SEARCH's for the song) and each add-on with
-`bmseeker fetch` (vibeBMS/vibe, on the PATH) -- where a link only gives
+`bmseeker link get` (vibeBMS/vibe, on the PATH) -- where a link only gives
 a page, in a headless browser (tools/browser_download.js) -- then upload
 them as
 
@@ -54,10 +54,10 @@ def has(existing: set, stem: str) -> bool:
 
 
 def get_one(urls, work, work_dir: Path, search: bool):
-    """`bmseeker fetch`: (the file, its format, the link it came from) or
+    """`bmseeker link get`: (the file, its format, the link it came from) or
     None, and the errors of the links that failed."""
-    cmd = ["bmseeker", "fetch", *urls, str(work_dir), "--json", "--any",
-           "-t", work["title"], "-a", work["artist"]]
+    cmd = ["bmseeker", "--json", "link", "get", *urls, "-o", f"{work_dir}/", "--any",
+           "--title", work["title"], "--artist", work["artist"]]
     if search:
         cmd.append("--search")
     if not urls and not search:
