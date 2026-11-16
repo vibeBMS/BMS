@@ -3245,11 +3245,13 @@
   "team": "OneTaker",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=197&event=146",
-  "files": [],
-  "links": [
-   "https://www.mediafire.com/folder/1zcnx14wi2uj8/Heofonlic_Treow_%5BFlaneZ%5D",
-   "https://drive.google.com/drive/folders/165rWOPLlQNsAcpF0_cRyoVld0ai2Ho_T?usp=sharing",
-   "https://www.dropbox.com/scl/fo/q824cvhcg6xrahn6kljm7/AMmW6PHEH-5HAn56kkInJXs?rlkey=6bgzvtos4ga7zzz9saw9x71vn&st=tc3d6zsn&dl=0"
+  "files": [
+   {
+    "name": "197.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/197.zip",
+    "size": 100610305,
+    "original": "Heofonlic Treow [FlaneZ] [ogg].zip"
+   }
   ]
  },
  {
@@ -3293,6 +3295,12 @@
     "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/199%2B1.zip",
     "size": 168788671,
     "original": "Aiiro_no_Kioku_ogg_bga [halfRonely].zip"
+   },
+   {
+    "name": "199+2.png",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/199%2B2.png",
+    "size": 344924,
+    "original": "Aiiro chan.png"
    }
   ]
  },
@@ -4092,11 +4100,13 @@
   "team": "OneTaker",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=146",
-  "files": [],
-  "links": [
-   "https://www.mediafire.com/folder/ano2wy1bibw97/Tulzscha_%5BCLoudie_vs._watch%5D",
-   "https://www.dropbox.com/scl/fo/9j9is0jc2sr1p19k8xrpe/ADgtI6TXVtascToFH3sxsFc?rlkey=jji56hp463mlerf7bn2z14cuk&st=it6zlx9x&dl=0",
-   "https://drive.google.com/drive/folders/15ITgkq0jg6AM8EMckQOD6zX2eVbzmFXt?usp=sharing"
+  "files": [
+   {
+    "name": "249.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/249.zip",
+    "size": 144898616,
+    "original": "Tulzscha [初云Cloudie vs. watch].zip"
+   }
   ]
  },
  {
@@ -5537,11 +5547,13 @@
   "team": "OneTaker",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=337&event=146",
-  "files": [],
-  "links": [
-   "https://www.mediafire.com/folder/q6q7n9vfrwohe/Dennou_Kouchou_Uchuusen_%5BAeventyrNoKibou%5D",
-   "https://www.dropbox.com/scl/fo/ne634ci20ag4uzh76nw64/AOrni_G4KMaFksH5g0sjr6o?rlkey=sj9q3qxq4ms3qkjzj0tejyuqn&st=3l4umrdv&dl=0",
-   "https://drive.google.com/drive/folders/1sF__z3XHNNtnHdJ329TUQgcqxkJEPElW?usp=sharing"
+  "files": [
+   {
+    "name": "337.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/337.zip",
+    "size": 532849949,
+    "original": "電脳工場宇宙船 [AeventyrNoKibou].zip"
+   }
   ]
  },
  {
@@ -6361,11 +6373,13 @@
   "team": "OneTaker",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=391&event=146",
-  "files": [],
-  "links": [
-   "https://www.mediafire.com/folder/s36ce9o83js19/What's_the_Plan_%5BRmjesty%5D",
-   "https://www.dropbox.com/scl/fo/092esacpialp61ngroda7/AG3QbMnCRPnJMGkTB8u9JeU?rlkey=jj1g8vo65naaekdcdhiaa8ma6&st=i6oahp3e&dl=0",
-   "https://drive.google.com/drive/folders/17m3JqB74JQkshUP_ApVKgMOSn4_TNMNb?usp=sharing"
+  "files": [
+   {
+    "name": "391.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/391.zip",
+    "size": 493264331,
+    "original": "What's the plan [Rmjesty].zip"
+   }
   ]
  },
  {
@@ -6963,10 +6977,13 @@
   "team": "Ultimate Ravers",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=146",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1yUi_aNiX-2x56jBHvk-Tdeqsl7yGiGst/view?usp=sharing",
-   "https://drive.google.com/file/d/1JcMa-44bttfbByXM4fIabqVSZCCBd_ce/view?usp=sharing"
+  "files": [
+   {
+    "name": "426.ogg",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/426.ogg",
+    "size": 110043,
+    "original": "viola_059.ogg"
+   }
   ]
  },
  {
@@ -7539,6 +7556,12 @@
     "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/460.mp4",
     "size": 117927915,
     "original": "[BGAHQ] Clotting Me.mp4"
+   },
+   {
+    "name": "460+1.txt",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/460%2B1.txt",
+    "size": 3091,
+    "original": "_readme_Clotting_Me.txt"
    }
   ]
  },
