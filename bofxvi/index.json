@@ -575,6 +575,12 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=133",
   "files": [
    {
+    "name": "034.png",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/034.png",
+    "size": 332603,
+    "original": "stage.png"
+   },
+   {
     "name": "034+1.zip",
     "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/034%2B1.zip",
     "size": 41214254,
@@ -1104,6 +1110,12 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=133",
   "files": [
    {
+    "name": "073.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/073.zip",
+    "size": 121573075,
+    "original": "[E0ri4]Destructed_Gate.zip"
+   },
+   {
     "name": "073+1.zip",
     "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/073%2B1.zip",
     "size": 38393311,
@@ -1156,12 +1168,13 @@
   "team": "うぅ～～っ！ふみゅみゅ～っ！",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=133",
-  "files": [],
-  "links": [
-   "https://www.dropbox.com/s/t0knbkqklupaaur/GIFT%5BHQ%5D.zip?dl=1",
-   "https://www.dropbox.com/s/cxktqddwh0csnzp/GIFT%5BLQ%5D.zip?dl=1",
-   "https://drive.google.com/file/d/1s3d7jLkNgOVxXJBzlpBEnnOYPMC3qUda/view?usp=sharing",
-   "https://www.dropbox.com/s/ukyqoqabk0ojqeu/u_fumyumyu_bms_pack.zip?dl=1"
+  "files": [
+   {
+    "name": "076.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/076.zip",
+    "size": 52332716,
+    "original": "GIFT[LQ].zip"
+   }
   ]
  },
  {
@@ -3639,11 +3652,13 @@
   "team": "優勝したらSHIKIさんが焼肉奢ってくれるらしい",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=133",
-  "files": [],
-  "links": [
-   "http://shiki2.sakura.ne.jp/shiki_fractal_bms_ogg.zip",
-   "http://shiki2.sakura.ne.jp/shiki_fractal_bms_wav.zip",
-   "https://drive.google.com/file/d/1omwP2eGSOb8zhJwwfODXp4pv9T5QQfP9/view?usp=sharing"
+  "files": [
+   {
+    "name": "243.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/243.zip",
+    "size": 106089589,
+    "original": "shiki_fractal_bms_wav.zip"
+   }
   ]
  },
  {
@@ -3727,10 +3742,13 @@
   "team": "癖譜面コレクション（BOFXVI）",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=133",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/10-nMlIojbJotS2EDurGUp6kbzsHmngSv/view?usp=sharing",
-   "https://drive.google.com/file/d/1Oi4RjWF7ODsTB_3oP0NI6z8R3ntLgFMe/view?usp=sharing"
+  "files": [
+   {
+    "name": "249.ogg",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/249.ogg",
+    "size": 1402165,
+    "original": "preview.ogg"
+   }
   ]
  },
  {
@@ -5719,9 +5737,13 @@
   "team": "キリハタマモル",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=372&event=133",
-  "files": [],
-  "links": [
-   "https://www.dropbox.com/s/xaf9nsfxkpzl9fd/%E3%82%86%E3%82%81%E3%81%AE%E3%81%A4%E3%81%A5%E3%81%8D_fix.zip?dl="
+  "files": [
+   {
+    "name": "372.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/372.zip",
+    "size": 220497819,
+    "original": "ゆめのつづき.zip"
+   }
   ]
  },
  {
@@ -7496,9 +7518,13 @@
   "team": "弟の弟",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=484&event=133",
-  "files": [],
-  "links": [
-   "https://mega.nz/file/fgUVUabK#GvJ01KYHGIzS20XJc5Eii8p8bOqoye48aO7Qx6NS8uE"
+  "files": [
+   {
+    "name": "484.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/484.zip",
+    "size": 99651501,
+    "original": "Tsubasa Mai Kaze.zip"
+   }
   ]
  },
  {
@@ -7791,9 +7817,13 @@
   "team": "Singin' Rabbits",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=504&event=133",
-  "files": [],
-  "links": [
-   "https://www.dropbox.com/s/iikew1631iote84/%5BSingin%27%20Rabbits%5Didzuchi%20-%20Aloof%20Wolf.zip?dl=1"
+  "files": [
+   {
+    "name": "504.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/504.zip",
+    "size": 50139064,
+    "original": "[idzuchi] Aloof Wolf.zip"
+   }
   ]
  },
  {
