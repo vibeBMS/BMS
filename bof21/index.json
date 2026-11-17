@@ -4153,10 +4153,13 @@
   "team": "HereAster Forth",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=337&event=149",
-  "files": [],
-  "links": [
-   "https://drive.google.com/drive/folders/1bRdnBrV5Y4vl4eBsUiqjgSiUvKCUWaPz?usp=sharing",
-   "https://www.mediafire.com/folder/mk4tgu6054igo/Bouenkyou-nite_Tensai-he_katamuku_%5BAeventyrNoKibou%5D"
+  "files": [
+   {
+    "name": "337.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bof21/337.zip",
+    "size": 16058872,
+    "original": "望遠鏡にて天際へ傾く [AeventyrNoKibou] [ogg].zip"
+   }
   ]
  },
  {
