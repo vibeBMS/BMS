@@ -92,7 +92,9 @@ In a mirrored event's release (`bof22`):
 When a work offers several versions, the mirror takes one: the one marked
 high quality (HQ, 高画質) over the low quality one, then ogg over wav, and
 the latest full package over patches for earlier downloads. The choice is in `works.json` (`main`,
-`extra`); `overrides.json` holds the hand-made ones.
+`extra`); `overrides.json` holds the hand-made ones. When the chosen one
+is gone, another version the author published is taken instead (one that
+the **Check links** workflow saw give the song).
 
 ## How it is made
 
@@ -107,8 +109,8 @@ the latest full package over patches for earlier downloads. The choice is in `wo
 - `tools/mirror.py bof22`: uploads what the release lacks. Downloads go
   through [bmseeker](https://github.com/vibeBMS/BMSeeker)
   (`bmseeker link get`, built by `.github/actions/bmseeker`): Google Drive,
-  Dropbox, MediaFire, MEGA and web servers, a work's links in turn and
-  then BMS SEARCH's for the song; what arrives must be an archive (or, for
+  Dropbox, MediaFire, MEGA and web servers, a work's chosen links in turn,
+  then its other versions, then BMS SEARCH's for the song; what arrives must be an archive (or, for
   an add-on, a chart or movie, not a page). Links that only give a page
   are opened in a headless browser (`tools/browser_download.js`), which
   presses the page's Download button and takes what it downloads.

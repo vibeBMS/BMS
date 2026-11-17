@@ -5,9 +5,11 @@
 
 For each work in <event>/works.json (disqualified ones skipped) whose
 asset is not in release <event> yet: download the main archive (its
-links in turn, then those "Check links" found for it elsewhere and saw
-work -- <event>/links.jsonl records with its "num" and a "source" --
-then BMS SEARCH's for the song) and each add-on with
+links in turn, then the work's other links that "Check links" saw give
+the song -- another version the author published, when the chosen one
+is gone -- then those it found for the work elsewhere and saw work --
+<event>/links.jsonl records with its "num" and a "source" -- then BMS
+SEARCH's for the song) and each add-on with
 `bmseeker link get` (vibeBMS/vibe, on the PATH) -- where a link only gives
 a page, in a headless browser (tools/browser_download.js) -- then upload
 them as
@@ -55,19 +57,30 @@ def has(existing: set, stem: str) -> bool:
     return False
 
 
+def checks(event: str) -> list:
+    """The records of "Check links" (<event>/links.jsonl)."""
+    path = Path(event, "links.jsonl")
+    lines = path.read_text().splitlines() if path.exists() else []
+    return [json.loads(l) for l in lines if l.strip()]
+
+
+def gives_song(c: dict) -> bool:
+    return c.get("state") in ("archive", "chart") and c.get("kind", "main") == "main"
+
+
 def found_links(event: str) -> dict:
     """Work number -> the links "Check links" found for it elsewhere (BMS
     SEARCH, the community archive) that gave the song, with their source."""
-    path = Path(event, "links.jsonl")
     out = {}
-    for line in path.read_text().splitlines() if path.exists() else []:
-        if not line.strip():
-            continue
-        c = json.loads(line)
-        if (c.get("source") and c.get("num") is not None
-                and c.get("state") in ("archive", "chart") and c.get("kind", "main") == "main"):
+    for c in checks(event):
+        if c.get("source") and c.get("num") is not None and gives_song(c):
             out.setdefault(c["num"], []).append((c["url"], c["source"]))
     return out
+
+
+def song_links(event: str) -> set:
+    """The links "Check links" saw give a song (a work's own included)."""
+    return {c["url"] for c in checks(event) if gives_song(c)}
 
 
 def get_one(urls, work, work_dir: Path, search: bool, third_party: bool):
@@ -156,6 +169,7 @@ def main():
     only = {int(x) for x in a.only.split(",")} if a.only else None
     existing = assets(a.event)
     found = found_links(a.event)
+    gave_song = song_links(a.event)
     done, failed, skipped = [], [], []
     for w in works:
         num = w["num"]
@@ -163,9 +177,14 @@ def main():
             continue
         if w.get("kind") == "Disq":
             continue
-        # the song: its own links, then those found for it that worked
-        elsewhere = [u for u, _ in found.get(num, []) if u not in w["main"]]
-        jobs = [(f"{num:03}", w["main"] + elsewhere)] + [(f"{num:03}+{k}", urls) for k, urls in enumerate(w["extra"], 1)]
+        # the song: the chosen links, its other links seen giving the song
+        # (another version, when the chosen one is gone), then those found
+        # for it elsewhere that worked
+        taken = set(w["main"]) | {u for g in w["extra"] for u in g}
+        own = [l["url"] for l in w["links"]]
+        others = [u for u in dict.fromkeys(own) if u not in taken and u in gave_song]
+        elsewhere = [u for u, _ in found.get(num, []) if u not in w["main"] + others]
+        jobs = [(f"{num:03}", w["main"] + others + elsewhere)] + [(f"{num:03}+{k}", urls) for k, urls in enumerate(w["extra"], 1)]
         for stem, urls in jobs:
             if has(existing, stem) and not (a.replace and only):
                 continue
@@ -187,6 +206,7 @@ def main():
                     name = upload(a.event, path, fmt, stem)
                     source = dict(found.get(num, [])).get(link)
                     via = ("" if link in w["main"] or "+" in stem
+                           else f" (its other link: {link})" if link in own
                            else f" ({source}: {link})" if source
                            else f" (BMS SEARCH: {link})")
                     done.append((name, w["title"], path.name + via))
