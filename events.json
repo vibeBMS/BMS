@@ -198,15 +198,6 @@
   "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/g2r2014/index.json"
  },
  {
-  "tag": "dpbms2014",
-  "name": "DPBMS差分大会",
-  "title": "合作！DPBMS差分大会",
-  "venue": 94,
-  "date": "2014-05-01",
-  "mirror": true,
-  "index": "https://raw.githubusercontent.com/vibeBMS/BMS/main/dpbms2014/index.json"
- },
- {
   "tag": "a9s2013",
   "name": "A9S2013",
   "title": "AUTUMN 9KEYS STORY 2013",

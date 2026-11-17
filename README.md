@@ -29,7 +29,6 @@ published it**.
 | 大血戦 - BOFU2015 - | [`bofu2015`](../../releases/tag/bofu2015) | links only | [bofu2015/works.json](bofu2015/works.json) |
 | WINTER 9KEYS SPARKLE 2015 | [`w9s2015`](../../releases/tag/w9s2015) | links only | [w9s2015/works.json](w9s2015/works.json) |
 | G2R2014 "GO BACK 2 YOUR ROOTS" | [`g2r2014`](../../releases/tag/g2r2014) | links only | [g2r2014/works.json](g2r2014/works.json) |
-| 合作！DPBMS差分大会 | [`dpbms2014`](../../releases/tag/dpbms2014) | archives | [dpbms2014/works.json](dpbms2014/works.json) |
 | AUTUMN 9KEYS STORY 2013 | [`a9s2013`](../../releases/tag/a9s2013) | links only | [a9s2013/works.json](a9s2013/works.json) |
 | konzertsaal - THE BMS OF FIGHTERS 2013 - | [`bof2013`](../../releases/tag/bof2013) | links only | [bof2013/works.json](bof2013/works.json) |
 | THE BMS OF FIGHTERS 2012 - Ein neuer Heiliger - | [`bof2012`](../../releases/tag/bof2012) | links only | [bof2012/works.json](bof2012/works.json) |
@@ -68,7 +67,8 @@ Japanese sentence of BOF21 and BOF22.
 
 合作！DPBMS差分大会
 ([dpbms_taikai.htm](http://yuyuyu.soudesune.net/dpbms_taikai.htm), 「配布規定」)
-puts no period on it:
+puts no period on it (the event is not listed yet: its release holds songs
+the mirror wrongly took from BMS SEARCH, to be removed first):
 
 > なお、登録された差分はアーカイブを改変しないことを条件に主催または有志によるパッケージ配布に同意する事になります。
 

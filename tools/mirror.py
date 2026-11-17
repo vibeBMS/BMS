@@ -57,6 +57,15 @@ def has(existing: set, stem: str) -> bool:
     return False
 
 
+def charts_only(event: str) -> bool:
+    """Whether the event's entries are separate charts (差分) for songs
+    that are not part of it (events.json "charts"): then only the work's
+    own links are tried, never the sources' links for its song (they
+    bring the song, not the entry) nor third parties' copies."""
+    events = json.loads(Path("events.json").read_text())
+    return any(e["tag"] == event and e.get("charts") for e in events)
+
+
 def checks(event: str) -> list:
     """The records of "Check links" (<event>/links.jsonl)."""
     path = Path(event, "links.jsonl")
@@ -168,7 +177,8 @@ def main():
     works = json.loads(Path(a.event, "works.json").read_text())
     only = {int(x) for x in a.only.split(",")} if a.only else None
     existing = assets(a.event)
-    found = found_links(a.event)
+    charts = charts_only(a.event)
+    found = {} if charts else found_links(a.event)
     gave_song = song_links(a.event)
     done, failed, skipped = [], [], []
     for w in works:
@@ -194,8 +204,8 @@ def main():
             tmp = Path(tempfile.mkdtemp())
             try:
                 # the song's archive may be found elsewhere; an add-on not
-                got, errors = get_one(urls, w, tmp, search="+" not in stem,
-                                      third_party=a.third_party)
+                got, errors = get_one(urls, w, tmp, search="+" not in stem and not charts,
+                                      third_party=a.third_party and not charts)
                 if got is None:
                     failed.append((stem, w["title"], "; ".join(errors) or "no link"))
                     continue
