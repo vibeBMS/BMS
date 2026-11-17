@@ -5209,13 +5209,13 @@
   "team": "キラキラの乱",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=331&event=137",
-  "files": [],
-  "links": [
-   "https://www.dropbox.com/s/wwm38vgk0ujz5h3/LOVE%5BLQ%5D.zip?dl=1",
-   "https://www.dropbox.com/s/oa58ebh0bv7iwyq/LOVE%5BHQ%5D.zip?dl=1",
-   "https://www.dropbox.com/s/kmnrzo3u5iox6jo/%5BMPG%5DLOVE_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E6%9B%B4%E6%96%B0%E7%94%A8.zip?dl=1",
-   "https://www.dropbox.com/s/5sjjhabj9jrlqup/%5BMP4%5DLOVE_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E6%9B%B4%E6%96%B0%E7%94%A8.zip?dl=1",
-   "https://www.dropbox.com/s/wvzm65ixoiyim44/LOVE_BGA_MP4.zip?dl=1"
+  "files": [
+   {
+    "name": "331.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvii/331.zip",
+    "size": 54203813,
+    "original": "LOVE[LQ].zip"
+   }
   ]
  },
  {
@@ -5971,9 +5971,13 @@
   "team": "TEAM パンデサル",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=377&event=137",
-  "files": [],
-  "links": [
-   "https://download1644.mediafire.com/bhlmkp9yw3ug/mjzexylg9vvray0/%5BBOFXVII+-+TEAM+PANDESAL%5D+The+Musical+Ghost+-+Mahika.zip"
+  "files": [
+   {
+    "name": "377.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvii/377.zip",
+    "size": 175149525,
+    "original": "[BOFXVII - TEAM PANDESAL] The Musical Ghost - Mahika.zip"
+   }
   ]
  },
  {
@@ -6943,9 +6947,13 @@
   "team": "Neko Matcha 「猫抹茶」",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=433&event=137",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/18Cm7odBEwl_lZaPgZOsVw-tDYxBTjglJ/view?usp=sharing"
+  "files": [
+   {
+    "name": "433.rar",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvii/433.rar",
+    "size": 179494274,
+    "original": "[BOFXVII - TEAM NEKOMATCHA] rN vs. nm-y - 42-flux.zip"
+   }
   ]
  },
  {
