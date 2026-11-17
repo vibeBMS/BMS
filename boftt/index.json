@@ -2508,11 +2508,13 @@
   "team": "Team T[J]mkn ~ the SonAtA of GodGold",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=151&event=146",
-  "files": [],
-  "links": [
-   "https://www.mediafire.com/file/px1ideux5zrr0j3/Concealed_Garden_Fixed.zip/file",
-   "https://www.mediafire.com/file/dg98cd596q3c3kb/Concealed_Garden%25EF%25BC%2588ogg%25EF%25BC%2589.zip/file",
-   "https://drive.google.com/file/d/1u5J2I8JB3aOuOWLklzsVCq4IC9mXEiza/view?usp=drive_link"
+  "files": [
+   {
+    "name": "151.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/boftt/151.zip",
+    "size": 15154561,
+    "original": "Concealed_Garden_Fixed.zip"
+   }
   ]
  },
  {
