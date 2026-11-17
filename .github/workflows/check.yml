@@ -42,7 +42,7 @@ jobs:
     outputs:
       list: ${{ steps.list.outputs.list }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - id: list
         env:
           EVENTS: ${{ inputs.events }}
@@ -64,7 +64,7 @@ jobs:
       matrix:
         event: ${{ fromJson(needs.events.outputs.list) }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - uses: ./.github/actions/bmseeker
       - name: Check
         env:
