@@ -2,7 +2,8 @@ name: Index events
 
 # Writes index.json into the release of each event (creating the release if
 # needed): the mirrored files, or for an event that is not mirrored, the
-# authors' download links.
+# authors' download links. An event new in events.json first gets its
+# folder: works.json from its venue and RELEASE.md (tools/new_event.py).
 
 on:
   workflow_dispatch:
@@ -22,6 +23,37 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
+      - name: Events without a folder
+        id: new
+        env:
+          EVENTS: ${{ inputs.events }}
+        run: |
+          list="$EVENTS"
+          [ -n "$list" ] || list=$(python3 -c 'import json; print(",".join(e["tag"] for e in json.load(open("events.json"))))')
+          new=""
+          for ev in ${list//,/ }; do
+            [ -f "$ev/works.json" ] && [ -f "$ev/RELEASE.md" ] || new="$new $ev"
+          done
+          echo "list=$new" >> "$GITHUB_OUTPUT"
+      - if: steps.new.outputs.list != ''
+        uses: ./.github/actions/bmseeker
+      - name: works.json and RELEASE.md of new events
+        if: steps.new.outputs.list != ''
+        env:
+          NEW: ${{ steps.new.outputs.list }}
+        run: |
+          python3 tools/new_event.py $NEW
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for ev in $NEW; do git add -- "$ev/works.json" "$ev/RELEASE.md"; done
+          git commit -q -m "New events:$NEW"
+          for i in 1 2 3 4 5; do
+            git pull -q --rebase origin main && git push -q origin HEAD:main && break
+            sleep $((i * 5))
+          done
+          for ev in $NEW; do
+            python3 -c 'import json,sys; print("| %s | %d works on the venue (new) |" % (sys.argv[1], len(json.load(open(sys.argv[1] + "/works.json")))))' "$ev" >> "$GITHUB_STEP_SUMMARY"
+          done
       - name: index.json
         env:
           GH_TOKEN: ${{ github.token }}
