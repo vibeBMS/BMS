@@ -6,9 +6,13 @@
   "team": "",
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=94",
-  "files": [],
-  "links": [
-   "http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_1137.zip"
+  "files": [
+   {
+    "name": "001.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/dpbms2014/001.zip",
+    "size": 30889137,
+    "original": "daisan_Yukidoke.zip"
+   }
   ]
  },
  {
@@ -114,9 +118,13 @@
   "team": "",
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=94",
-  "files": [],
-  "links": [
-   "http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_1147.zip"
+  "files": [
+   {
+    "name": "010.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/dpbms2014/010.zip",
+    "size": 34269283,
+    "original": "chikuseki_frustration_ogg.zip"
+   }
   ]
  },
  {
@@ -150,9 +158,13 @@
   "team": "",
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=94",
-  "files": [],
-  "links": [
-   "http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_1151.zip"
+  "files": [
+   {
+    "name": "013.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/dpbms2014/013.zip",
+    "size": 9715611,
+    "original": "rainbowful_gates_ogg.zip"
+   }
   ]
  },
  {
@@ -234,9 +246,13 @@
   "team": "",
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=94",
-  "files": [],
-  "links": [
-   "http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_1161.zip"
+  "files": [
+   {
+    "name": "020.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/dpbms2014/020.zip",
+    "size": 5394543,
+    "original": "perldnload.cgi"
+   }
   ]
  },
  {
@@ -258,9 +274,13 @@
   "team": "",
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=94",
-  "files": [],
-  "links": [
-   "http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_1165.zip"
+  "files": [
+   {
+    "name": "022.rar",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/dpbms2014/022.rar",
+    "size": 31603684,
+    "original": "rr_cancer.rar"
+   }
   ]
  },
  {
@@ -270,9 +290,13 @@
   "team": "",
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=94",
-  "files": [],
-  "links": [
-   "http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_1169.zip"
+  "files": [
+   {
+    "name": "023.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/dpbms2014/023.zip",
+    "size": 12791102,
+    "original": "est119_hellohello.zip"
+   }
   ]
  },
  {
@@ -354,9 +378,13 @@
   "team": "",
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=94",
-  "files": [],
-  "links": [
-   "http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_1179.zip"
+  "files": [
+   {
+    "name": "030.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/dpbms2014/030.zip",
+    "size": 25849712,
+    "original": "castorBMSedit_ogg.zip"
+   }
   ]
  },
  {
@@ -378,9 +406,13 @@
   "team": "",
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=94",
-  "files": [],
-  "links": [
-   "http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_1187.zip"
+  "files": [
+   {
+    "name": "032.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/dpbms2014/032.zip",
+    "size": 8409397,
+    "original": "er_baby-frenzy.zip"
+   }
   ]
  },
  {
@@ -474,9 +506,13 @@
   "team": "",
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=94",
-  "files": [],
-  "links": [
-   "http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_1199.zip"
+  "files": [
+   {
+    "name": "040.lzh",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/dpbms2014/040.lzh",
+    "size": 12698257,
+    "original": "_sengoku_decolora_.lzh"
+   }
   ]
  },
  {
