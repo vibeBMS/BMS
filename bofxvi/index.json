@@ -3626,9 +3626,13 @@
   "team": "みそぱんちゅ♡",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=244&event=133",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/10p58FNdM-PvDYCbH2aPsL4htzxtILvRy/view?usp=sharing"
+  "files": [
+   {
+    "name": "244.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/244.zip",
+    "size": 142928911,
+    "original": "みそぱんちゅ2020.zip"
+   }
   ]
  },
  {
@@ -3638,9 +3642,13 @@
   "team": "既視感",
   "kind": "Original",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=245&event=133",
-  "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1aOAVCOCvZr-PvFR3O4YnoaTr5QH5e6Fm/view?usp=sharing"
+  "files": [
+   {
+    "name": "245.zip",
+    "url": "https://github.com/vibeBMS/BMS/releases/download/bofxvi/245.zip",
+    "size": 78919194,
+    "original": "Teruyuki_wav.zip"
+   }
   ]
  },
  {
