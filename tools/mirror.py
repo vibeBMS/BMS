@@ -95,12 +95,15 @@ def song_links(event: str) -> set:
 def get_one(urls, work, work_dir: Path, search: bool, third_party: bool):
     """`bmseeker link get`: (the file, its format, the link it came from) or
     None, and the errors of the links that failed."""
-    cmd = ["bmseeker", "--json", "link", "get", *urls, "-o", f"{work_dir}/", "--any",
-           "--title", work["title"], "--artist", work["artist"]]
+    # (what a work's page says is a value or a link, never an option: values
+    # in --name=value form, links after "--")
+    cmd = ["bmseeker", "--json", "link", "get", f"--out={work_dir}/", "--any",
+           f"--title={work['title']}", f"--artist={work['artist']}"]
     if third_party:
         cmd.append("--third-party")
     if search:
         cmd.append("--search")
+    cmd += ["--", *urls]
     if not urls and not search:
         return None, ["no link"]
     try:
