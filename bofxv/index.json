@@ -193,8 +193,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=127",
   "files": [],
   "links": [
-   "https://drive.google.com/file/d/1qqnREJSGKHoH5noiKuEXCV-QcWS3TMBR/view",
-   "https://drive.google.com/uc?export=download&id=1d0W6a8xPysLXee6eaEp_PAyH1D-wBazA"
+   "https://drive.google.com/uc?export=download&id=1d0W6a8xPysLXee6eaEp_PAyH1D-wBazA",
+   "https://drive.google.com/file/d/1qqnREJSGKHoH5noiKuEXCV-QcWS3TMBR/view"
   ]
  },
  {
@@ -320,8 +320,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=127",
   "files": [],
   "links": [
-   "https://drive.google.com/file/d/1_lRMIYl3qBLzKJbJclLKOxI0q-vCU7Sc/view?usp=share_link",
-   "https://drive.google.com/open?id=1HhWR5Xp7dzaYVDKCkpnVZjvk-h9spo9A"
+   "https://drive.google.com/open?id=1HhWR5Xp7dzaYVDKCkpnVZjvk-h9spo9A",
+   "https://drive.google.com/file/d/1_lRMIYl3qBLzKJbJclLKOxI0q-vCU7Sc/view?usp=share_link"
   ]
  },
  {
@@ -498,8 +498,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=127",
   "files": [],
   "links": [
-   "https://drive.google.com/file/d/1at8rUrP6TnzeZvY8_Hj0wnMZrLgoixIO/view?usp=share_link",
-   "https://drive.google.com/open?id=1xTTnplF4xR0dbSt0BRUWzU7Vkq2LzvrJ"
+   "https://drive.google.com/open?id=1xTTnplF4xR0dbSt0BRUWzU7Vkq2LzvrJ",
+   "https://drive.google.com/file/d/1at8rUrP6TnzeZvY8_Hj0wnMZrLgoixIO/view?usp=share_link"
   ]
  },
  {
@@ -805,8 +805,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=127",
   "files": [],
   "links": [
-   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=127",
-   "https://drive.google.com/file/d/1nn_1io6WQ0uhQxkG5ej6hy3_nifPOAye/view?usp=sharing"
+   "https://drive.google.com/file/d/1nn_1io6WQ0uhQxkG5ej6hy3_nifPOAye/view?usp=sharing",
+   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=127"
   ]
  },
  {
@@ -1405,9 +1405,11 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=127",
   "files": [],
   "links": [
-   "https://www.dropbox.com/s/a0fxz1sr0ecuk21/Polychrome.zip?dl=1",
    "http://ponytailrecord.com/BOFXV19/Polychrome.zip",
-   "http://ponytailrecord.com/BOFXV19/_BGA.mpg",
+   "https://www.dropbox.com/s/a0fxz1sr0ecuk21/Polychrome.zip?dl=1",
+   "http://ponytailrecord.com/BOFXV19/_BGA.mpg"
+  ],
+  "addons": [
    "http://ponytailrecord.com/BOFXV19/_rather.bms"
   ]
  },
@@ -1518,10 +1520,10 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=116&event=127",
   "files": [],
   "links": [
-   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=116&event=127",
    "https://drive.google.com/open?id=10DSpqXdK8q5W374txu4H1QvGuiFfSvB6",
    "https://drive.google.com/open?id=1bKNu_CQjA2ttFW1mChuh0oxyi9ndJlT_",
-   "https://drive.google.com/open?id=1xRCwokhwLn_NSqaJyw4M17WE8reXCsX-"
+   "https://drive.google.com/open?id=1xRCwokhwLn_NSqaJyw4M17WE8reXCsX-",
+   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=116&event=127"
   ]
  },
  {
@@ -1642,7 +1644,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=126&event=127",
   "files": [],
   "links": [
-   "https://drive.google.com/open?id=1HOAzgxqB01yXXrPXP5q0bMa6nfSp6cc3",
+   "https://drive.google.com/open?id=1HOAzgxqB01yXXrPXP5q0bMa6nfSp6cc3"
+  ],
+  "addons": [
    "https://drive.google.com/open?id=1qVUPy2oVWrgn7ZpbJYtHmbEa3RursikH"
   ]
  },
@@ -1897,8 +1901,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=127",
   "files": [],
   "links": [
-   "https://drive.google.com/file/d/1Ml950lZmKQ0whBeFJfc3qrhJ1Yj5Q5TR/view",
-   "https://drive.google.com/open?id=1LYgi1A95-g9K-AqHk71xtdGfYcrV3pzW"
+   "https://drive.google.com/open?id=1LYgi1A95-g9K-AqHk71xtdGfYcrV3pzW",
+   "https://drive.google.com/file/d/1Ml950lZmKQ0whBeFJfc3qrhJ1Yj5Q5TR/view"
   ]
  },
  {
@@ -2186,8 +2190,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=169&event=127",
   "files": [],
   "links": [
-   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=169&event=127",
-   "https://drive.google.com/open?id=1O-J2R5jQo40D2Me2xIdx2APuKu9Kk9u7"
+   "https://drive.google.com/open?id=1O-J2R5jQo40D2Me2xIdx2APuKu9Kk9u7",
+   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=169&event=127"
   ]
  },
  {
@@ -2237,9 +2241,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=173&event=127",
   "files": [],
   "links": [
-   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=173&event=127",
    "https://drive.google.com/open?id=1R8PI804iJ-84T2UsoG-jE2kjEjHEqlpk",
-   "https://drive.google.com/open?id=115MGOT8dknm3Ew3G1r00CWzVNlxX_zCN"
+   "https://drive.google.com/open?id=115MGOT8dknm3Ew3G1r00CWzVNlxX_zCN",
+   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=173&event=127"
   ]
  },
  {
@@ -2349,7 +2353,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=182&event=127",
   "files": [],
   "links": [
-   "https://drive.google.com/open?id=1v18NHBe7dAevNvquSHb8G-GLBMJhSZa8",
+   "https://drive.google.com/open?id=1v18NHBe7dAevNvquSHb8G-GLBMJhSZa8"
+  ],
+  "addons": [
    "https://drive.google.com/open?id=1ieieCc31TZtLZ9eN-bySHhZMXYOeIrNa"
   ]
  },
@@ -2498,8 +2504,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=194&event=127",
   "files": [],
   "links": [
-   "https://drive.google.com/file/d/1WufoS_wJnqEPZPzs4Om5pvmBaqeFdFvj/view?export=download&usp=sharing",
-   "https://drive.google.com/file/d/1WufoS_wJnqEPZPzs4Om5pvmBaqeFdFvj/view?usp=sharing&export=download"
+   "https://drive.google.com/file/d/1WufoS_wJnqEPZPzs4Om5pvmBaqeFdFvj/view?usp=sharing&export=download",
+   "https://drive.google.com/file/d/1WufoS_wJnqEPZPzs4Om5pvmBaqeFdFvj/view?export=download&usp=sharing"
   ]
  },
  {
@@ -2709,8 +2715,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=212&event=127",
   "files": [],
   "links": [
-   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=212&event=127",
-   "https://drive.google.com/file/d/1cd9uuWq9OjlupqH1RWbq8527-QSS-45A/view?usp=sharing"
+   "https://drive.google.com/file/d/1cd9uuWq9OjlupqH1RWbq8527-QSS-45A/view?usp=sharing",
+   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=212&event=127"
   ]
  },
  {
@@ -3471,8 +3477,10 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=272&event=127",
   "files": [],
   "links": [
-   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=272&event=127",
    "https://drive.google.com/open?id=12O0pzQNO1xw38FAFd3WSFld853Kos7-O",
+   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=272&event=127"
+  ],
+  "addons": [
    "https://drive.google.com/open?id=1cleKQQ4CrSxsH2oG9f0vP_WhFNuhcFlb",
    "https://drive.google.com/open?id=1fARrRj6epfQXVd6vVGaDIP8LQzawM_El"
   ]
@@ -3767,8 +3775,10 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=298&event=127",
   "files": [],
   "links": [
-   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=298&event=127",
    "https://drive.google.com/open?id=1pYOo7O6JvMyvVsmhKp4Vq7ez4ObflUPH",
+   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=298&event=127"
+  ],
+  "addons": [
    "https://drive.google.com/open?id=1YzZxA3O3otJ9IRmcYNuD8pzpKT2GkKzt"
   ]
  },
@@ -3914,9 +3924,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=127",
   "files": [],
   "links": [
-   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=127",
    "https://drive.google.com/file/d/1IBVA_YL6vOWukR-SbHAUT__XwkAf4NxE/view?usp=sharing",
-   "https://drive.google.com/file/d/1Ryu-MyXzhfdN4r8n-AEmcGN_YbJMco-4/view?usp=sharing"
+   "https://drive.google.com/file/d/1Ryu-MyXzhfdN4r8n-AEmcGN_YbJMco-4/view?usp=sharing",
+   "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=127"
   ]
  },
  {
@@ -4333,8 +4343,8 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=345&event=127",
   "files": [],
   "links": [
-   "http://drive.google.com/drive/folders/1BRCiBO8EgsO6CK1a1NLjyNEYVkw5TxjS?usp=sharing",
-   "https://drive.google.com/drive/folders/1BRCiBO8EgsO6CK1a1NLjyNEYVkw5TxjS?usp=sharing"
+   "https://drive.google.com/drive/folders/1BRCiBO8EgsO6CK1a1NLjyNEYVkw5TxjS?usp=sharing",
+   "http://drive.google.com/drive/folders/1BRCiBO8EgsO6CK1a1NLjyNEYVkw5TxjS?usp=sharing"
   ]
  },
  {
