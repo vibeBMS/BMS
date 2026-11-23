@@ -8,10 +8,10 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=130",
   "files": [],
   "links": [
-   "https://bit.ly/2RAAiUy",
-   "https://bit.ly/3caoHmQ",
    "https://drive.google.com/open?id=1yEGRGzY7VsUT6iRNTkdw0BqXgIuwRiMt",
-   "https://drive.google.com/open?id=1gJaMQ8d6htbBWvAVyvQ2NjjqLzHb8TL2"
+   "https://drive.google.com/open?id=1gJaMQ8d6htbBWvAVyvQ2NjjqLzHb8TL2",
+   "https://bit.ly/2RAAiUy",
+   "https://bit.ly/3caoHmQ"
   ]
  },
  {
@@ -23,7 +23,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=130",
   "files": [],
   "links": [
-   "https://www.dropbox.com/s/dced11rqdkthx5u/kadodenotobira_sakurahitohira.zip?dl=1",
+   "https://www.dropbox.com/s/dced11rqdkthx5u/kadodenotobira_sakurahitohira.zip?dl=1"
+  ],
+  "addons": [
    "https://www.dropbox.com/s/egv5nhzffzyduyu/kadodenotobira_sakurahitohira_fix.zip?dl=1",
    "https://www.dropbox.com/s/j4883byy107djq3/kadodenotobira_sakurahitohira_fix2.zip?dl=1",
    "https://www.dropbox.com/s/dhq7qo3e1s2wvi5/kadodenotobira_sakurahitohira_add.zip?dl=1"
@@ -75,9 +77,10 @@
   "files": [],
   "links": [
    "https://drive.google.com/open?id=15miJs9KveJ44nAKZspBUBcT8Gd5L334V",
-   "https://drive.google.com/open?id=1OFjaBVZaMPmCljFbHIFawhcSExySGY3I",
-   "https://drive.google.com/open?id=1SqqFcLJKNqtFXDKVgyLklbCMrJs6WMsM",
-   "https://drive.google.com/open?id=155Hod9Rif_MmlF_b0lYKQzXEuEWbEK2n"
+   "https://drive.google.com/open?id=1SqqFcLJKNqtFXDKVgyLklbCMrJs6WMsM"
+  ],
+  "addons": [
+   "https://drive.google.com/open?id=1OFjaBVZaMPmCljFbHIFawhcSExySGY3I"
   ]
  },
  {
@@ -112,9 +115,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=130",
   "files": [],
-  "links": [
-   "https://drive.google.com/uc?id=1wdK-uIzcbRwMgNFxAw1qt1VoBgAOgJEO"
-  ]
+  "links": []
  },
  {
   "num": 10,
@@ -319,9 +320,10 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=130",
   "files": [],
   "links": [
-   "https://drive.google.com/file/d/1sl0GKhH3ebM5kSukpsSIvkB0Ne9Z_oUx/view?usp=sharing",
-   "https://drive.google.com/file/d/1wpnBrFuQzfJGtfZGCDNcawWnfadqQN4x/view?usp=sharing",
-   "https://drive.google.com/file/d/1juy3JX2FPhGF585iRr6_7dGZoH5HX8pj/view?usp=sharing"
+   "https://drive.google.com/file/d/1sl0GKhH3ebM5kSukpsSIvkB0Ne9Z_oUx/view?usp=sharing"
+  ],
+  "addons": [
+   "https://drive.google.com/file/d/1wpnBrFuQzfJGtfZGCDNcawWnfadqQN4x/view?usp=sharing"
   ]
  },
  {
@@ -345,7 +347,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=130",
   "files": [],
   "links": [
-   "https://drive.google.com/open?id=1DAP4IRSIxeH9b-T6bPwY7CumpiV3ZCjK",
+   "https://drive.google.com/open?id=1DAP4IRSIxeH9b-T6bPwY7CumpiV3ZCjK"
+  ],
+  "addons": [
    "https://drive.google.com/open?id=1aQAmT_mX_1hCLvWnrFRPZefBAYhQFw3V"
   ]
  }
