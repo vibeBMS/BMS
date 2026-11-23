@@ -11,25 +11,25 @@
 {"url":"http://nekokan.dyndns.info/~anonymous/bof2008/uta's/uta's_canon_r_ogg.rar","state":"archive","kind":"main","format":"rar","size":23608228,"charts":6,"title":"Canon (blazing summer mix) [DP NORMAL]","at":1794793853}
 {"url":"http://uploader.bms.ms/bof2008/?download=quark_ogg.rar","state":"archive","kind":"main","format":"rar","size":21209719,"charts":3,"title":"Quark","at":1794793976}
 {"url":"http://uploader.bms.ms/bof2008/?download=quark_mq_wav.rar","state":"archive","kind":"main","format":"rar","size":23755699,"charts":3,"title":"Quark","at":1794794114}
-{"url":"http://shosa.bms.ms/bms/michaelpoqo-20080723.zip","state":"error","size":0,"charts":0,"error":"HTTP 526","at":1794794114}
+{"url":"http://shosa.bms.ms/bms/michaelpoqo-20080723.zip","state":"error","size":0,"charts":0,"code":"status","error":"HTTP 526","at":1795448277}
 {"url":"http://www.mournfinale.com/bof2008/","state":"page","size":0,"charts":0,"at":1794794115}
-{"url":"http://www.geocities.jp/htt_tsuyokunaru/music/hotata_you.html","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794794116}
+{"url":"http://www.geocities.jp/htt_tsuyokunaru/music/hotata_you.html","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448278}
 {"url":"http://www.siromaru.com/siromaru_absurd_gaff.rar","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794794116}
 {"url":"http://uploader.bms.ms/data/bof2008/belly.rar","state":"archive","kind":"main","format":"rar","size":27571590,"charts":2,"title":"belly dance (Consistently_Drinkin_remix)","at":1794794182}
 {"url":"http://sound.jp/morigasigeru/belly.html","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794794183}
 {"url":"http://uploader.bms.ms/data/bof2008/rnd_mekkhala1.rar","state":"archive","kind":"main","format":"rar","size":73621200,"charts":2,"title":"MEKKHALA [Another]","at":1794794520}
 {"url":"http://pastelsky.es.land.to/Saki_hikari.lzh","state":"page","size":0,"charts":0,"at":1794794520}
-{"url":"http://loki-okiba.net/bms/monolith_bms.rar","state":"error","format":"rar","size":48938692,"charts":0,"error":"unpacking: monolith\\mellotron g3 2bt.wav: data CRC mismatch for monolith\\mellotron g3 2bt.wav: expected 0x47c8bc02, got 0x6522df69","at":1794794727}
+{"url":"http://loki-okiba.net/bms/monolith_bms.rar","state":"error","format":"rar","size":48938692,"charts":0,"code":"unpack","error":"unpacking: monolith\\mellotron g3 2bt.wav: data CRC mismatch for monolith\\mellotron g3 2bt.wav: expected 0x47c8bc02, got 0x6522df69","at":1795448547}
 {"url":"http://loki-okiba.net/bms/monolith_bga_hq.rar","state":"archive","kind":"media","format":"rar","size":77506335,"charts":0,"at":1794795039}
-{"url":"http://loki-okiba.net/bms/code_endymion_bms.rar","state":"error","format":"rar","size":30604023,"charts":0,"error":"unpacking: code endymion\\erhu e4 240.wav: data CRC mismatch for code endymion\\erhu e4 240.wav: expected 0xd13c3e18, got 0xff41d912","at":1794795162}
+{"url":"http://loki-okiba.net/bms/code_endymion_bms.rar","state":"error","format":"rar","size":30604023,"charts":0,"code":"unpack","error":"unpacking: code endymion\\erhu e4 240.wav: data CRC mismatch for code endymion\\erhu e4 240.wav: expected 0xd13c3e18, got 0xff41d912","at":1795448710}
 {"url":"http://loki-okiba.net/bms/code_endymion_bga_hq.rar","state":"archive","kind":"media","format":"rar","size":42441736,"charts":0,"at":1794795330}
-{"url":"http://panzerforce.ath.cx/bof2008/mrmerryprince_hq.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794795330}
-{"url":"http://panzerforce.ath.cx/bof2008/mrmerryprince_lq.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794795330}
+{"url":"http://panzerforce.ath.cx/bof2008/mrmerryprince_hq.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448710}
+{"url":"http://panzerforce.ath.cx/bof2008/mrmerryprince_lq.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448710}
 {"url":"http://pastelsky.es.land.to/Saki_psycho-remix.lzh","state":"page","size":0,"charts":0,"at":1794795330}
 {"url":"http://uploader.bms.ms/data/bof2008/[BMS]Bounded_Rhythm.zip","state":"archive","kind":"main","format":"zip","size":1844185,"charts":3,"title":"Bounded Rhythm [ANOTHER]","at":1794795332}
-{"url":"http://www.geocities.jp/pink_no_cool/BMS/BOF.html","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794795332}
-{"url":"http://saikan.pastorica.net/RED_CYCLONE_HQ.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794795332}
-{"url":"http://saikan.pastorica.net/RED_CYCLONE_LQ.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794795332}
+{"url":"http://www.geocities.jp/pink_no_cool/BMS/BOF.html","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448711}
+{"url":"http://saikan.pastorica.net/RED_CYCLONE_HQ.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448711}
+{"url":"http://saikan.pastorica.net/RED_CYCLONE_LQ.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448711}
 {"url":"http://nekokan.dyndns.info/~anonymous/bof2008/uta's/uta's_parsee.rar","state":"archive","kind":"main","format":"rar","size":49928609,"charts":6,"title":"旧地獄街道を行く ～反逆のパルスィ～ [ANOTHER]","at":1794795418}
 {"url":"http://nekokan.dyndns.info/~anonymous/bof2008/uta's/uta's_parsee_ogg.rar","state":"archive","kind":"main","format":"rar","size":20509961,"charts":6,"title":"旧地獄街道を行く ～反逆のパルスィ～ [ANOTHER]","at":1794795491}
 {"url":"http://uploader.bms.ms/bof2008/?download=candy+ogg.rar","state":"archive","kind":"main","format":"rar","size":3259129,"charts":3,"title":"candy (neglected child)[NORMAL]","at":1794795494}
@@ -39,12 +39,12 @@
 {"url":"https://drive.google.com/open?id=0B7qCw4hNijr4QU5xVnFFSldJVEU","state":"archive","kind":"main","format":"zip","size":22957180,"charts":5,"title":"Uma fonte de luz","at":1794795535}
 {"url":"http://uploader.bms.ms/data/bof2008/TeaHouse.rar","state":"archive","kind":"main","format":"rar","size":11273106,"charts":7,"title":"꿱돛肱 Remix 7K Hard","at":1794795602}
 {"url":"http://uploader.bms.ms/data/bof2008/Summer.rar","state":"archive","kind":"main","format":"rar","size":9219052,"charts":1,"title":"Summer｡ｫﾏﾄﾖﾁ｡ｫ","at":1794795695}
-{"url":"http://a.oot.cn/12563432/BMS/Summer.htm","state":"error","size":0,"charts":0,"error":"no data for 60 s","at":1794795755}
-{"url":"http://a.oot.cn/12563432/)","state":"error","size":0,"charts":0,"error":"no data for 60 s","at":1794795815}
+{"url":"http://a.oot.cn/12563432/BMS/Summer.htm","state":"error","size":0,"charts":0,"code":"other","error":"timeout: connect","at":1795448726}
+{"url":"http://a.oot.cn/12563432/)","state":"error","size":0,"charts":0,"code":"other","error":"timeout: connect","at":1795448741}
 {"url":"http://uploader.bms.ms/data/bof2008/New.rar","state":"archive","kind":"main","format":"rar","size":1473102,"charts":1,"title":"｡ｫN.E.W｡ｫ","at":1794795817}
-{"url":"http://a.oot.cn/12563432/BMS/NEW.htm","state":"error","size":0,"charts":0,"error":"no data for 60 s","at":1794795877}
+{"url":"http://a.oot.cn/12563432/BMS/NEW.htm","state":"error","size":0,"charts":0,"code":"other","error":"timeout: connect","at":1795448756}
 {"url":"http://uploader.bms.ms/data/bof2008/lights_ogg.zip","state":"archive","kind":"main","format":"zip","size":13018745,"charts":4,"title":"Lights -winter snow- (another)","at":1794795886}
-{"url":"http://r866761.hp.infoseek.co.jp/music/8bit_rapiquest.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794795886}
+{"url":"http://r866761.hp.infoseek.co.jp/music/8bit_rapiquest.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448757}
 {"url":"http://uploader.bms.ms/data/bof2008/c_inca.rar","state":"archive","kind":"main","format":"rar","size":29117473,"charts":6,"title":"遥かなるインカ (HYPER)","at":1794795896}
 {"url":"http://nekokan.dyndns.info/uploader/c_inca.rar","state":"archive","kind":"main","format":"rar","size":29117473,"charts":6,"title":"遥かなるインカ (HYPER)","at":1794795908}
 {"url":"http://fallbms.s335.xrea.com/files/bms/tr524_ogg.zip","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794795908}
@@ -58,9 +58,9 @@
 {"url":"http://uploader.bms.ms/data/bof2008/bm_techne_ogg.rar","state":"archive","kind":"main","format":"rar","size":10897844,"charts":2,"title":"Τεχνη -5N-","at":1794796457}
 {"url":"http://nekokan.dyndns.info/uploader/bm_techne_wav.rar","state":"archive","kind":"main","format":"rar","size":11035347,"charts":2,"title":"Τεχνη -5N-","at":1794796470}
 {"url":"http://nekokan.dyndns.info/uploader/bm_techne_ogg.rar","state":"archive","kind":"main","format":"rar","size":10897844,"charts":2,"title":"Τεχνη -5N-","at":1794796477}
-{"url":"http://harmonia-hp.com/download/shiki_chasermq.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794796477}
-{"url":"http://dustc.biz/bms/dust-efp.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794796477}
-{"url":"http://homepage3.nifty.com/freeze_soa_31/bms/[SOA-ED]DCE2008.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794796477}
+{"url":"http://harmonia-hp.com/download/shiki_chasermq.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448757}
+{"url":"http://dustc.biz/bms/dust-efp.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448757}
+{"url":"http://homepage3.nifty.com/freeze_soa_31/bms/[SOA-ED]DCE2008.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448757}
 {"url":"http://uploader.bms.ms/data/bof2008/hoshininaru.rar","state":"archive","kind":"main","format":"rar","size":9821432,"charts":2,"title":"星になる","at":1794796493}
 {"url":"http://uploader.bms.ms/data/bof2008/bokutomo.rar","state":"archive","kind":"main","format":"rar","size":6126537,"charts":2,"title":"bokunotomodati","at":1794796509}
 {"url":"http://uploader.bms.ms/data/bof2008/icecream.rar","state":"archive","kind":"main","format":"rar","size":13071007,"charts":1,"title":"ICECREAM","at":1794796515}
@@ -68,55 +68,55 @@
 {"url":"http://nekokan.dyndns.info/~anonymous/bof2008/ky/freeze_time_hq_ogg.rar","state":"archive","kind":"main","format":"rar","size":4843989,"charts":9,"title":"freezing of time (DP HYPER)","at":1794796534}
 {"url":"http://uploader.bms.ms/data/bof2008/freeze_time_lq.rar","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794796535}
 {"url":"http://uploader.bms.ms/data/bof2008/freeze_time_hq_ogg.rar","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794796540}
-{"url":"http://saikan.pastorica.net/Grudge_storm_HQ.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794796540}
-{"url":"http://saikan.pastorica.net/Grudge_storm_LQ.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794796540}
+{"url":"http://saikan.pastorica.net/Grudge_storm_HQ.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448757}
+{"url":"http://saikan.pastorica.net/Grudge_storm_LQ.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448757}
 {"url":"http://nekokan.dyndns.info/~anonymous/bof2008/uta's/uta's_warabe.rar","state":"archive","kind":"main","format":"rar","size":38851325,"charts":7,"title":"月童 - Awaking!!神奈 [ANOTHER]","at":1794796629}
 {"url":"http://nekokan.dyndns.info/~anonymous/bof2008/uta's/uta's_warabe_ogg.rar","state":"archive","kind":"main","format":"rar","size":16683248,"charts":7,"title":"月童 - Awaking!!神奈 [ANOTHER]","at":1794796681}
 {"url":"http://page.freett.com/mbemsa2/sad.htm","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794796682}
 {"url":"http://uploader.bms.ms/data/bof2008/sad_hq.zip","state":"archive","kind":"main","format":"zip","size":33411711,"charts":3,"title":"Sadistic illusion -H","at":1794796867}
 {"url":"http://uploader.bms.ms/data/bof2008/sad_lq.zip","state":"archive","kind":"main","format":"zip","size":21114966,"charts":3,"title":"Sadistic illusion -H","at":1794796880}
 {"url":"http://uploader.bms.ms/data/bof2008/sad_nobga.zip","state":"archive","kind":"main","format":"zip","size":5164708,"charts":3,"title":"Sadistic illusion -H","at":1794796892}
-{"url":"http://saikan.pastorica.net/blue_wind_HQ.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794796892}
-{"url":"http://saikan.pastorica.net/blue_wind_LQ.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794796892}
+{"url":"http://saikan.pastorica.net/blue_wind_HQ.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448757}
+{"url":"http://saikan.pastorica.net/blue_wind_LQ.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448757}
 {"url":"http://uploader.bms.ms/data/bof2008/[takdrive]all_elimination.rar","state":"archive","kind":"main","format":"rar","size":8706695,"charts":2,"title":"All elimination","at":1794796911}
-{"url":"http://zbranstrim.com","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794796911}
+{"url":"http://zbranstrim.com","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448757}
 {"url":"http://aktk.if.land.to/embalming.zip","state":"page","size":0,"charts":0,"at":1794796911}
 {"url":"http://uploader.bms.ms/data/bof2008/kikub-carnival.zip","state":"archive","kind":"main","format":"zip","size":6810957,"charts":2,"title":"夜の市場の前夜祭のための祝典行進曲","at":1794796936}
 {"url":"http://uploader.bms.ms/data/bof2008/KIEN_Sea_of_lie%28fixed_08.09.24%29.rar","state":"archive","kind":"main","format":"rar","size":32239767,"charts":12,"title":"Sea of lie [10key HYPER]","at":1794796999}
 {"url":"http://blog.naver.com/leaf83/90035492749","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794797000}
-{"url":"http://www.ipse-dixit.net/mitchel/bms/c_l_ogg.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797000}
-{"url":"http://www.ipse-dixit.net/mitchel/bms/c_l_sabun.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797000}
-{"url":"http://kazjp.hp.infoseek.co.jp/index.html","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797000}
+{"url":"http://www.ipse-dixit.net/mitchel/bms/c_l_ogg.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448757}
+{"url":"http://www.ipse-dixit.net/mitchel/bms/c_l_sabun.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448757}
+{"url":"http://kazjp.hp.infoseek.co.jp/index.html","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448757}
 {"url":"http://pastelsky.es.land.to/Saki_toy.lzh","state":"page","size":0,"charts":0,"at":1794797000}
 {"url":"http://uploader.bms.ms/data/bof2008/bm_miki_airstudio_ogg.rar","state":"archive","kind":"main","format":"rar","size":13384521,"charts":2,"title":"air studio.","at":1794797132}
 {"url":"http://uploader.bms.ms/data/bof2008/bm_miki_airstudio_wav.rar","state":"archive","kind":"main","format":"rar","size":26267363,"charts":2,"title":"air studio.","at":1794797306}
 {"url":"http://nekokan.dyndns.info/uploader/bm_miki_airstudio_ogg.rar","state":"archive","kind":"main","format":"rar","size":13384521,"charts":2,"title":"air studio.","at":1794797311}
 {"url":"http://nekokan.dyndns.info/uploader/bm_miki_airstudio_wav.rar","state":"archive","kind":"main","format":"rar","size":26267363,"charts":2,"title":"air studio.","at":1794797323}
 {"url":"http://koinu.kemono.cc/Davell.rar","state":"archive","kind":"main","format":"rar","size":1637823,"charts":2,"title":"Davell","at":1794797325}
-{"url":"http://tokyo.cool.ne.jp/rysu78/coc.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797325}
+{"url":"http://tokyo.cool.ne.jp/rysu78/coc.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448757}
 {"url":"http://uploader.bms.ms/data/bof2008/great%20attractor_ogg.zip","state":"archive","kind":"main","format":"zip","size":5906288,"charts":1,"title":"Great Attractor","at":1794797329}
 {"url":"http://nekokan.dyndns.info/uploader/great%20attractor_ogg.zip","state":"archive","kind":"main","format":"zip","size":5906288,"charts":1,"title":"Great Attractor","at":1794797333}
 {"url":"http://uploader.bms.ms/data/bof2008/great%20attractor.rar","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794797333}
-{"url":"http://www.geocities.jp/htt_tsuyokunaru/music/Masterd_katana.html","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797334}
+{"url":"http://www.geocities.jp/htt_tsuyokunaru/music/Masterd_katana.html","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448758}
 {"url":"http://uploader.bms.ms/data/bof2008/bamilibaro/fix/perhaps4.rar","state":"archive","kind":"main","format":"rar","size":10934173,"charts":8,"title":"Perhaps 4 [SP HYPER]","at":1794797344}
 {"url":"http://uploader.bms.ms/data/bof2008/bamilibaro/fix/perhaps4_OGG.rar","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794797345}
 {"url":"http://uploader.bms.ms/data/bof2008/bamilibaro/fix/perhaps4_HQ.rar","state":"archive","kind":"main","format":"rar","size":22765735,"charts":8,"title":"Perhaps 4 [SP HYPER]","at":1794797357}
-{"url":"http://www.geocities.jp/htt_tsuyokunaru/music/IKKO_Luce.html","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797357}
-{"url":"http://takacyan930.hp.infoseek.co.jp/bms/hj14-FastrafficMQ.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797358}
-{"url":"http://takacyan930.hp.infoseek.co.jp/bms/hj14-FastrafficHQ_ogg.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797358}
-{"url":"http://takacyan930.hp.infoseek.co.jp/bms/hj14-FastrafficSHQ_ogg.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797358}
+{"url":"http://www.geocities.jp/htt_tsuyokunaru/music/IKKO_Luce.html","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448758}
+{"url":"http://takacyan930.hp.infoseek.co.jp/bms/hj14-FastrafficMQ.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448758}
+{"url":"http://takacyan930.hp.infoseek.co.jp/bms/hj14-FastrafficHQ_ogg.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448758}
+{"url":"http://takacyan930.hp.infoseek.co.jp/bms/hj14-FastrafficSHQ_ogg.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448758}
 {"url":"http://uploader.bms.ms/data/bof2008/lake.rar","state":"archive","kind":"main","format":"rar","size":4370690,"charts":1,"title":"LAKE","at":1794797359}
 {"url":"http://uploader.bms.ms/data/bof2008/ntr_world_confusion.rar","state":"archive","kind":"main","format":"rar","size":4703968,"charts":3,"title":"World Confusion [7E]","at":1794797361}
 {"url":"http://nekokan.dyndns.info/uploader/ntr_world_confusion.rar","state":"archive","kind":"main","format":"rar","size":4703968,"charts":3,"title":"World Confusion [7E]","at":1794797364}
-{"url":"http://dsbl.biz/bms/nymphogram_lq.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797364}
-{"url":"http://dsbl.biz/bms/nymphogram.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797364}
+{"url":"http://dsbl.biz/bms/nymphogram_lq.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448758}
+{"url":"http://dsbl.biz/bms/nymphogram.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448758}
 {"url":"http://uploader.bms.ms/data/bof2008/modspin/blackstars.rar","state":"archive","kind":"main","format":"rar","size":18454160,"charts":3,"title":"Black★Stars[light]","at":1794797375}
 {"url":"http://uploader.bms.ms/data/bof2008/modspin/drainage.rar","state":"archive","kind":"main","format":"rar","size":3176666,"charts":3,"title":"Drainage","at":1794797381}
 {"url":"http://uploader.bms.ms/data/bof2008/modspin/daylight.rar","state":"archive","kind":"main","format":"rar","size":6791832,"charts":1,"title":"Daylight","at":1794797391}
-{"url":"http://www.fnbi.jp/tarolabo/bokum.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797391}
+{"url":"http://www.fnbi.jp/tarolabo/bokum.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448758}
 {"url":"http://uploader.bms.ms/data/bof2008/bokum_ogg.rar","state":"archive","kind":"main","format":"rar","size":19940140,"charts":16,"title":"( ﾟДﾟ)＜ﾎﾞｸﾒｰﾂゲリラライブ2005-2006 -2005-2008Mix-[7key_hard]","at":1794797407}
 {"url":"http://uploader.bms.ms/data/bof2008/bm_ring_lq.zip","state":"archive","kind":"main","format":"zip","size":25582956,"charts":2,"title":"ring","at":1794797452}
-{"url":"http://happy-mlt.com/bm_ring_lq.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797452}
+{"url":"http://happy-mlt.com/bm_ring_lq.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448758}
 {"url":"http://nekokan.dyndns.info/uploader/bm_ring_lq.zip","state":"archive","kind":"main","format":"zip","size":25582956,"charts":2,"title":"ring","at":1794797461}
 {"url":"http://uploader.bms.ms/data/bof2008/bm_ring_hq.zip","state":"archive","kind":"main","format":"zip","size":46620001,"charts":2,"title":"ring","at":1794797540}
 {"url":"http://nekokan.dyndns.info/uploader/bm_ring_hq.zip","state":"archive","kind":"main","format":"zip","size":46620001,"charts":2,"title":"ring","at":1794797553}
@@ -125,20 +125,20 @@
 {"url":"http://uploader.bms.ms/data/bof2008/bitscape_paradigm.rar","state":"archive","kind":"main","format":"rar","size":3643807,"charts":1,"title":"paradigm","at":1794797698}
 {"url":"http://uploader.bms.ms/data/bof2008/suuiti_creatore_hq.zip","state":"archive","kind":"main","format":"zip","size":34030979,"charts":3,"title":"suuiti creatore のま","at":1794797714}
 {"url":"http://uploader.bms.ms/data/bof2008/suuiti%20creatore_lq.zip","state":"archive","kind":"main","format":"zip","size":11234596,"charts":3,"title":"suuiti creatore のま","at":1794797772}
-{"url":"http://mmo-cir.sakura.ne.jp/bms/Destructive_Genesis.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797772}
+{"url":"http://mmo-cir.sakura.ne.jp/bms/Destructive_Genesis.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448758}
 {"url":"http://mommy16807.up.seesaa.net/image/I'll_forget_you_you'll_never_forget_me.zip","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794797773}
-{"url":"http://www.geocities.jp/coco_bms_xxxxxx/diskotic.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797773}
-{"url":"http://klokken.fem.jp/aftermath_wav.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797773}
-{"url":"http://yorozuya.ddo.jp/~keikai_sannri/music/fran_HQ.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797774}
-{"url":"http://yorozuya.ddo.jp/~keikai_sannri/music/fran_LQ.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797774}
+{"url":"http://www.geocities.jp/coco_bms_xxxxxx/diskotic.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448759}
+{"url":"http://klokken.fem.jp/aftermath_wav.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448759}
+{"url":"http://yorozuya.ddo.jp/~keikai_sannri/music/fran_HQ.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448759}
+{"url":"http://yorozuya.ddo.jp/~keikai_sannri/music/fran_LQ.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448759}
 {"url":"http://www7b.biglobe.ne.jp/%7Egasaiyuno/lb_moon.zip","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794797774}
 {"url":"http://nekokan.dyndns.info/uploader/lb_moonmq.rar","state":"archive","kind":"main","format":"rar","size":51514597,"charts":3,"title":"ピアノ協奏曲第1番 月光条例","at":1794797785}
 {"url":"http://uploader.bms.ms/data/bof2008/lb_moonmq.rar","state":"archive","kind":"main","format":"rar","size":51514597,"charts":3,"title":"ピアノ協奏曲第1番 月光条例","at":1794797911}
 {"url":"http://www.luzeria.net/music/41_millybarll.rar","state":"archive","kind":"main","format":"rar","size":38250656,"charts":8,"title":"asteroid belt [10KEYS]","at":1794797914}
-{"url":"http://www.sm-sound.skmt14.jp/bms/blb16.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797915}
-{"url":"http://www.sm-sound.skmt14.jp/bms/blb16.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797915}
-{"url":"http://www.sm-sound.skmt14.jp/bms/blb8.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797915}
-{"url":"http://www.sm-sound.skmt14.jp/bms/blb8.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797915}
+{"url":"http://www.sm-sound.skmt14.jp/bms/blb16.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448759}
+{"url":"http://www.sm-sound.skmt14.jp/bms/blb16.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448759}
+{"url":"http://www.sm-sound.skmt14.jp/bms/blb8.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448759}
+{"url":"http://www.sm-sound.skmt14.jp/bms/blb8.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448759}
 {"url":"http://iimode-do.jp/obj/blb16.rar","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794797915}
 {"url":"http://page.freett.com/skmt_bms/","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794797916}
 {"url":"http://page.freett.com/wakimata_sabu/","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794797917}
@@ -146,15 +146,15 @@
 {"url":"http://eternalbreeze.net/~hyuji/meetingrow_mq.zip","state":"page","size":0,"charts":0,"at":1794797919}
 {"url":"http://eternalbreeze.net/~hyuji/meetingrow_lq.zip","state":"page","size":0,"charts":0,"at":1794797920}
 {"url":"http://uploader.bms.ms/data/bof2008/Get_it_by_your_hands_Remix.zip","state":"archive","kind":"main","format":"zip","size":43660956,"charts":4,"title":"Get it by your hands:Remix -5keys-","at":1794797941}
-{"url":"http://sky.geocities.jp/ryouran_hitchart/SINSEI_LQ.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797942}
-{"url":"http://sky.geocities.jp/ryouran_hitchart/SINSEI_HQogg.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797942}
-{"url":"http://tokyo.cool.ne.jp/rysu78/orchids.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794797942}
+{"url":"http://sky.geocities.jp/ryouran_hitchart/SINSEI_LQ.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448760}
+{"url":"http://sky.geocities.jp/ryouran_hitchart/SINSEI_HQogg.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448760}
+{"url":"http://tokyo.cool.ne.jp/rysu78/orchids.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448760}
 {"url":"http://uploader.bms.ms/data/bof2008/sambista.zip","state":"archive","kind":"main","format":"zip","size":39102754,"charts":1,"title":"SAMBISTA","at":1794798260}
 {"url":"http://uploader.bms.ms/data/bof2008/xi_up%20in%20the%20air.zip","state":"archive","kind":"main","format":"zip","size":40376508,"charts":3,"title":"up in the air","at":1794798275}
 {"url":"http://uploader.bms.ms/data/bof2008/xi_up_in_th_air_BGA.zip","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794798275}
-{"url":"http://yamajet.bms.ms/bms/data/mugijet_hdmrexp_ogg.rar","state":"error","size":0,"charts":0,"error":"HTTP 526","at":1794798276}
+{"url":"http://yamajet.bms.ms/bms/data/mugijet_hdmrexp_ogg.rar","state":"error","size":0,"charts":0,"code":"status","error":"HTTP 526","at":1795448761}
 {"url":"http://nekokan.dyndns.info/uploader/mugijet_hdmrexp_ogg.rar","state":"archive","kind":"main","format":"rar","size":5437023,"charts":6,"title":"ひだまりエクスプレス [14keys Hyper]","at":1794798280}
-{"url":"http://yamajet.bms.ms/bms/data/mugijet_hdmrexp_wav.rar","state":"error","size":0,"charts":0,"error":"HTTP 526","at":1794798281}
+{"url":"http://yamajet.bms.ms/bms/data/mugijet_hdmrexp_wav.rar","state":"error","size":0,"charts":0,"code":"status","error":"HTTP 526","at":1795448761}
 {"url":"http://nekokan.dyndns.info/uploader/mugijet_hdmrexp_wav.rar","state":"archive","kind":"main","format":"rar","size":8050826,"charts":6,"title":"ひだまりエクスプレス [14keys Hyper]","at":1794798285}
 {"url":"http://rasuku.s116.xrea.com/bms/nova_animal_LQ.rar","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794798286}
 {"url":"http://rasuku.s116.xrea.com/bms/nova_animal_HQ.rar","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794798286}
@@ -162,12 +162,12 @@
 {"url":"http://sweez.net/cgi-bin/dcnt/dcnt.cgi?n=11","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794798289}
 {"url":"http://sweez.net/cgi-bin/dcnt/dcnt.cgi?n=12","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794798291}
 {"url":"http://str3.org/data/bms/BOF08_tigerlily.zip","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794798291}
-{"url":"http://sweezy.ddo.jp/~sweez/bms/bof08_tigerlily.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794798291}
+{"url":"http://sweezy.ddo.jp/~sweez/bms/bof08_tigerlily.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448761}
 {"url":"http://thbok.com/data/BOF08_tigerlily.zip","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794798292}
 {"url":"http://www.str3.org/data/bms/roop_startrack.rar","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794798292}
-{"url":"http://sweezy.ddo.jp/~sweez/bms/roop_startrack.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794798292}
+{"url":"http://sweezy.ddo.jp/~sweez/bms/roop_startrack.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448761}
 {"url":"http://thbok.com/data/roop_startrack.rar","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794798293}
-{"url":"http://ku-snow.hp.infoseek.co.jp/Northblue.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794798293}
+{"url":"http://ku-snow.hp.infoseek.co.jp/Northblue.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448761}
 {"url":"http://uploader.bms.ms/data/bof2008/bokn.rar","state":"archive","kind":"main","format":"rar","size":12752609,"charts":2,"title":"僕が居られる場所 -Hyper-","at":1794798299}
 {"url":"http://nekokan.dyndns.info/uploader/bokn.rar","state":"archive","kind":"main","format":"rar","size":12752609,"charts":2,"title":"僕が居られる場所 -Hyper-","at":1794798306}
 {"url":"http://uploader.bms.ms/data/bof2008/gothic104.rar","state":"archive","kind":"main","format":"rar","size":14043380,"charts":2,"title":"Gothic.4 -Hyper-","at":1794798375}
@@ -176,21 +176,21 @@
 {"url":"http://uploader.bms.ms/data/bof2008/dieary.rar","state":"archive","kind":"main","format":"rar","size":20329657,"charts":2,"title":"Dieary -Hyper-","at":1794798404}
 {"url":"http://nekokan.dyndns.info/uploader/dieary.rar","state":"archive","kind":"main","format":"rar","size":20329657,"charts":2,"title":"Dieary -Hyper-","at":1794798414}
 {"url":"http://blog.naver.com/leaf83","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794798415}
-{"url":"http://sasakure.bms.ms/bof2008/radioorganico_mq.rar","state":"error","size":0,"charts":0,"error":"HTTP 526","at":1794798416}
-{"url":"http://sasakure.bms.ms/bof2008/radioorganico_lq.rar","state":"error","size":0,"charts":0,"error":"HTTP 526","at":1794798417}
-{"url":"http://sasakure.bms.ms/bof2008/avalon_mq.rar","state":"error","size":0,"charts":0,"error":"HTTP 526","at":1794798417}
-{"url":"http://sasakure.bms.ms/bof2008/avalon_lq.rar","state":"error","size":0,"charts":0,"error":"HTTP 526","at":1794798418}
+{"url":"http://sasakure.bms.ms/bof2008/radioorganico_mq.rar","state":"error","size":0,"charts":0,"code":"status","error":"HTTP 526","at":1795448762}
+{"url":"http://sasakure.bms.ms/bof2008/radioorganico_lq.rar","state":"error","size":0,"charts":0,"code":"status","error":"HTTP 526","at":1795448762}
+{"url":"http://sasakure.bms.ms/bof2008/avalon_mq.rar","state":"error","size":0,"charts":0,"code":"status","error":"HTTP 526","at":1795448763}
+{"url":"http://sasakure.bms.ms/bof2008/avalon_lq.rar","state":"error","size":0,"charts":0,"code":"status","error":"HTTP 526","at":1795448763}
 {"url":"http://uploader.bms.ms/data/bof2008/Retroactive%20Rain.rar","state":"archive","kind":"main","format":"rar","size":63698743,"charts":3,"title":"Retroactive Rain(HYPER)","at":1794798446}
 {"url":"http://uploader.bms.ms/data/bof2008/m-a.rar","state":"archive","kind":"main","format":"rar","size":43463828,"charts":3,"title":"M-A(ANOTHER)","at":1794798458}
 {"url":"http://xxbmsxx.web.fc2.com/salf.rar","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794798458}
-{"url":"http://cerebralmuddystream.hp.infoseek.co.jp/BOF/","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794798458}
-{"url":"http://cerebralmuddystream.hp.infoseek.co.jp/BOF/bga_wav.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794798458}
-{"url":"http://www002.upp.so-net.ne.jp/sd876e/music/lvgdmn_ogg.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794798458}
+{"url":"http://cerebralmuddystream.hp.infoseek.co.jp/BOF/","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448763}
+{"url":"http://cerebralmuddystream.hp.infoseek.co.jp/BOF/bga_wav.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448763}
+{"url":"http://www002.upp.so-net.ne.jp/sd876e/music/lvgdmn_ogg.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448764}
 {"url":"http://uploader.bms.ms/data/bof2008/lvgdmn_ogg.rar","state":"archive","kind":"main","format":"rar","size":8282650,"charts":2,"title":"lvgdmn","at":1794798579}
 {"url":"http://uploader.bms.ms/data/bof2008/taidou_ogg.rar","state":"archive","kind":"main","format":"rar","size":53876939,"charts":4,"title":"胎動","at":1794798656}
 {"url":"http://uploader.bms.ms/data/bof2008/taidou_mq_wav.rar","state":"archive","kind":"main","format":"rar","size":55642527,"charts":4,"title":"胎動","at":1794798678}
-{"url":"http://www.geocities.jp/electronic_gravity/v2.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794798679}
-{"url":"http://www.fnbi.jp/tarolabo/fumenoMS.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794798679}
+{"url":"http://www.geocities.jp/electronic_gravity/v2.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448764}
+{"url":"http://www.fnbi.jp/tarolabo/fumenoMS.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448764}
 {"url":"http://sound.jp/brilliantharmony/habenariaDL.htm","state":"page","size":0,"charts":0,"at":1794798680}
 {"url":"http://uploader.bms.ms/data/bof2008/iv_estneki_am.zip","state":"archive","kind":"main","format":"zip","size":6914521,"charts":3,"title":"aquamarine (ANOTHER)","at":1794798697}
 {"url":"http://uploader.bms.ms/data/bof2008/iv_estneki_am_hq.zip","state":"archive","kind":"main","format":"zip","size":36593905,"charts":3,"title":"aquamarine (ANOTHER)","at":1794798719}
@@ -203,28 +203,28 @@
 {"url":"http://nekokan.dyndns.info/~gensoukyousoukyoku/2-LU-ivygreen.rar","state":"archive","kind":"main","format":"rar","size":8025997,"charts":1,"title":"ivygreen","at":1794798785}
 {"url":"http://uploader.bms.ms/data/bof2008/iv_snow_knows.zip","state":"archive","kind":"main","format":"zip","size":39264701,"charts":2,"title":"snow knows[7N]","at":1794798913}
 {"url":"http://nekokan.dyndns.info/uploader/iv_snow_knows.zip","state":"archive","kind":"main","format":"zip","size":39264701,"charts":2,"title":"snow knows[7N]","at":1794799013}
-{"url":"http://dabxrayyellow148.hp.infoseek.co.jp/iv_snow_knows-ogg.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794799013}
+{"url":"http://dabxrayyellow148.hp.infoseek.co.jp/iv_snow_knows-ogg.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448764}
 {"url":"http://nekokan.dyndns.info/~anonymous/bof2008/celas/crossthemind.rar","state":"archive","kind":"main","format":"rar","size":37768760,"charts":6,"title":"cross the mind [ANOTHER14]","at":1794799030}
 {"url":"http://nekokan.dyndns.info/~anonymous/bof2008/celas/crossthemind_ogg.rar","state":"archive","kind":"main","format":"rar","size":17587241,"charts":6,"title":"cross the mind [ANOTHER14]","at":1794799041}
 {"url":"http://nekokan.dyndns.info/~gensoukyousoukyoku/beer_for_bathing_MQ.rar","state":"archive","kind":"main","format":"rar","size":4397047,"charts":1,"title":"BEER? FOR BATHING!!","at":1794799046}
-{"url":"http://wonder.bms.ms/bof/vaginismus_LQ.rar","state":"error","size":0,"charts":0,"error":"HTTP 526","at":1794799046}
+{"url":"http://wonder.bms.ms/bof/vaginismus_LQ.rar","state":"error","size":0,"charts":0,"code":"status","error":"HTTP 526","at":1795448765}
 {"url":"http://uploader.bms.ms/data/bof2008/unknown_maria_wav.rar","state":"archive","kind":"main","format":"rar","size":8535077,"charts":1,"title":"Maria","at":1794799059}
 {"url":"http://uploader.bms.ms/data/bof2008/unknown_bones.rar","state":"archive","kind":"main","format":"rar","size":21188407,"charts":1,"title":"Bones","at":1794799114}
-{"url":"http://sasakure.bms.ms/bof2008/epitorica_mq.rar","state":"error","size":0,"charts":0,"error":"HTTP 526","at":1794799114}
-{"url":"http://cerebralmuddystream.hp.infoseek.co.jp/BOF/afex_wav.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794799115}
+{"url":"http://sasakure.bms.ms/bof2008/epitorica_mq.rar","state":"error","size":0,"charts":0,"code":"status","error":"HTTP 526","at":1795448765}
+{"url":"http://cerebralmuddystream.hp.infoseek.co.jp/BOF/afex_wav.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448765}
 {"url":"http://uploader.bms.ms/data/bof2008/GGN_Pietro_dawnorange.rar","state":"archive","kind":"main","format":"rar","size":11878861,"charts":1,"title":"dawn orange","at":1794799156}
 {"url":"http://uploader.bms.ms/data/bof2008/Emilio_Valentine_-_MAJESTY%20HQ%20WAV.rar","state":"archive","kind":"main","format":"rar","size":48613292,"charts":12,"title":"MAJESTY [14key NORMAL]","at":1794799158}
-{"url":"http://lambdakani.hp.infoseek.co.jp/","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794799158}
+{"url":"http://lambdakani.hp.infoseek.co.jp/","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448765}
 {"url":"http://loki-okiba.net/bms/sousyuu_bms.rar","state":"archive","kind":"main","format":"rar","size":17660972,"charts":1,"title":"ソウシュウ*ジュヴナイルハイパー[7KEYS]","at":1794799230}
 {"url":"http://loki-okiba.net/bms/sousyuu_bga_hq.rar","state":"archive","kind":"media","format":"rar","size":13139560,"charts":0,"at":1794799284}
-{"url":"http://mmo-cir.sakura.ne.jp/bms/Re_ByVal.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794799284}
-{"url":"http://mmo-cir.sakura.ne.jp/bms/Re_ByVal_noBGA.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794799284}
+{"url":"http://mmo-cir.sakura.ne.jp/bms/Re_ByVal.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448765}
+{"url":"http://mmo-cir.sakura.ne.jp/bms/Re_ByVal_noBGA.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448765}
 {"url":"http://uploader.bms.ms/data/bof2008/Vacant%20Between%20You%20and%20Me.rar","state":"archive","kind":"main","format":"rar","size":52488014,"charts":3,"title":"Vacant Between You and Me(ANOTHER)","at":1794799317}
 {"url":"http://uploader.bms.ms/data/bof2008/Zukunft_LQ.rar","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794799317}
 {"url":"http://uploader.bms.ms/data/bof2008/Zukunft_HQ.rar","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794799318}
 {"url":"http://www.nekomirin.com/bms/nekomirin_franchanmusic_HQogg.zip","state":"archive","kind":"main","format":"zip","size":26683943,"charts":6,"title":"フランちゃんの音楽教室 -BMS EDIT- [14key]","at":1794799325}
-{"url":"http://syzf.108shiki.com/bms/syzf-the_azure_box_wav+bmp.rar","state":"error","size":0,"charts":0,"error":"no data for 60 s","at":1794799385}
-{"url":"http://syzf.108shiki.com/bms/syzf-the_azure_box_ogg+png.rar","state":"error","size":0,"charts":0,"error":"no data for 60 s","at":1794799446}
+{"url":"http://syzf.108shiki.com/bms/syzf-the_azure_box_wav+bmp.rar","state":"error","size":0,"charts":0,"code":"other","error":"timeout: connect","at":1795448780}
+{"url":"http://syzf.108shiki.com/bms/syzf-the_azure_box_ogg+png.rar","state":"error","size":0,"charts":0,"code":"other","error":"timeout: connect","at":1795448795}
 {"url":"http://kaikou.nothing.sh/nobga.zip","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794799446}
 {"url":"http://uploader.bms.ms/data/bof2008/gsk_ogg.zip","state":"archive","kind":"main","format":"zip","size":20596988,"charts":2,"title":"hbsphc","at":1794799591}
 {"url":"http://uploader.bms.ms/data/bof2008/gsk_wav_custom.zip","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794799592}
@@ -232,11 +232,11 @@
 {"url":"http://uploader.bms.ms/data/bof2008/gsk_wav.rar","state":"archive","kind":"main","format":"rar","size":61714806,"charts":2,"title":"hbsphc","at":1794799618}
 {"url":"http://uploader.bms.ms/data/bof2008/decay_of_colors.rar","state":"archive","kind":"main","format":"rar","size":66033944,"charts":1,"title":"decay of colors","at":1794799725}
 {"url":"http://nekokan.dyndns.info/uploader/decay_of_colors.rar","state":"archive","kind":"main","format":"rar","size":66033944,"charts":1,"title":"decay of colors","at":1794799744}
-{"url":"http://muhn.jp/decay_of_colors.rar","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794799744}
+{"url":"http://muhn.jp/decay_of_colors.rar","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448795}
 {"url":"http://page.freett.com/mirrorspace/bof2008.htm","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794799745}
-{"url":"http://nekomimi.name/","state":"error","size":0,"charts":0,"error":"io: Peer disconnected","at":1794799745}
+{"url":"http://nekomimi.name/","state":"error","size":0,"charts":0,"code":"other","error":"io: Peer disconnected","at":1795448795}
 {"url":"http://uploader.bms.ms/data/bof2008/furikake.zip","state":"archive","kind":"main","format":"zip","size":25422835,"charts":1,"title":"おいしいふりかけ","at":1794799900}
-{"url":"http://mmo-cir.sakura.ne.jp/bms/onecdotal_chronicle.zip","state":"error","size":0,"charts":0,"error":"io: failed to lookup address information: Name or service not known","at":1794799900}
+{"url":"http://mmo-cir.sakura.ne.jp/bms/onecdotal_chronicle.zip","state":"error","size":0,"charts":0,"code":"other","error":"io: failed to lookup address information: Name or service not known","at":1795448795}
 {"url":"http://www.hirona.jp/y3k_3_ego_ogg.zip","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794799901}
 {"url":"http://uploader.bms.ms/data/bof2008/y3k/y3k_3_ego_hqwav.rar","state":"archive","kind":"main","format":"rar","size":27021328,"charts":1,"title":"ego","at":1794799913}
 {"url":"http://uploader.bms.ms/data/bof2008/y3k/egofix.zip","state":"gone","size":0,"charts":0,"error":"HTTP 404","at":1794799915}
