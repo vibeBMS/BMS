@@ -110,12 +110,13 @@
   "files": [],
   "links": [
    "https://drive.google.com/file/d/1Cn5ET2-37rCnJ24drihdHtvIWKSzqSQX/view?usp=sharing",
-   "https://drive.google.com/file/d/1Usxb__jyvjSwig0bBCRpQVO5KhNlW5tH/view?usp=sharing",
-   "https://drive.google.com/file/d/1q8WK0_4mCjVcKh1JmkgktT5T1B1-KCLr/view?usp=sharing",
    "https://drive.google.com/file/d/1WP1svfi-VyJL2yFTgwmKikbAcrZUva20/view?usp=sharing",
-   "https://drive.google.com/file/d/11iHaPmgqJ3cf7AMpnBCTb1SCKrv_a_JP/view?usp=sharing",
    "https://drive.google.com/file/d/1GIQN83ZYGQTU9q-A9nJ915W2lwXYr3WP/view?usp=sharing",
    "https://drive.google.com/file/d/1a95c1CJ-JN3vth_PGsVqBLUYUI8oT2Dv/view?usp=sharing"
+  ],
+  "addons": [
+   "https://drive.google.com/file/d/1Usxb__jyvjSwig0bBCRpQVO5KhNlW5tH/view?usp=sharing",
+   "https://drive.google.com/file/d/1q8WK0_4mCjVcKh1JmkgktT5T1B1-KCLr/view?usp=sharing"
   ]
  },
  {
@@ -153,8 +154,10 @@
   "files": [],
   "links": [
    "https://drive.google.com/file/d/1Q1bbQ4mD1o45YyfyIfnlqRU7QHCI2Oiz/view?usp=sharing",
-   "https://drive.google.com/file/d/1OsqEshbXj5Ov9wc41AeNdyLJ1SqyxDjW/view?usp=sharing",
    "https://drive.google.com/drive/folders/1tNcGBgSwyo_bskvIvcWgm9o-rA5JYJxK?usp=sharing"
+  ],
+  "addons": [
+   "https://drive.google.com/file/d/1OsqEshbXj5Ov9wc41AeNdyLJ1SqyxDjW/view?usp=sharing"
   ]
  },
  {
@@ -178,7 +181,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=147",
   "files": [],
   "links": [
-   "https://drive.google.com/file/d/1nIMb80U5twPbAYoGy5L4zAD0bnc94w7R/view?usp=sharing",
+   "https://drive.google.com/file/d/1nIMb80U5twPbAYoGy5L4zAD0bnc94w7R/view?usp=sharing"
+  ],
+  "addons": [
    "https://drive.google.com/file/d/1TG71bPvkdKKc6gCNdyAD7BQLKcEQzEFs/view?usp=sharing"
   ]
  },
@@ -255,9 +260,7 @@
   "files": [],
   "links": [
    "https://drive.google.com/file/d/1Gn8G0Tu8ZThVcdzVdBaaeL-lvVXb1DDm/view?usp=drive_link",
-   "https://drive.google.com/file/d/1PicrP1V-dsDU6dxS2qe9LpH_HDNnRbDL/view?usp=drive_link",
-   "https://drive.google.com/file/d/1AEM0_NspZIHv6wtrQl--jyys_FRRGrIG/view?usp=drive_link",
-   "https://drive.google.com/file/d/1i2PJ_YdhGTP6-ldNhcvqI8gUCgwaWTqe/view?usp=sharing"
+   "https://drive.google.com/file/d/1AEM0_NspZIHv6wtrQl--jyys_FRRGrIG/view?usp=drive_link"
   ]
  },
  {
@@ -368,9 +371,7 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=147",
   "files": [],
-  "links": [
-   "https://drive.google.com/file/d/1n1tjdh1eDLASSlTPKzernytoDV7lkDUF"
-  ]
+  "links": []
  },
  {
   "num": 30,
@@ -394,8 +395,7 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=147",
   "files": [],
   "links": [
-   "https://drive.google.com/file/d/12nfqEWre1gUsQSA06yp3qiw8PbzDQZ2-/view?usp=sharing",
-   "https://drive.google.com/file/d/1U9JyZpjHTx-FlZD6BFa3NfcQFwI37F8J/view?usp=sharing"
+   "https://drive.google.com/file/d/12nfqEWre1gUsQSA06yp3qiw8PbzDQZ2-/view?usp=sharing"
   ]
  },
  {
@@ -493,7 +493,8 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=147",
   "files": [],
-  "links": [
+  "links": [],
+  "addons": [
    "https://drive.google.com/file/d/1UIr_GvxwBMkXubekbHQEb-M9y7IEnSNn/view?usp=sharing"
   ]
  },
@@ -616,7 +617,8 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=147",
   "files": [],
-  "links": [
+  "links": [],
+  "addons": [
    "https://drive.google.com/file/d/1LlxhWlzKV78MEU-tiUksjwveHIDhqdPJ/view?usp=sharing"
   ]
  },
@@ -654,8 +656,8 @@
   "files": [],
   "links": [
    "https://www.dropbox.com/scl/fi/uvhk2p7onl6vrfyokost0/Azuu-sortie-ogg.zip?rlkey=p9docjk93nhzwc477r1mn4laa&st=m8ko67bb&dl=0",
-   "https://www.dropbox.com/scl/fi/4r2st6chxwz63eaiupprq/Sortie-insane.bms?rlkey=477jqgjfxzfokfrwzp9h9mq3c&st=qvex13yq&dl=0",
-   "https://www.dropbox.com/scl/fi/0bia52ba85kejvlhkaw9m/Azuu-sortie-wav.zip?rlkey=z359sqsyv7j5pm5vxr2oawwic&st=qgq7hbda&dl=0"
+   "https://www.dropbox.com/scl/fi/0bia52ba85kejvlhkaw9m/Azuu-sortie-wav.zip?rlkey=z359sqsyv7j5pm5vxr2oawwic&st=qgq7hbda&dl=0",
+   "https://www.dropbox.com/scl/fi/4r2st6chxwz63eaiupprq/Sortie-insane.bms?rlkey=477jqgjfxzfokfrwzp9h9mq3c&st=qvex13yq&dl=0"
   ]
  },
  {
@@ -755,7 +757,8 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=60&event=147",
   "files": [],
-  "links": [
+  "links": [],
+  "addons": [
    "https://drive.google.com/file/d/1o4kw-Y-rfL-1G4Ogf5e_wWHHq5mGDaUQ/view",
    "https://drive.google.com/file/d/1lFHU-IKBAxAjN0dk8owQvKZ7-SgCCnLp/view"
   ]
@@ -871,8 +874,8 @@
   "files": [],
   "links": [
    "https://www.dropbox.com/scl/fi/iylwblt7px148x81oupfy/AQ-CEL-STARRY-BERRY_ogg.zip?rlkey=kl0o20civmwfb65b1b1fi7mxb&st=nb8s9fki&dl=0",
-   "https://happydays465.net/game/bms/",
-   "https://www.dropbox.com/scl/fi/8a571870u4415yawigzas/AQ-CEL-STARRY-BERRY_wav.zip?rlkey=gpt6dr1iq84a5j01ayth5kmuk&st=ku2ab5hn&dl=0"
+   "https://www.dropbox.com/scl/fi/8a571870u4415yawigzas/AQ-CEL-STARRY-BERRY_wav.zip?rlkey=gpt6dr1iq84a5j01ayth5kmuk&st=ku2ab5hn&dl=0",
+   "https://happydays465.net/game/bms/"
   ]
  },
  {
@@ -884,7 +887,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=147",
   "files": [],
   "links": [
-   "https://drive.google.com/file/d/1Ro0FZk22QKXXp91m1Xy6EjQaMEE0zZxY/view?usp=sharing",
+   "https://drive.google.com/file/d/1Ro0FZk22QKXXp91m1Xy6EjQaMEE0zZxY/view?usp=sharing"
+  ],
+  "addons": [
    "https://drive.google.com/file/d/1It2ydMSQ6UBSWSViCiY2Z3a2c6_j75KF/view?usp=share_link"
   ]
  },
@@ -947,12 +952,13 @@
   "files": [],
   "links": [
    "https://drive.google.com/uc?export=download&id=1L8KIzBBGQ_dD6ZfzMvfGAUd3t7lVCK0_",
-   "https://drive.google.com/file/d/1NvzpwrZXPZOXAFDDZJfBlC-d3U3hIVtl/view?usp=drive_link",
-   "https://drive.google.com/uc?export=download&id=1sNJW8P088sVhs0MdaB-kb8CbXdYS56U8",
-   "https://drive.google.com/uc?export=download&id=1vmBBphspMRmWphp0N3_G0UZPy8QIdLdE",
    "https://drive.google.com/uc?export=download&id=1ScuolvY0PlsP4l1gQldp0WshnMRqD5iI",
    "https://drive.google.com/uc?export=download&id=1R7RId59i7gYaervhhpDJmeC35SPfXXVI",
    "https://drive.google.com/uc?export=download&id=1G3g6QOxoDJ_LEQtlT9GeqtoTiS9CnmJS"
+  ],
+  "addons": [
+   "https://drive.google.com/uc?export=download&id=1sNJW8P088sVhs0MdaB-kb8CbXdYS56U8",
+   "https://drive.google.com/uc?export=download&id=1vmBBphspMRmWphp0N3_G0UZPy8QIdLdE"
   ]
  },
  {
@@ -964,7 +970,9 @@
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=147",
   "files": [],
   "links": [
-   "https://drive.google.com/file/d/1z7yMGAlAaxlge3f_NE7ExpY6Gih0FTh9/view?usp=sharing",
+   "https://drive.google.com/file/d/1z7yMGAlAaxlge3f_NE7ExpY6Gih0FTh9/view?usp=sharing"
+  ],
+  "addons": [
    "https://drive.google.com/file/d/1VbHSQUaz_hbBy-EWRStun-Xzhrak1O8X/view?usp=drive_link"
   ]
  },
@@ -1006,10 +1014,12 @@
   "files": [],
   "links": [
    "https://drive.google.com/file/d/1JeYE0TKTxBPUSqm3kX5jSYkjZ4gRhmbq/view?usp=sharing",
-   "https://drive.google.com/file/d/1EGtkeyOi8BBZmPpPmESD87PZcPkUVbuF/view?usp=sharing",
    "https://drive.google.com/file/d/1jmnjVSlm58vxjRvW4wYxIYP5t-ULGzhB/view?usp=sharing",
-   "https://drive.google.com/file/d/1m7KD_dJLK3v64ChKkr46pif8xzNG7Skb/view?usp=sharing",
    "https://drive.google.com/file/d/1kd3afxB0erRe43E877M-7h43ymKOmyJQ/view?usp=sharing"
+  ],
+  "addons": [
+   "https://drive.google.com/file/d/1EGtkeyOi8BBZmPpPmESD87PZcPkUVbuF/view?usp=sharing",
+   "https://drive.google.com/file/d/1m7KD_dJLK3v64ChKkr46pif8xzNG7Skb/view?usp=sharing"
   ]
  },
  {
@@ -1033,8 +1043,6 @@
   "kind": "",
   "page": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=147",
   "files": [],
-  "links": [
-   "https://drive.google.com/drive/folders/1q9DAg4E2jJD86YKJAmK0DDPgbRyE-xq2?usp=drive_link"
-  ]
+  "links": []
  }
 ]
